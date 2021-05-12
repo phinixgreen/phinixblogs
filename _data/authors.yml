@@ -1,21 +1,21 @@
-ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
-  bio: The professional publishing platform
+mmmonowar:
+  username: mmmonowar
+  name: Muhammad Mustafa Monoowar
+  url_full: http://phinixgreen.github.io/profile/
+  url: phinixgreen.github.io/profile
+  bio: Lead writer in this platform
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
-  cover: False
-hannah:
-  username: hannah
-  name: Hannah Wolfe
-  location: London, UK
-  url_full: http://hannah.wf/
-  url: hannah.wf
-  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
-  picture: assets/images/hannah.jpg
   facebook: False
-  twitter: erisds
-  cover: assets/images/hannah-cover.jpg
+  twitter: mmmonowar
+  cover: False
+##hannah:
+##  username: hannah
+##  name: Hannah Wolfe
+##  location: London, UK
+##  url_full: http://hannah.wf/
+##  url: hannah.wf
+##  bio: Hannah is the co-founder and lead developer at Ghost. She spends her days looking after Ghost's developer community, tracking down bugs & ensuring Ghost(Pro) is a happy place.
+##  picture: assets/images/hannah.jpg
+##  facebook: False
+##  twitter: erisds
+##  cover: assets/images/hannah-cover.jpg
