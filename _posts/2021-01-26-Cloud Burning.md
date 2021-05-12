@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/fauxelspexels.jpg
+cover: assets/images/sky.jpg
 navigation: True
 title: Cloud Burning
 date: 2021-01-26 04:45:01
