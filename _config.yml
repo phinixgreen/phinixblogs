@@ -12,9 +12,9 @@ baseurl: /blog/
 title: PhinixBlogs
 description: Blog by Phinixgreen
 cover: assets/images/blog-cover.jpg
-logo: assets/images/wallwinterd.svg
-logo_dark: assets/images/wallwinterd.svg
-favicon: assets/images/wallwinter.svg
+logo: assets/images/wallwinterw.png
+logo_dark: assets/images/wallwinterw.png
+favicon: assets/images/wallwinterw.png
 CNAME: #add cname for website to be created
 
 # Social info
