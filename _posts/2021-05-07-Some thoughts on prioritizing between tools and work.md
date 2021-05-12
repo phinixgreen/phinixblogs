@@ -30,6 +30,7 @@ Automation is not everything. Imagine if robots did all your work. I don't know 
 
 ---
 
-Authored by Muhammad Mustafa Monowar | Photo by Owen Michael Grech on Unsplash
+    Authored by Muhammad Mustafa Monowar 
+    Photo by Owen Michael Grech on Unsplash
 
 ---
