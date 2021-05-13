@@ -68,10 +68,10 @@ feed:
 safe: False
 lsi: False
 username: jekyller
-repo: phinixgreen
+repo: blog
 branch: master
 relative_source: ../blog/
-destination: ../blog/
+destination: ../blog-pages/
 production_url:  https://phinixgreen.github.io/blog/
 source_url:  https://github.com/phinixgreen/blog/
 
