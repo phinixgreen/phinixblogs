@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-This blog is a repository of works by Muhammad Mustafa Monowar (Phinixgreen)
+**PhinixBlogs** is a portfolio repository of works by Muhammad Mustafa Monowar (Phinixgreen)
 
 Here you will find collection of works by the author in the forms of:
 - Fiction
