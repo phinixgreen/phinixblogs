@@ -9,12 +9,12 @@ words_per_minute: 200
 baseurl: /blog/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: PhinixBlogs
+description: Blog by Phinixgreen
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+logo: assets/images/wallwinterw.png
+logo_dark: assets/images/wallwinterw.png
+favicon: assets/images/wallwinterw.png
 CNAME: #add cname for website to be created
 
 # Social info
@@ -67,7 +67,7 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: phinixgreen
+username: jekyller
 repo: blog
 branch: master
 relative_source: ../blog/
@@ -93,5 +93,8 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
+<<<<<<< HEAD
+=======
 
+>>>>>>> 80fc777fc06033d58629e44650f99c753ec99b76
 theme: jekyll-theme-cayman
