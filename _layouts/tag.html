@@ -19,11 +19,8 @@ logo: 'assets/images/wallwinterw.png'
         <div class="site-header-content">
             <h1 class="site-title">{{ page.tag | capitalizeall }}</h1>
             <h2 class="site-description">
-                {% if tag_description %}
-                    {{ tag_description }}
-                {% elsif page.tag %}
-    			    A collection of {{ paginator.total_posts }} posts
-                {% endif %}
+                {% page.tag %}
+    			    A collection of {{ paginator.total_posts }} posts 
             </h2>
         </div>
     </div>
