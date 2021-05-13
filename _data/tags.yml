@@ -1,16 +1,12 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+Poem:
+  name: Poem
+  description: Collection of Poems
+  cover: False
+Productivity:
+  name: Productivity
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
+Teamwork:
+  name: Teamwork
+  description: Getting the team together
   cover: False
