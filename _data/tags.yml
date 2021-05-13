@@ -1,12 +1,16 @@
-Poem:
-  name: Poem
-  description: Collection of Poems
-  cover: False
-Productivity:
-  name: Productivity
+speeches:
+  name: speeches
+  description: Some of the greatest words ever spoken.
+  cover: assets/images/speeches.jpg
+fiction:
+  name: fiction
   description: False
   cover: False
-Teamwork:
-  name: Teamwork
-  description: Getting the team together
+fables:
+  name: fables
+  description: A series of short stories that make you think.
+  cover: assets/images/fables.jpg
+getting-started:
+  name: getting-started
+  description: False
   cover: False
