@@ -93,8 +93,4 @@ exclude:
   - changelog.md
   - "*.Rmd"
   - .git*
-<<<<<<< HEAD
-=======
-
->>>>>>> 80fc777fc06033d58629e44650f99c753ec99b76
 theme: jekyll-theme-cayman
