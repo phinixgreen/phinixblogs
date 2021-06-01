@@ -29,7 +29,7 @@ Meanwhile, some organizations are indeed breaking through ERP implementation and
 Leadership is very important for enterprise wide decisions. The more recent generations of workers seem to get the concept better than those who are on the opposite side of the table. Without the support and foresight of the top-management, the right incentives, resources, planning and strategies, ERP systems often fail at the head start. To tackle these challenges, the top-management can team up with these newer generations of employees to make use of the best of both parties.
 
 
-^1: Read more here [Taking a Fresh Look at Enterprise Business Systems](https://itrevolution.com/taking-a-fresh-look-at-enterprise-business-systems/)
+^1: Read more in [Taking a Fresh Look at Enterprise Business Systems](https://itrevolution.com/taking-a-fresh-look-at-enterprise-business-systems/)
 
 --- 
 
