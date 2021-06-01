@@ -30,8 +30,8 @@ Leadership is very important for enterprise wide decisions. The more recent gene
 
 --- 
 
-Written by Muhammad Mustafa Monowar
+    Written by Muhammad Mustafa Monowar
 
-Photo by Shahadat Rahman on Unsplash
+    Photo by Shahadat Rahman on Unsplash
 
 ---
