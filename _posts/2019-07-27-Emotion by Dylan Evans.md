@@ -29,7 +29,7 @@ In summary, the argument that the author presents at the end of the book is that
 1. Emotion is vital to the survival of any half-intelligent species.
 2. If a Robot that has evolutionary programming and has an evolving body capable of becoming conscious, then left to their own devices these robots might at some point be capable of experiencing emotions.
 
-I agree with the author from a different viewpoint. Emotions are at the end of the day neuronal computations. If computations are the basis for all emotions in humans, then computers capable of performing computation at similar level of complexity should be capable of having emotion. To have that kind of complexity, the computers should have a physical structure that is capable of supporting computations at such complexity. If soemthing can achieve that level of complexity, then perhaps Robots would be capable of emotions as well.
+I agree with the author from a different viewpoint. Emotions are at the end of the day neuronal computations. If computations are the basis for all emotions in humans, then computers capable of performing computation at similar level of complexity should be capable of having emotion. To have that kind of complexity, the computers should have a physical structure that is capable of supporting computations at such complexity. If something can achieve that level of complexity, then perhaps Robots would be capable of emotions as well.
 
 Recommended for those who are into philosophical questions about consciousness and artificial intelligence.
 
