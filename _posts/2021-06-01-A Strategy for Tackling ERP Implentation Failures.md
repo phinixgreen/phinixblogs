@@ -22,14 +22,14 @@ Firstly, ERP might be seen as one of the many big systems. Big systems are usual
  
 Secondly, ERP is often aimed to break enterprise silos, and it seems it is not effective in accomplishing such feats. This is because silos in the first place resist the implementation of ERP. ERP teams face further resistance, and therefore inertia in maintaining ERP systems. Upgrading the ERP will mean they have to break through the inertia.
  
-Thirdly, the deadly combination of technological shortsightedness, "distorted incentive and highly insular career ladder"[^1] of those who control the ERP implementation, or have the power to allow ERP implementation to happen for the betterment of the Organization, create a hard-resistance environment for ERP teams to proceed through the implementation. Afterall, ERP teams look at the technical implementation mostly, and it is not possible to continue implementation without human-participations in it.
+Thirdly, the deadly combination of technological shortsightedness, "distorted incentive and highly insular career ladder" of those who control the ERP implementation, or have the power to allow ERP implementation to happen for the betterment of the Organization, create a hard-resistance environment for ERP teams to proceed through the implementation. Afterall, ERP teams look at the technical implementation mostly, and it is not possible to continue implementation without human-participations in it (1).
  
 Meanwhile, some organizations are indeed breaking through ERP implementation and upgradation inertia. A distinct characteristic of these organizations is that they see ERP as one of the many important systems in a complex app ecosystem architecture. They are embracing the concept utility ERP, which, I believe was inspired by Wardley Mappings in this [source](https://dzone.com/articles/assessing-legacy-erp-systems-with-wardley-maps). According to them, utilities are the backbone of any civic infrastructure, and these are handled in a highly structured and routine manner. Their proposed strategy, it seems, is to not mix Non-Production Line data with Production Line data. By not mixing these two types of data sources and processing systems, it paves way for a better Enterprise Resource Planning architecture for ERP and other types of Systems.
  
 Leadership is very important for enterprise wide decisions. The more recent generations of workers seem to get the concept better than those who are on the opposite side of the table. Without the support and foresight of the top-management, the right incentives, resources, planning and strategies, ERP systems often fail at the head start. To tackle these challenges, the top-management can team up with these newer generations of employees to make use of the best of both parties.
 
 
-[^1]: [Taking a Fresh Look at Enterprise Business Systems](https://itrevolution.com/taking-a-fresh-look-at-enterprise-business-systems/)
+^1: Read more here [Taking a Fresh Look at Enterprise Business Systems](https://itrevolution.com/taking-a-fresh-look-at-enterprise-business-systems/)
 
 --- 
 
