@@ -99,5 +99,3 @@ exclude:
   - "*.Rmd"
   - .git*
 theme: jekyll-theme-cayman
-gems:
-  - jekyll-feed
