@@ -45,7 +45,7 @@ plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed]
 
 feed:
-  path: atom.xml
+  path: feed.xml
   categories:
     - news
     - updates
