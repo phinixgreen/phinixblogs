@@ -36,7 +36,7 @@ disqus_shortname: jekyller # replace with your disqus username
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
 
 # Permalinks
-permalink: phinixblogs/:title
+permalink: /:title
 # permalink: /author/:author
 # permalink: /tag/:tag
 
@@ -79,13 +79,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: blog
+username: phinixgreen
+repo: phinixblogs
 branch: master
-relative_source: ../blog/
+relative_source: ../phinixblogs/
 destination: ../blog-pages/
-production_url:  https://phinixgreen.github.io/blog/
-source_url:  https://github.com/phinixgreen/blog/
+production_url:  https://phinixgreen.github.io/phinixblogs
+source_url:  https://github.com/phinixgreen/
 
 exclude:
   - assets/css
