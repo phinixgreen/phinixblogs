@@ -7,6 +7,9 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
+    <!-- RSS Settings -->
+    <link rel="alternate" type="application/atom+xml" title="News Feed" href="{{ site.url }}/site/feed.xml" />
+
     <!-- Base Meta -->
     {% include dynamic_title.html %}
     <title>{% if title %}{{ title }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
