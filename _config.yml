@@ -46,12 +46,16 @@ plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed]
 
 feed:
-  path: atom.xml
+  path: feed.xml
   categories:
     - news
     - updates
   posts_limit: 20
   tags: true
+  feed_items: 10
+  feed_update_period: daily
+  feed_update_frequency: 1
+
 
 # Additional settings available on the front-matter
 # Site logo in the index.html (as in demo.ghost.io)
