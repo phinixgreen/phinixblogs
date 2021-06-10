@@ -17,6 +17,8 @@ logo_dark: assets/images/wallwinterw.png
 favicon: assets/images/wallwinterw.png
 CNAME: #add cname for website to be created
 
+name: PhinixBlogs
+
 # Social info
 navigation: True # show the navbar links
 subscribers: True # you need to connect an external service for this to work,
