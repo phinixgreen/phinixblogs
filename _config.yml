@@ -46,7 +46,7 @@ plugins_dir: [_plugins]
 plugins: [jekyll-paginate, jekyll-feed]
 
 feed:
-  path: atm.xml
+  path: feed.rbloggers.xml
   categories:
     - news
     - updates
