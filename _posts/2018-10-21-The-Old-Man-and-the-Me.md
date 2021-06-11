@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/apostolos-vamvouras-PDg89076_Y0-unsplash.jpg
 navigation: True
 title: The Old Man and the Me
 date: 2018-10-25 10:18:00
@@ -210,3 +210,5 @@ I nodded. "I hope you find your home soon."
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Apostolos Vamvouras on Unsplash
