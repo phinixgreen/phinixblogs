@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/prateek-gautam-Qizi-z1AJno-unsplash.jpg
 navigation: True
 title: The Love Virus
 date: 2018-08-01 10:18:00
@@ -93,3 +93,5 @@ green ball of love, happiness, and everlasting peace.
 ---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Prateek Gautam on Unsplash

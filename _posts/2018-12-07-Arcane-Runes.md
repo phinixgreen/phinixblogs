@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/steven-erixon-1xZzYbasToM-unsplash.jpg
 navigation: True
 title: Arcane Runes
 date: 2018-12-07 10:18:00
@@ -96,3 +96,5 @@ Arcane Runes
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from Medium](https://medium.com) on June 11, 2021.
+
+Photo by Steven Erixon on Unsplash

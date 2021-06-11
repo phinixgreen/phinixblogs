@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: "Men without Women" by Haruki Murakami
+title: Men without Women by Haruki Murakami
 date: 2019-12-23 10:18:00
 tags: Book Review
 class: post-template

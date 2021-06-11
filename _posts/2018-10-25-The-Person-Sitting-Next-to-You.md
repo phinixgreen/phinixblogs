@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/anthony-tran-vXymirxr5ac-unsplash.jpg
 navigation: True
 title: The Person Sitting Next to You
 date: 2018-10-25 10:18:00
@@ -157,3 +157,5 @@ But the person sitting next to me doesn't know this.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Anthony Tran on Unsplash
