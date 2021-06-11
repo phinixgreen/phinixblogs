@@ -1,25 +1,15 @@
 ---
-title: 'Using Version Control, Markdown and LaTeX for Academic Writing'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Using Version Control, Markdown and LaTeX for Academic Writing {#using-version-control-markdown-and-latex-for-academic-writing .p-name}
-==============================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Introduction
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="0745"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Image
-Credit: PIXNIO](https://cdn-images-1.medium.com/max/800/1*87Ebp64EDweIN_6b7lftrQ.jpeg){.graf-image}
 
 ### Using Version Control, Markdown and LaTeX for Academic Writing {#ca53 .graf .graf--h3 .graf-after--figure .graf--title name="ca53"}
 

@@ -1,25 +1,15 @@
 ---
-title: Deep Waters
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Deep Waters {#deep-waters .p-name}
-===========
-
-::: {.section .p-summary data-field="subtitle"}
-"I wish I was special."
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="8147"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Source:
-Shutterstock](https://cdn-images-1.medium.com/max/800/1*Yc_zE8--Gv7HcW_fGbcmyA.jpeg){.graf-image}
 
 ### Deep Waters {#c6e0 .graf .graf--h3 .graf-after--figure .graf--title name="c6e0"}
 

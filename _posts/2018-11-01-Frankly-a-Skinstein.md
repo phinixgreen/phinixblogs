@@ -1,26 +1,15 @@
 ---
-title: 'Frankly, a Skinstein'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Frankly, a Skinstein {#frankly-a-skinstein .p-name}
-====================
-
-::: {.section .p-summary data-field="subtitle"}
-I don't like my skin. And even if you peeled the skin off, you wouldn't
-like them anyway. So how can I?
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="f6a5"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![**Artwork by Vincent van Gogh, *Sorrowing old man ("At Eternity's
-Gate")***](https://cdn-images-1.medium.com/max/800/1*7mYMJ5BTIyLR4WvAT2WFDg.jpeg){.graf-image}
 
 ### Frankly, a Skinstein {#2c97 .graf .graf--h3 .graf-after--figure .graf--title name="2c97"}
 

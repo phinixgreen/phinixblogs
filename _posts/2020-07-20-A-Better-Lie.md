@@ -1,26 +1,15 @@
 ---
-title: A Better Lie
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-A Better Lie {#a-better-lie .p-name}
-============
-
-::: {.section .p-summary data-field="subtitle"}
-These are the stories that no one will remember.
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="78dd"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Nighthawks by [Edward
-Hopper](https://artsandculture.google.com/entity/edward-hopper/m0hc3t?categoryId=artist){.markup--anchor
-.markup--figure-anchor} (1942)](https://cdn-images-1.medium.com/max/800/1*AhKgfhrJp7YeceoCCg2MEg.png){.graf-image}
 
 ### A Better Lie {#32ef .graf .graf--h3 .graf-after--figure .graf--title name="32ef"}
 

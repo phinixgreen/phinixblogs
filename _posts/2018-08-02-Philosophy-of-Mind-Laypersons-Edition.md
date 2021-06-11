@@ -1,23 +1,16 @@
 ---
-title: 'Philosophy of Mind (Laypersons'' Edition): Substance Dualism'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
 
-Philosophy of Mind (Laypersons' Edition): Substance Dualism {#philosophy-of-mind-laypersons-edition-substance-dualism .p-name}
-===========================================================
-
-::: {.section .p-summary data-field="subtitle"}
-\"What is Substance Dualism anyway?\"
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="b23c"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 ### Philosophy of Mind (Laypersons' Edition): Substance Dualism {#f93c .graf .graf--h3 .graf--leading .graf--title name="f93c"}
 
 `"What is Substance Dualism anyway?"`{.markup--code .markup--p-code}

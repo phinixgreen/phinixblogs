@@ -1,26 +1,15 @@
 ---
-title: 'Thoughts on Rokeya Sakhawat Hossain''s Sultana''s Dream'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream {#thoughts-on-rokeya-sakhawat-hossains-sultanas-dream .p-name}
-=====================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Rokeya Sakhawat Hossain's Sultana's Dream shows amazing imaginative
-fore-thinking and deserves applause for envisioning women's...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="0bf7"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Source:
-Internet](https://cdn-images-1.medium.com/max/800/1*zZdjhKtPeuKOwxOwLdwyDg.png){.graf-image}
 
 ### **Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream** {#dc16 .graf .graf--h3 .graf-after--figure .graf--title name="dc16"}
 

@@ -1,25 +1,16 @@
 ---
-title: 'Some thoughts on Dual-Use Neurotechnology'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
 
-Some thoughts on Dual-Use Neurotechnology {#some-thoughts-on-dual-use-neurotechnology .p-name}
-=========================================
-
-::: {.section .p-summary data-field="subtitle"}
-Brain-Computer Interface (BCI) is a growing field of study in
-Neuroscience. It also intersects with many Neuroethical issues. An
-emerging...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="8f63"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 ### **Some thoughts on Dual-Use Neurotechnology** {#b404 .graf .graf--h3 .graf--leading .graf--title name="b404"}
 
 Brain-Computer Interface (BCI) is a growing field of study in

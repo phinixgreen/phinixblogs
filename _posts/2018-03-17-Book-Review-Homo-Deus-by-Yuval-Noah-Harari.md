@@ -1,26 +1,15 @@
 ---
-title: 'Book Review: Homo Deus by Yuval Noah Harari'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Book Review: Homo Deus by Yuval Noah Harari {#book-review-homo-deus-by-yuval-noah-harari .p-name}
-===========================================
-
-::: {.section .p-summary data-field="subtitle"}
-Yuval Noah Harari's Homo Deus follows the line of his genius
-macro-historical argument on Human Civilization that he introduced in
-the...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="66dd"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![](https://cdn-images-1.medium.com/max/800/1*pAXuWK3zW72x3wTSY7WyMA@2x.jpeg){.graf-image}
 
 ### Book Review: Homo Deus by Yuval Noah Harari {#246c .graf .graf--h3 .graf-after--figure .graf--title name="246c"}
 

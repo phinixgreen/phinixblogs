@@ -1,26 +1,15 @@
 ---
-title: 'Book Review  ---  "Men without Women" by Haruki Murakami'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Book Review  ---  "Men without Women" by Haruki Murakami {#book-review-men-without-women-by-haruki-murakami .p-name}
-========================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Seven stories of love, loss, memories and haunting; Haruki Murakami's
-short stories provide yet another glimpse into his character crafting
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="9eab"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![*Men Without Women* by
-Haruki Murakami](https://cdn-images-1.medium.com/max/800/1*coSuvlzGcanpzhXRusNbzA.jpeg){.graf-image}
 
 ### Book Review --- "*Men without Women"* by Haruki Murakami {#e641 .graf .graf--h3 .graf-after--figure .graf--title name="e641"}
 

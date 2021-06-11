@@ -1,23 +1,17 @@
 ---
-title: An Artist Without A Trace
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
 
-An Artist Without A Trace {#an-artist-without-a-trace .p-name}
-=========================
 
-::: {.section .p-summary data-field="subtitle"}
-Dear Sherline,
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="9b4c"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 ### **An Artist Without A Trace** {#f38c .graf .graf--h3 .graf--leading .graf--title name="f38c"}
 
 ![Picture:

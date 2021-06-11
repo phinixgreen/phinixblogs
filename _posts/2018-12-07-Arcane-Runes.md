@@ -1,24 +1,17 @@
 ---
-title: Arcane Runes
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
 
-Arcane Runes {#arcane-runes .p-name}
-============
 
-::: {.section .p-summary data-field="subtitle"}
-Death is not your enemy. Neither your friend. Do not expect it. Do not
-flirt with it. Do not try running away from it. True Power comes...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="11ae"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 ### Arcane Runes {#2cd3 .graf .graf--h3 .graf--leading .graf--trailing .graf--title name="2cd3"}
 :::
 :::

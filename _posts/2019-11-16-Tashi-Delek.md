@@ -1,25 +1,15 @@
 ---
-title: Tashi Delek
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Tashi Delek {#tashi-delek .p-name}
-===========
-
-::: {.section .p-summary data-field="subtitle"}
-There was snow on the mountains, and the trees were green and humble.
-Tashi Delek, said the sky, and the eyes of the keen larks.
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="2b27"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![](https://cdn-images-1.medium.com/max/800/1*QDNIggvinQYvNnRpO4TJmA.png){.graf-image}
 
 ### Tashi Delek {#8e04 .graf .graf--h3 .graf-after--figure .graf--title name="8e04"}
 

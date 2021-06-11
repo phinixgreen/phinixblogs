@@ -1,24 +1,15 @@
 ---
-title: 'Social Learning: The Future of Education in Bangladesh'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Social Learning: The Future of Education in Bangladesh {#social-learning-the-future-of-education-in-bangladesh .p-name}
-======================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Muhammad Mustafa Monowar
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="ff81"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![](https://cdn-images-1.medium.com/max/800/1*FRGCE7i5Mpz4kL2spj4Yig@2x.jpeg){.graf-image}
 
 ### Social Learning: The Future of Education in Bangladesh {#5983 .graf .graf--h3 .graf-after--figure .graf--title name="5983"}
 

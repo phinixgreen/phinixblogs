@@ -1,27 +1,15 @@
 ---
-title: Nights in the Kimchi District
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Nights in the Kimchi District {#nights-in-the-kimchi-district .p-name}
-=============================
-
-::: {.section .p-summary data-field="subtitle"}
-"Nights? I guess they all tell a different story to everyone. What's
-yours?"
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="4a58"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![The Starry Night: [Vincent
-van Gogh](https://artsandculture.google.com/entity/vincent-van-gogh/m07_m2?categoryId=artist){.markup--anchor
-.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*T_Y2TgfiLxBAYAeUNwlg3Q.png){.graf-image}
 
 ### Nights in the Kimchi District {#6c16 .graf .graf--h3 .graf-after--figure .graf--title name="6c16"}
 

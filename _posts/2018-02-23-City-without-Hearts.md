@@ -1,26 +1,15 @@
 ---
-title: City without Hearts
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-City without Hearts {#city-without-hearts .p-name}
-===================
-
-::: {.section .p-summary data-field="subtitle"}
-The streets are deserted. A neat ray of sunlight made its way through
-the morning fog, and hovered over the city. Serenity enveloped the...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="f811"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Artwork: Anika
-Tahsin Prithila](https://cdn-images-1.medium.com/max/800/1*tD2DQ01Dh62Cij3BpmViRw.jpeg){.graf-image}
 
 ### City without Hearts {#eabe .graf .graf--h3 .graf-after--figure .graf--title name="eabe"}
 

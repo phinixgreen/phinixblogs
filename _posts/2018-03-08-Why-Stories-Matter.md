@@ -1,26 +1,15 @@
 ---
-title: Why Stories Matter
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Why Stories Matter {#why-stories-matter .p-name}
-==================
-
-::: {.section .p-summary data-field="subtitle"}
-Each of us are parts of a great epic. And it all began with our ability
-to question the things that we see, hear, feel or experience in...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="9a98"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Source:
-Internet](https://cdn-images-1.medium.com/max/800/1*tEuUgqSLZ-mZVEFi47h-BA.jpeg){.graf-image}
 
 ### **Why Stories Matter** {#4e67 .graf .graf--h3 .graf-after--figure .graf--title name="4e67"}
 

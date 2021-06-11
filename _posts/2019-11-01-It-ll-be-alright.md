@@ -1,26 +1,15 @@
 ---
-title: '"It''ll be alright"'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-"It'll be alright" {#itll-be-alright .p-name}
-==================
-
-::: {.section .p-summary data-field="subtitle"}
-Ridden by pressing anxiety, Marie lets herself down on the bed. "It'll
-be alright." She chanted. Of course, questions creep up after that...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="8f8b"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Anxiety, 1894 by
-Edvard Munch](https://cdn-images-1.medium.com/max/800/0*bcuOWLB7FZIMRrlE.jpg){.graf-image}
 
 ### "It'll be alright" {#19d7 .graf .graf--h3 .graf--startsWithDoubleQuote .graf-after--figure .graf--title name="19d7"}
 

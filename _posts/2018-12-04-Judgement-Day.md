@@ -1,26 +1,15 @@
 ---
-title: Judgement Day
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Judgement Day {#judgement-day .p-name}
-=============
-
-::: {.section .p-summary data-field="subtitle"}
-I sit by the window. Waiting. For her. It's raining outside. Portland
-has been flooded for like seven years. Makes you kinda wish you had...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="b1db"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Bonaventura Peeters --- The
-Great Flood](https://cdn-images-1.medium.com/max/800/1*KVbxJDdpwKdvSXAPG25olg.png){.graf-image}
 
 ### Judgement Day {#b5dd .graf .graf--h3 .graf-after--figure .graf--title name="b5dd"}
 

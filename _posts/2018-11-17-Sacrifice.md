@@ -1,25 +1,15 @@
 ---
-title: Sacrifice
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Sacrifice {#sacrifice .p-name}
-=========
-
-::: {.section .p-summary data-field="subtitle"}
-A love story gone wrong
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="719d"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Artwork: Wheatfield with Crows Painting by Vincent
-van Gogh](https://cdn-images-1.medium.com/max/800/1*FecyxYDqGHANvEw-koScPA.jpeg){.graf-image}
 
 ### Sacrifice {#9089 .graf .graf--h3 .graf-after--figure .graf--title name="9089"}
 

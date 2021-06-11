@@ -1,26 +1,15 @@
 ---
-title: The Love Virus
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-The Love Virus {#the-love-virus .p-name}
-==============
-
-::: {.section .p-summary data-field="subtitle"}
-In the Autumn of '34, the Love Virus broke out. And it was absolutely
-devastating.
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="0e1c"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Picture: Welcome to Utopia by *Julia
-Di Sano*](https://cdn-images-1.medium.com/max/800/1*l1JAhwTXpO0BHOUVDqRlTg.jpeg){.graf-image}
 
 ### The Love Virus {#c9ab .graf .graf--h3 .graf-after--figure .graf--title name="c9ab"}
 

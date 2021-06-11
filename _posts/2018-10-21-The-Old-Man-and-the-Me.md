@@ -1,24 +1,15 @@
 ---
-title: The Old Man and the Me
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-The Old Man and the Me {#the-old-man-and-the-me .p-name}
-======================
-
-::: {.section .p-summary data-field="subtitle"}
-A surreal short story of the author reflecting on his sufferings
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="74c0"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-### The Old Man and the Me {#5f58 .graf .graf--h3 .graf--leading .graf--title name="5f58"}
 
 #### A surreal short story of the author reflecting on his sufferings {#91fd .graf .graf--h4 .graf-after--h3 .graf--subtitle name="91fd"}
 

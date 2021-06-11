@@ -1,26 +1,15 @@
 ---
-title: Coffeeshop
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Coffeeshop {#coffeeshop .p-name}
-==========
-
-::: {.section .p-summary data-field="subtitle"}
-He was starving. She was craving for a cup of coffee. They met in a
-shimmying alley of the Elephant Road. He wore glasses and worn out...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="774a"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Credit: Anika
-Tahsin Prithila](https://cdn-images-1.medium.com/max/800/1*MJZN4fFO6IKizCtRFsEVdQ.jpeg){.graf-image}
 
 ### Coffeeshop {#a5a5 .graf .graf--h3 .graf-after--figure .graf--title name="a5a5"}
 

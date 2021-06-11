@@ -1,26 +1,15 @@
 ---
-title: Neverland
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Neverland {#neverland .p-name}
-=========
-
-::: {.section .p-summary data-field="subtitle"}
-A young man's descent to truth and hell
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="0ed0"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![[Image:
-biancoblue](https://www.freepik.com/biancoblue){.markup--anchor
-.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*9em2AISsq_Y095JLzw_5KQ.jpeg){.graf-image}
 
 ### Neverland {#5320 .graf .graf--h3 .graf-after--figure .graf--title name="5320"}
 

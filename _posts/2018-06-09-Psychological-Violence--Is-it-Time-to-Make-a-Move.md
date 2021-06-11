@@ -1,28 +1,15 @@
 ---
-title: 'Psychological Violence: Is it Time to Make a Move?'
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Psychological Violence: Is it Time to Make a Move? {#psychological-violence-is-it-time-to-make-a-move .p-name}
-==================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Violence is a plague that has been haunting humanity ever since its
-existence. Acts of Violence happen every day, they are probably...
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="29f9"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![[Edvard
-Munch](https://en.wikipedia.org/wiki/Edvard_Munch){.markup--anchor
-.markup--figure-anchor}:
-The Scream](https://cdn-images-1.medium.com/max/800/1*ARenF590D0MZOYLR7btxrg.jpeg){.graf-image}
 
 ### Psychological Violence: Is it Time to Make a Move? {#e6f5 .graf .graf--h3 .graf-after--figure .graf--title name="e6f5"}
 

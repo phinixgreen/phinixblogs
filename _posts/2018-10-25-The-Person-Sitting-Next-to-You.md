@@ -1,26 +1,15 @@
 ---
-title: The Person Sitting Next to You
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-The Person Sitting Next to You {#the-person-sitting-next-to-you .p-name}
-==============================
-
-::: {.section .p-summary data-field="subtitle"}
-A surreal rant about loneliness
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="da5b"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Photo:
-[Serkan Göktay](https://www.pexels.com/@serkangoktay){.markup--anchor
-.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*zsNA_cE_TSr_JqECa90ggw.jpeg){.graf-image}
 
 ### The Person Sitting Next to You {#ccbd .graf .graf--h3 .graf-after--figure .graf--title name="ccbd"}
 

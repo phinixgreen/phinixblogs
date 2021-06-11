@@ -1,23 +1,17 @@
 ---
-title: The Disappearance of Chronoseum
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
 
-The Disappearance of Chronoseum {#the-disappearance-of-chronoseum .p-name}
-===============================
 
-::: {.section .p-summary data-field="subtitle"}
-More than just a riddle
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="ea19"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 ### The Disappearance of Chronoseum {#4922 .graf .graf--h3 .graf--leading .graf--title name="4922"}
 
 #### More than just a riddle {#b6a5 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="b6a5"}

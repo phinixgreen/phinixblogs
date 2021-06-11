@@ -1,30 +1,15 @@
 ---
-title: The World Needs You
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-The World Needs You {#the-world-needs-you .p-name}
-===================
-
-::: {.section .p-summary data-field="subtitle"}
-My pitch to you is simple. The world needs more people who think and
-care about others. It needs you.
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="29d2"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![[Jacques-Louis
-David](https://en.wikipedia.org/wiki/en:Jacques-Louis_David "w:en:Jacques-Louis David"){.markup--anchor
-.markup--figure-anchor} --- Own work, [Remi
-Jouan](https://commons.wikimedia.org/wiki/User:CaptainHaddock "User:CaptainHaddock"){.markup--anchor
-.markup--figure-anchor}, 2007--03. From
-Wikipedia.](https://cdn-images-1.medium.com/max/800/1*07J5m69jHvrhjcCI3XSD5Q.jpeg){.graf-image}
 
 ### The World Needs You {#252e .graf .graf--h3 .graf-after--figure .graf--title name="252e"}
 

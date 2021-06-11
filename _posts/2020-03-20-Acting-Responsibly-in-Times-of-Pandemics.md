@@ -1,25 +1,15 @@
 ---
-title: Acting Responsibly in Times of Pandemics
+layout: post
+current: post
+cover: assets/images/
+navigation: True
+title: 
+date: yyyy-mm-dd 10:18:00
+tags: 
+class: post-template
+subclass: 'post'
+author: mmmonowar
 ---
-
-Acting Responsibly in Times of Pandemics {#acting-responsibly-in-times-of-pandemics .p-name}
-========================================
-
-::: {.section .p-summary data-field="subtitle"}
-A short guide to measures in times of COVID-19
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first name="5492"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Source:
-Wikipedia](https://cdn-images-1.medium.com/max/800/1*dBnnbZDI7YKRKpRWfVt9kA.png){.graf-image}
 
 ### **Acting Responsibly in Times of Pandemics** {#ba1e .graf .graf--h3 .graf-after--figure .graf--title name="ba1e"}
 
