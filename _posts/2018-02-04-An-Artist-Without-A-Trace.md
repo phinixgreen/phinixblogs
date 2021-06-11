@@ -1,7 +1,9 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: ![Picture:
+[zenightwing](https://www.instagram.com/p/BdSxMl_ANuCcfwtU00B-3I2N7wBAwq8r3nSHTs0/?taken-by=zenightwing){.markup--anchor
+.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*fO33hfqq5PvEfzdidooyew.jpeg)
 navigation: True
 title: An Artist Without A Trace
 date: yyyy-mm-dd 10:18:00
@@ -12,9 +14,7 @@ author: mmmonowar
 ---
 
 
-![Picture:
-[zenightwing](https://www.instagram.com/p/BdSxMl_ANuCcfwtU00B-3I2N7wBAwq8r3nSHTs0/?taken-by=zenightwing){.markup--anchor
-.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*fO33hfqq5PvEfzdidooyew.jpeg){.graf-image}
+{.graf-image}
 
 Dear Sherline,
 
