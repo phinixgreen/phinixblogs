@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/paulo-silva-vSRgXtQuns8-unsplash.jpg
 navigation: True
 title: City without Hearts
 date: 2018-02-23 10:18:00
@@ -121,3 +121,5 @@ And I am here in this city of my own.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Paulo Silva on Unsplash
