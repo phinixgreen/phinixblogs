@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/maxime-guy-Uz7GscCK82Y-unsplash.jpg
 navigation: True
 title: Nights in the Kimchi District 
 date: 2020-03-14 10:18:00
@@ -142,3 +142,5 @@ send me post cards with the nightscape of Alberta on them.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Maxime Guy on Unsplash
