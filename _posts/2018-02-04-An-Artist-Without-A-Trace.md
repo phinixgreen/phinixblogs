@@ -13,9 +13,6 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-
-{.graf-image}
-
 Dear Sherline,
 
 First of all, Happy 17th. Don't be afraid, you know me well. You
@@ -49,15 +46,8 @@ artist without a trace.
 Love
 
 Sherline
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 4, 2018](https://medium.com/p/fdc3322a5e46).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/an-artist-without-a-trace-fdc3322a5e46){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
