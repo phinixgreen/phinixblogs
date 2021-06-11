@@ -1,0 +1,147 @@
+---
+title: Pisstink
+---
+
+Pisstink {#pisstink .p-name}
+========
+
+::: {.section .p-summary data-field="subtitle"}
+I woke up with Pisstink dawning on me.
+:::
+
+::: {.section .e-content data-field="body"}
+::: {.section .section .section--body .section--first .section--last name="d3b9"}
+::: {.section-divider}
+
+------------------------------------------------------------------------
+:::
+
+::: {.section-content}
+::: {.section-inner .sectionLayout--insetColumn}
+![Photo by [Arie
+Wubben](https://unsplash.com/@condorito1953?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){.markup--anchor
+.markup--figure-anchor}
+on [Unsplash](https://unsplash.com/s/photos/ugly-street?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){.markup--anchor
+.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*oBx7qyfCLnQsF3L9XqB1EQ.jpeg){.graf-image}
+
+### Pisstink {#e79b .graf .graf--h3 .graf-after--figure .graf--title name="e79b"}
+
+I woke up with Pisstink dawning on me.
+
+Do you ever have those days when a word gets stuck in your brain, and
+you keep hearing it, like a tape on play? I mean, I have it pretty
+often, and sometimes it gets really bad.
+
+I needed to take a piss. The hardest thing in the morning for me is to
+take a piss. Like flexing your self before a marathon.
+
+A sinister vibration tells me that I'm getting late for work. I hate it
+when it does that. I hate everything going on here. It bleeds me to be
+awake. Not that I'm a lazy fellow, but this pisstink is boring the hell
+out of me.
+
+Father used to say if you breathe well in the morning air, you add five
+years to your life. Oh boy, only if he knew that I live near a tannery.
+Perks of finding accommodation comes in many shapes, I guess.
+
+Pisstink tells me that I'm thinking about pissy things, that it could
+piss me off. But you see, that's the thing with me- when it gets stuck,
+it gets stuck and I see the world through it.
+
+My mind runs through the many faces I will have to face today. They say
+a new virus is in town, that it is going to kill us all. I wouldn't like
+to die myself, but if it could lay a few in this town, I wouldn't mind.
+
+I make breakfast with pisstink. It was nice and warm, the pisstink I
+mean, like a talkative lover keeping you company as you file through the
+dry breads.
+
+I wonder if pisstink knows that I am going to murder someone by the
+evening. Would it love me, if I did? What if it was pisstink that made
+me murder someone? That would be really awful too.
+
+The streets lay riddled with construction work. I make a half-slip and
+make it quick. Pisstink shouts on behalf of me. I thank it.
+
+At work, I fall sick. I guess it's not my day, but the thoughts of his
+death made me tumble in the heels. This is how you will kill someone,
+tells me pisstink.
+
+I look down through the window of my room. It was a valley of slum lying
+at the feet of mighty corporate hills. When these people die, no one
+will come to bury them.
+
+When we had power, we were different... There was no pisstink, to begin
+with.
+
+After the fall, I woke up and realised that I was a pisstink, living in
+pisstink. The air smelled like piss, the food tasted like piss, the
+people I hanged around pissed me off.
+
+But then, my job was to add value to products and sell it like a skilled
+capitalist. Not that I was good at it, but at least it bought me my
+breads.
+
+By the time I get out of work, the headache starts to piss me off. For
+heaven's sake, stop! Look, at the people, they are ugly and sweaty and
+dirty and what not. They are trapped in pisstink like you are. Whoever
+said they are here because they are in love, was lying, okay?
+
+I had to get home, before I drowned in my own pisstink. But where was
+home? Where was this place where I could fall asleep in a blink, and
+make love without thinking of death. It was the opposite here.
+
+By the end of the night I was supposed to murder someone, pisstink tells
+me. In this town, people go mad for no reason. It's worse than the virus
+if you tell me. But of course you won't hear me, except pisstink.
+Pisstink listens, and then regurgitates all of it on me.
+
+The evening was bathed in hotness. The billboards were alive with cheap
+ads- their sounds far from soothing. A kid comes to me, hands raised for
+alms.
+
+These fellows have lost it. In the city of the ailed, they were the
+dead. I watch a begging mother carry her baby with her, they both reeked
+of piss.
+
+I move on, but how could I move on, really? The world has more problems
+than the people in it. But really we make most of it. Pisstink was
+right, whatever he said, we must really learn to care for ourselves. I
+must learn to care for myself.
+
+And so, I get into a restaurant, I order a chicken sub and pineapple
+juice. Halfway through, I realize the sub was stale and had turned into
+a pisstink.
+
+The juice wasn't so bad, but I couldn't bear to stay there, lest it
+became pissy too. And I resumed the walk home.
+
+Like I was saying, this place pissed me off. Look there, two babies
+playing on a stalled truck. No one cared if they got killed over there
+by a speeding bus. These imps were smitten with dirt and had no idea
+they were in pisstink. Hah. We'll see.
+
+I passed my not-so-pissing drink to one of them kids. If he drinks it,
+he's a pisstink. The joke will be on him.
+
+I buy a pack of bread for breakfast. It's the same struggle, the same
+pisstink to deal with, just different days. The streets will be padded
+with people, still, given the virus doesn't start laying off, I'll have
+to deal with the same hypocrisy, making a face to meet the faces, to
+deliver the smiles at the doors of the chaos and pretend the world isn't
+ending.
+
+I get home. Putting down my bag, I remember that I had handed the pack
+of bread to an old man begging. You're not so bad, are you pisstink?
+:::
+:::
+:::
+:::
+
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
+.h-card} on [March 9, 2020](https://medium.com/p/aecfa3be0b33).
+
+[Canonical
+link](https://medium.com/@mmmonowar/pisstink-aecfa3be0b33){.p-canonical}
+
+Exported from [Medium](https://medium.com) on June 11, 2021.
