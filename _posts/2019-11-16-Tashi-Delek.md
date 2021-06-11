@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/raimond-klavins-RIv4CLslgx0-unsplash.jpg
 navigation: True
 title: Tashi Delek 
 date: 2019-11-16 10:18:00
@@ -102,3 +102,5 @@ The wings took off, and the Dzongs sped behind.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Raimond Klavins on Unsplash

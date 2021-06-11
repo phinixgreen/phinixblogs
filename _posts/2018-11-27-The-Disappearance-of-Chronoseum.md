@@ -15,9 +15,10 @@ More than just a riddle
 
 **The Disappearance of Chronoseum by zenightwing**\
 
-[Available to play online at zenightwing.itch.io](https://zenightwing.itch.io/the-disappearance-of-chronoseum "https://zenightwing.itch.io/the-disappearance-of-chronoseum
+[Available to play online at zenightwing.itch.io](https://zenightwing.itch.io/the-disappearance-of-chronoseum)
 
 ---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
