@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Deep Waters
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,9 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Deep Waters {#c6e0 .graf .graf--h3 .graf-after--figure .graf--title name="c6e0"}
-
-[["]{.graf-dropCapQuote}I]{.graf-dropCap} wish I was special."
+"I wish I was special."
 
 That was it. He spoke those words to me and plunged into the deep cold
 water.
@@ -132,18 +130,9 @@ myself from the other, bashed on the cabin door and ran through the
 corridor. I was running as fast as I could to reach the crate, all I
 could tell that when one of them had caught up, I plunged into the water
 over the railing without thinking.
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="e4ac"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 When I woke up, I was still feverish and weak. They had found me
 floating in the waters.
 
@@ -156,16 +145,10 @@ The doctor seemed perplexed. Should I be perplexed too?
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[MMM, 04--02--2020, Inside the cranium\]
-:::
-:::
-:::
-:::
+\[MMM, 04-02--2020, Inside the cranium\]
+
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 5, 2020](https://medium.com/p/875d6c5342ec).
-
-[Canonical
+.h-card} on [February 5, 2020](https://medium.com/p/875d6c5342ec).[Canonical
 link](https://medium.com/@mmmonowar/deep-waters-875d6c5342ec){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

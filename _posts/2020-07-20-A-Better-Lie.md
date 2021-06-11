@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: A Better Lie
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### A Better Lie {#32ef .graf .graf--h3 .graf-after--figure .graf--title name="32ef"}
 
 These are the stories that no one will remember.
 
@@ -142,15 +140,11 @@ We both looked at each other. In the shadow of the evening, she was the
 anomaly, the truth I hoping to find was long gone. I think I finally
 understood something. It was not really a pursuit of the truth. Just a
 better lie.
-:::
-:::
-:::
-:::
+
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [July 20, 2020](https://medium.com/p/194d74a2752d).
-
-[Canonical
+.h-card} on [July 20, 2020](https://medium.com/p/194d74a2752d).[Canonical
 link](https://medium.com/@mmmonowar/a-better-lie-194d74a2752d){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

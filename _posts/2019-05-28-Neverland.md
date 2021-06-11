@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Neverland
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### Neverland {#5320 .graf .graf--h3 .graf-after--figure .graf--title name="5320"}
 
 #### A young man's descent to truth and hell {#1fe4 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="1fe4"}
 

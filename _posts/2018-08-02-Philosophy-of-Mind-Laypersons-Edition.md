@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Philosophy of Mind (Laypersons' Edition)
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Philosophy of Mind (Laypersons' Edition): Substance Dualism {#f93c .graf .graf--h3 .graf--leading .graf--title name="f93c"}
+###  {#f93c .graf .graf--h3 .graf--leading .graf--title name="f93c"}
 
 `"What is Substance Dualism anyway?"`{.markup--code .markup--p-code}
 

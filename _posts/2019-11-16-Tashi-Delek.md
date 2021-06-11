@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Tashi Delek 
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Poem
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### Tashi Delek {#8e04 .graf .graf--h3 .graf-after--figure .graf--title name="8e04"}
 
 There was snow on the mountains, and the trees were green and humble.\
 Tashi Delek, said the sky, and the eyes of the keen larks.
@@ -37,18 +35,9 @@ You were a traveler and you were hungry, and so you were their guest.
 
 The rices mixed with cabbages and kewa datsi ends well with butter-milk
 feast.
-:::
-:::
-:::
 
-::: {.section .section .section--body name="abcb"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 Darkness melts down, a sun greeting, with warmth.\
 Jump into the taxi and ride along the driver.
 
@@ -65,18 +54,9 @@ The lucky charm bringer, the wooden masks and the little stone figures.\
 Remember who you were? Before finding yourself in the land of Dzongs?\
 Up the road to Dochala temple at the hill, the paddy fields sitting by
 the boulders?
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="c06a"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 The road riding mothers look, through you, their babies saddled in the
 back with woolen warmth,\
 who knew strangers with flashy hats and capes, seeking peace in land of
@@ -117,15 +97,10 @@ Perhaps there are things to be learnt from words said and not said.
 
 Tashi Delek, said the wake up call.\
 The wings took off, and the Dzongs sped behind.
-:::
-:::
-:::
-:::
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 16, 2019](https://medium.com/p/3eab521b8e4f).
-
-[Canonical
+.h-card} on [November 16, 2019](https://medium.com/p/3eab521b8e4f).[Canonical
 link](https://medium.com/@mmmonowar/tashi-delek-3eab521b8e4f){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: The Old Man and the Me
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template

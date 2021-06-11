@@ -3,16 +3,14 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: An Artist Without A Trace
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-
-### **An Artist Without A Trace** {#f38c .graf .graf--h3 .graf--leading .graf--title name="f38c"}
 
 ![Picture:
 [zenightwing](https://www.instagram.com/p/BdSxMl_ANuCcfwtU00B-3I2N7wBAwq8r3nSHTs0/?taken-by=zenightwing){.markup--anchor

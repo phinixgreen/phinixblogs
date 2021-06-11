@@ -3,15 +3,15 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: City without Hearts
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### City without Hearts {#eabe .graf .graf--h3 .graf-after--figure .graf--title name="eabe"}
+###  {#eabe .graf .graf--h3 .graf-after--figure .graf--title name="eabe"}
 
 [T]{.graf-dropCap}he streets are deserted. A neat ray of sunlight made
 its way through the morning fog, and hovered over the city. Serenity

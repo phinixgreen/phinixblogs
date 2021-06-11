@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: The Love Virus
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### The Love Virus {#c9ab .graf .graf--h3 .graf-after--figure .graf--title name="c9ab"}
+###  {#c9ab .graf .graf--h3 .graf-after--figure .graf--title name="c9ab"}
 
 [In]{.graf-dropCap} the Autumn of '34, the Love Virus broke out. And it
 was absolutely devastating.

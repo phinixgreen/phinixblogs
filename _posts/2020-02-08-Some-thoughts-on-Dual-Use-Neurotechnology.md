@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Some thoughts on Dual-Use Neurotechnology
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Contemporary
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### **Some thoughts on Dual-Use Neurotechnology** {#b404 .graf .graf--h3 .graf--leading .graf--title name="b404"}
 
 Brain-Computer Interface (BCI) is a growing field of study in
 Neuroscience. It also intersects with many Neuroethical issues. An
@@ -109,15 +107,10 @@ to monitor and regulate its dual uses.
     D.W., 2004. A brain--computer interface using electrocorticographic
     signals in humans. Journal of neural engineering, 1(2),
     p.63.]{#50db}
-:::
-:::
-:::
-:::
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 8, 2020](https://medium.com/p/810e1f17fd41).
-
-[Canonical
+.h-card} on [February 8, 2020](https://medium.com/p/810e1f17fd41).[Canonical
 link](https://medium.com/@mmmonowar/some-thoughts-on-dual-use-neurotechnology-810e1f17fd41){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

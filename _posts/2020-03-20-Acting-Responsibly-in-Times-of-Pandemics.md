@@ -3,19 +3,17 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Acting Responsibly in Times of Pandemics
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Contemporary
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### **Acting Responsibly in Times of Pandemics** {#ba1e .graf .graf--h3 .graf-after--figure .graf--title name="ba1e"}
-
 *A short guide to measures in times of COVID-19*
 
-[U]{.graf-dropCap}nderstanding the source and nature of threat in times
+Understanding the source and nature of threat in times
 of crisis is important for survival. Amidst misinformation and panic in
 social media, researchers and doctors are relentlessly collecting data
 to battle COVID-19 / Coronavirus / 2019-nCov. As lay persons, our duty
@@ -323,31 +321,16 @@ transmission. New shift work and rotation schedules seeking to decrease
 social density can minimise disease propagation. Telemedicine, video
 conferencing, telecommuting, and expanded leave policies may help staff
 adhere to social distancing policies."
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="775a"}
-::: {.section-divider}
 
 ------------------------------------------------------------------------
-:::
 
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 *Amidst misinformation, what matters is sharing the valuable
 information. This post was created from research articles written by
 researchers working at the frontline. Please share the post if you've
 found this helpful or insightful.*
-:::
-:::
-:::
-:::
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 20, 2020](https://medium.com/p/67c2cc5332c8).
-
-[Canonical
+.h-card} on [March 20, 2020](https://medium.com/p/67c2cc5332c8).[Canonical
 link](https://medium.com/@mmmonowar/acting-responsibly-in-times-of-pandemics-67c2cc5332c8){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

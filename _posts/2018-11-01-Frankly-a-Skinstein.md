@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Frankly, a Skinstein 
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Frankly, a Skinstein {#2c97 .graf .graf--h3 .graf-after--figure .graf--title name="2c97"}
+### {#2c97 .graf .graf--h3 .graf-after--figure .graf--title name="2c97"}
 
 I don't like my skin. And even if you peeled the skin off, you wouldn't
 like them anyway. So how can I?

@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Coffeeshop
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Coffeeshop {#a5a5 .graf .graf--h3 .graf-after--figure .graf--title name="a5a5"}
+###  {#a5a5 .graf .graf--h3 .graf-after--figure .graf--title name="a5a5"}
 
 [He]{.graf-dropCap} was starving. She was craving for a cup of coffee.
 They met in a shimmying alley of the Elephant Road. He wore glasses and

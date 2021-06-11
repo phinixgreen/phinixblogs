@@ -3,17 +3,15 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: It'll be alright
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### "It'll be alright" {#19d7 .graf .graf--h3 .graf--startsWithDoubleQuote .graf-after--figure .graf--title name="19d7"}
-
-[R]{.graf-dropCap}idden by pressing anxiety, Marie lets herself down on
+Ridden by pressing anxiety, Marie lets herself down on
 the bed.\
 "It'll be alright." She chanted.\
 Of course, questions creep up after that. Marie considered wondering why
@@ -53,15 +51,10 @@ Marie looked down and felt crazy to think that this is how she was going
 to end her life.\
  --- \
 At 8.49 AM Marie wakes up and realizes she's late for lab again.
-:::
-:::
-:::
-:::
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 1, 2019](https://medium.com/p/9e56528c521a).
-
-[Canonical
+.h-card} on [November 1, 2019](https://medium.com/p/9e56528c521a).[Canonical
 link](https://medium.com/@mmmonowar/itll-be-alright-9e56528c521a){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

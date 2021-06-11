@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Social Learning, The Future of Education in Bangladesh
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Social Learning: The Future of Education in Bangladesh {#5983 .graf .graf--h3 .graf-after--figure .graf--title name="5983"}
+###  {#5983 .graf .graf--h3 .graf-after--figure .graf--title name="5983"}
 
 #### Muhammad Mustafa Monowar {#eab3 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="eab3"}
 

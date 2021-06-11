@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: The Disappearance of Chronoseum
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -12,7 +12,7 @@ author: mmmonowar
 ---
 
 
-### The Disappearance of Chronoseum {#4922 .graf .graf--h3 .graf--leading .graf--title name="4922"}
+###  {#4922 .graf .graf--h3 .graf--leading .graf--title name="4922"}
 
 #### More than just a riddle {#b6a5 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="b6a5"}
 

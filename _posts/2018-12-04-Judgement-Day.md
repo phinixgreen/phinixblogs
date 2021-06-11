@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Judgement Day
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Judgement Day {#b5dd .graf .graf--h3 .graf-after--figure .graf--title name="b5dd"}
+###  {#b5dd .graf .graf--h3 .graf-after--figure .graf--title name="b5dd"}
 
 [I]{.graf-dropCap} sit by the window. Waiting. For her.\
 It's raining outside.\

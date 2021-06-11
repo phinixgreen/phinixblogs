@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Sacrifice
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Sacrifice {#9089 .graf .graf--h3 .graf-after--figure .graf--title name="9089"}
+###  {#9089 .graf .graf--h3 .graf-after--figure .graf--title name="9089"}
 
 #### A love story gone wrong {#8c27 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="8c27"}
 

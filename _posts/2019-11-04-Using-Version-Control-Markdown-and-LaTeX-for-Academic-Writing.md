@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Using Version Control, Markdown and LaTeX for Academic Writing
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Productivity
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### Using Version Control, Markdown and LaTeX for Academic Writing {#ca53 .graf .graf--h3 .graf-after--figure .graf--title name="ca53"}
 
 #### Introduction {#57a1 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="57a1"}
 
@@ -125,15 +123,10 @@ from {<https://kinsta.com/knowledgebase/what-is-github/>}, accessed
 Retrieved from
 {<https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html>},
 accessed 11--04--2019.
-:::
-:::
-:::
-:::
 
+---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 4, 2019](https://medium.com/p/4013b64de4a9).
-
-[Canonical
+.h-card} on [November 4, 2019](https://medium.com/p/4013b64de4a9).[Canonical
 link](https://medium.com/@mmmonowar/using-version-control-markdown-and-latex-for-academic-writing-4013b64de4a9){.p-canonical}
 
 Exported from [Medium](https://medium.com) on June 11, 2021.

@@ -3,15 +3,15 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Why Stories Matter
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Critique
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### **Why Stories Matter** {#4e67 .graf .graf--h3 .graf-after--figure .graf--title name="4e67"}
+### **** {#4e67 .graf .graf--h3 .graf-after--figure .graf--title name="4e67"}
 
 [E]{.graf-dropCap}ach of us are parts of a great epic. And it all began
 with our ability to question the things that we see, hear, feel or

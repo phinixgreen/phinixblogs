@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Psychological Violence, Is it Time to Make a Move?
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### Psychological Violence: Is it Time to Make a Move? {#e6f5 .graf .graf--h3 .graf-after--figure .graf--title name="e6f5"}
+###  {#e6f5 .graf .graf--h3 .graf-after--figure .graf--title name="e6f5"}
 
 [V]{.graf-dropCap}iolence is a plague that has been haunting humanity
 ever since its existence. Acts of Violence happen every day, they are

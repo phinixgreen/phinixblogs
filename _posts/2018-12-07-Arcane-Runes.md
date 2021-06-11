@@ -3,16 +3,16 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Arcane Runes
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Tenet
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
 
-### Arcane Runes {#2cd3 .graf .graf--h3 .graf--leading .graf--trailing .graf--title name="2cd3"}
+###  {#2cd3 .graf .graf--h3 .graf--leading .graf--trailing .graf--title name="2cd3"}
 :::
 :::
 :::

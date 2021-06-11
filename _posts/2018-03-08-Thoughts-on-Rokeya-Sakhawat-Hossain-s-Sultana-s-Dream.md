@@ -3,15 +3,15 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Book review
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### **Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream** {#dc16 .graf .graf--h3 .graf-after--figure .graf--title name="dc16"}
+### **** {#dc16 .graf .graf--h3 .graf-after--figure .graf--title name="dc16"}
 
 [R]{.graf-dropCap}okeya Sakhawat Hossain's *Sultana's Dream* shows
 amazing imaginative fore-thinking and deserves applause for envisioning

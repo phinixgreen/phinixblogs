@@ -3,19 +3,17 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
-date: yyyy-mm-dd 10:18:00
-tags: 
+title: The World Needs You
+date: 2021-03-05 10:18:00
+tags: Altruism
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### The World Needs You {#252e .graf .graf--h3 .graf-after--figure .graf--title name="252e"}
+My pitch to you is simple. The world needs more people who think and care about others. It needs you. 
 
-#### My pitch to you is simple. The world needs more people who think and care about others. It needs you. {#4032 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="4032"}
-
-[I]{.graf-dropCap} am writing this at a time when COVID-19 has induced a
+I am writing this at a time when COVID-19 has induced a
 massive worldwide shift in how we work, commute and live in general. In
 times like these, we tend to care for those who can represent
 themselves. Beneath the surface, however, the underprivileged face
@@ -115,30 +113,15 @@ zone.
 
 At the end of the day, you will not only help the world (one person at a
 time), but also yourself.
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="2bf2"}
-::: {.section-divider}
 
 ------------------------------------------------------------------------
-:::
 
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 If you have liked the core message of this blog post, please take some
 time to share this with someone who might be interested or inspired to
 take action. And as always, I sincerely thank you for being with me.
-:::
-:::
-:::
-:::
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 5, 2021](https://medium.com/p/ee03d90dcaf0).
-
-[Canonical
+.h-card} on [March 5, 2021](https://medium.com/p/ee03d90dcaf0).[Canonical
 link](https://medium.com/@mmmonowar/the-world-needs-you-ee03d90dcaf0){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.

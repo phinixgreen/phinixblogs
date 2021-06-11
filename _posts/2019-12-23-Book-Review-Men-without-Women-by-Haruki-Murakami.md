@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: "Men without Women" by Haruki Murakami
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Book Review
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### Book Review --- "*Men without Women"* by Haruki Murakami {#e641 .graf .graf--h3 .graf-after--figure .graf--title name="e641"}
 
 Seven stories of love, loss, memories and haunting; Haruki Murakami's
 short stories provide yet another glimpse into his character crafting
@@ -83,15 +81,11 @@ Murakami has been sober in his portrayal and writing, even so the
 protagonists do reflect the male perspective. As for cheating, sex,
 relationship, spirituality & loss, I wonder how characters written from
 a female perspective might look like.
-:::
-:::
-:::
-:::
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [December 23, 2019](https://medium.com/p/80a3141e2c7b).
-
-[Canonical
+.h-card} on [December 23, 2019](https://medium.com/p/80a3141e2c7b).[Canonical
 link](https://medium.com/@mmmonowar/book-review-men-without-women-by-haruki-murakami-80a3141e2c7b){.p-canonical}
 
 Exported from [Medium](https://medium.com) on June 11, 2021.

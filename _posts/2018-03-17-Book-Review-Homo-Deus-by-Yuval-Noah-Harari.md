@@ -3,15 +3,15 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Homo Deus by Yuval Noah Harari
 date: yyyy-mm-dd 10:18:00
-tags: 
+tags: Book Review
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### Book Review: Homo Deus by Yuval Noah Harari {#246c .graf .graf--h3 .graf-after--figure .graf--title name="246c"}
+### :  {#246c .graf .graf--h3 .graf-after--figure .graf--title name="246c"}
 
 Yuval Noah Harari's Homo Deus follows the line of his genius
 macro-historical argument on Human Civilization that he introduced in

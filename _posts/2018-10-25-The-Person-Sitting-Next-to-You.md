@@ -3,7 +3,7 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: The Person Sitting Next to You
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### The Person Sitting Next to You {#ccbd .graf .graf--h3 .graf-after--figure .graf--title name="ccbd"}
+###  {#ccbd .graf .graf--h3 .graf-after--figure .graf--title name="ccbd"}
 
 #### A surreal rant about loneliness {#2bcc .graf .graf--h4 .graf-after--h3 .graf--subtitle name="2bcc"}
 

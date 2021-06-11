@@ -3,15 +3,13 @@ layout: post
 current: post
 cover: assets/images/
 navigation: True
-title: 
+title: Nights in the Kimchi District 
 date: yyyy-mm-dd 10:18:00
 tags: 
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### Nights in the Kimchi District {#6c16 .graf .graf--h3 .graf-after--figure .graf--title name="6c16"}
 
 > "Nights? I guess they all tell a different story to everyone.
 > What's yours?"
@@ -139,15 +137,10 @@ getting dressed now in her fancy jeans and tops.
 
 Back at the station, I tell her goodbye, and she promises me that she'll
 send me post cards with the nightscape of Alberta on them.
-:::
-:::
-:::
-:::
+
+---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 14, 2020](https://medium.com/p/76c74cf93d7b).
-
-[Canonical
+.h-card} on [March 14, 2020](https://medium.com/p/76c74cf93d7b).[Canonical
 link](https://medium.com/@mmmonowar/nights-in-the-kimchi-district-76c74cf93d7b){.p-canonical}
-
 Exported from [Medium](https://medium.com) on June 11, 2021.
