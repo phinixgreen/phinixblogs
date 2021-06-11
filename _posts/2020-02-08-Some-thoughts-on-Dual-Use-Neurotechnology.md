@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/fakurian-design-58Z17lnVS4U-unsplash.jpg
 navigation: True
 title: Some thoughts on Dual-Use Neurotechnology
 date: 2020-02-08 10:18:00
@@ -112,3 +112,5 @@ to monitor and regulate its dual uses.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Fakurian Design on Unsplash
