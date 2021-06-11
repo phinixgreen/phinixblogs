@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/rok-zabukovec-9owS0OhYrZY-unsplash.jpg
 navigation: True
 title: Coffeeshop
 date: 2018-02-18 10:18:00
@@ -12,6 +12,7 @@ author: mmmonowar
 ---
 
 He was starving. She was craving for a cup of coffee.
+
 They met in a shimmying alley of the Elephant Road. He wore glasses and
 worn out jeans. She wore salwar and heels. They never knew each other.
 It was just another lazy winter afternoon, the sun hid behind towering
@@ -60,3 +61,5 @@ two strangers could have been together, remained horribly blank.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+Photo by Rok Zabukovec on Unsplash
+  
