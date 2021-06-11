@@ -1,37 +1,15 @@
 ---
 layout: post
 current: post
-cover: https://unsplash.com/@fairytailphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+cover: 
 navigation: True
 title: 'You Are Letting Social Media Destroy Your Life. Dont.'
-date: 2021-05-07 10:18:00
+date: 2021-03-18 10:18:00
 tags: productivity
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-You Are Letting Social Media Destroy Your Life. Don't. {#you-are-letting-social-media-destroy-your-life.-dont. .p-name}
-======================================================
-
-::: {.section .p-summary data-field="subtitle"}
-Seriously. Don't.
-:::
-
-::: {.section .e-content data-field="body"}
-::: {.section .section .section--body .section--first .section--last name="dbbf"}
-::: {.section-divider}
-
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-![Photo by [Sydney
-Sims](https://unsplash.com/@fairytailphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){.markup--anchor
-.markup--figure-anchor}
-on [Unsplash](/s/photos/depression?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText){.markup--anchor
-.markup--figure-anchor}](https://cdn-images-1.medium.com/max/800/1*aF5tw0xKJkk_rp7nKgujyA.jpeg){.graf-image}
 
 ### You Are Letting Social Media Destroy Your Life. Don't. {#8852 .graf .graf--h3 .graf-after--figure .graf--title name="8852"}
 
@@ -188,10 +166,8 @@ the present is where we can put effort to change things that matter.
 > your life. Time is precious, and so is your attention. Share it with
 > those who matter, not to things that do not give you anything more
 > than perpetual anxiety.
-:::
-:::
-:::
-:::
+
+
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
 .h-card} on [March 18, 2021](https://medium.com/p/2da730c5d736).
