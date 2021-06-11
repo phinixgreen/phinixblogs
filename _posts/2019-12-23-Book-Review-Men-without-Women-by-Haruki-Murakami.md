@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/claudia-soraya-3m15w5sirVs-unsplash.jpg
 navigation: True
 title: Men without Women by Haruki Murakami
 date: 2019-12-23 10:18:00
@@ -86,3 +86,5 @@ a female perspective might look like.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Claudia Soraya on Unsplash
