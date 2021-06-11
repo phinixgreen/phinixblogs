@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/doug-maloney-awxaj8YEwug-unsplash.jpg
 navigation: True
 title: Sacrifice
 date: 2018-11-17 10:18:00
@@ -115,3 +115,5 @@ bring her back to him...
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Doug Maloney on Unsplash

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/sultana-s-dream-8.jpg
 navigation: True
 title: Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream
 date: 2018-03-08 10:18:00
