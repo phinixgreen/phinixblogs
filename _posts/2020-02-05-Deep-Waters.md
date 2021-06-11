@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/ferhat-deniz-fors-B3ephDpm36g-unsplash.jpg
 navigation: True
 title: Deep Waters
 date: 2020-02-05 10:18:00
@@ -150,3 +150,5 @@ The doctor seemed perplexed. Should I be perplexed too?
 ---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Ferhat Deniz Fors on Unsplash
