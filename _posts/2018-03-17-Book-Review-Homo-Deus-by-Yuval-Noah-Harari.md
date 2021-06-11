@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/homo-deus.jpg
 navigation: True
 title: Homo Deus by Yuval Noah Harari
 date: 2018-03-17 10:18:00
