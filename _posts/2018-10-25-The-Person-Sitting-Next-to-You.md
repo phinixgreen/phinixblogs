@@ -5,7 +5,7 @@ cover: assets/images/
 navigation: True
 title: The Person Sitting Next to You
 date: 2018-10-25 10:18:00
-tags: fiction
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
@@ -63,7 +63,7 @@ tiring!" Meghan speaks to me.
 someplace where I won't be constantly reminded that I'm not like
 everyone else."
 
-"What do you think will happen once you're gone?"\
+"What do you think will happen once you're gone?"
 "Oh, the usual stuff. They'll fake some tears and say he was a good
 person. That I didn't have to do it. You know. Everyone will gather to
 pretend they've lost someone they don't even care about. Hypocrisy at
@@ -91,7 +91,7 @@ actress? What was her name? Marlen?"
 "It was pretty fun. Everyone wanted me. What I had. But I was sure no
 one really meant it."
 
-"Yeah, sucks doesn't it?"\
+"Yeah, sucks doesn't it?"
 "Yeah."
 
 "Is there anyone you liked being?"

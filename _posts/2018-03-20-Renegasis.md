@@ -5,7 +5,7 @@ cover: assets/images/martin-adams-1.jpeg
 navigation: True
 title: Renegasis
 date: 2018-03-20 07:24:00
-tags: fiction
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar

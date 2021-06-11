@@ -5,7 +5,7 @@ cover: assets/images/
 navigation: True
 title: Judgement Day
 date: 2018-12-04 10:18:00
-tags: fiction
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
