@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/joshua-fuller-_I5DYcYuo6c-unsplash.jpg
 navigation: True
 title: Frankly, a Skinstein 
 date: 2018-11-01 10:18:00
@@ -34,3 +34,5 @@ from being me.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Joshua Fuller on Unsplash

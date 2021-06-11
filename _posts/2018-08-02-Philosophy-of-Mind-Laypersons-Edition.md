@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/giammarco-zeH-ljawHtg-unsplash.jpg
 navigation: True
 title: Philosophy of Mind (Laypersons' Edition)
 date: 2018-08-02 10:18:00
@@ -13,9 +13,9 @@ author: mmmonowar
 
 `"What is Substance Dualism anyway?"`
 
-``` 
-Well, you'll need to understand two concepts to understand the answer to this question.
-```
+
+> Well, you'll need to understand two concepts to understand the answer to this question.
+
 
 1.  What is Substance?
 
@@ -23,9 +23,9 @@ And ...
 
 2.  What is Dualism?
 
-``` 
+ 
 The word Substance in general may mean the things that make up other things.
-```
+
 
 -   For example, we are made of Hydro-Carbons, a Carbon block is made
     of Carbon atoms, Carbon atoms are made of electrons, protons and
@@ -43,10 +43,10 @@ The word Substance in general may mean the things that make up other things.
     of complex Hydro-Carbons. These are also *physical
     substances*.
 
-``` 
+ 
 Dualism comes from the word Dual, which means two, 
 And the -ism means the belief that there are two kinds of things.
-```
+
 
 -   Some people believe that our **Brains** may be physical objects
     which we can touch or feel, but the **Mind** which is what you and I
@@ -133,3 +133,5 @@ Philosophers
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Giammarco on Unsplash
