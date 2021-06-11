@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/adam-niescioruk-Z9arfr0f248-unsplash.jpg
 navigation: True
 title: Acting Responsibly in Times of Pandemics
 date: 2020-03-20 10:18:00
@@ -187,3 +187,5 @@ Amidst misinformation, what matters is sharing the valuable information. This po
 ---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Adam Nieścioruk on Unsplash

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/christian-lue-2GVFma3wvDo-unsplash.jpg
 navigation: True
 title: A Better Lie
 date: 2020-07-20 10:18:00
@@ -146,3 +146,5 @@ better lie.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Christian Lue on Unsplash
