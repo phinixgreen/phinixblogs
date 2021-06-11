@@ -11,9 +11,9 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### You Are Letting Social Media Destroy Your Life. Don't. {#8852 .graf .graf--h3 .graf-after--figure .graf--title name="8852"}
+### You Are Letting Social Media Destroy Your Life. Don't. 
 
-[S]{.graf-dropCap}eriously. Don't.
+Seriously. Don't.
 
 The sites you visit are designed to extract information from you. They
 give you a false sense of socialization with minimally controlled
@@ -38,7 +38,7 @@ harmful. This post is not about which social media you should quit,
 rather a general guideline to help you be aware of what you have gotten
 yourself into.
 
-#### Knowing the Signs of Good Habits and Bad Habits {#17a1 .graf .graf--h4 .graf-after--p name="17a1"}
+#### Knowing the Signs of Good Habits and Bad Habits 
 
 Deciding what is good and what is bad can be quite hard in contemporary
 times. For the sake of understanding let us define **Good Habits** as
@@ -55,7 +55,7 @@ The good news is that, if you are willing to take measures to reduce
 your screen-time and improve the quality of your inner life, help is
 here.
 
-#### Some Helpful Techniques to Overcome Social Media Addiction {#fb76 .graf .graf--h4 .graf-after--p name="fb76"}
+#### Some Helpful Techniques to Overcome Social Media Addiction 
 
 There is a concept out there that our habits are activated by the way we
 interact with our environment. A person who eats a lot, usually has
@@ -86,7 +86,7 @@ scroll on and on.
 Hopefully, with a little awareness, you can change your habits slightly
 to battle this addiction. Here's what I did, and how it has helped me.
 
-#### Deleting Social Media Apps from Cell-Phone {#ab79 .graf .graf--h4 .graf-after--p name="ab79"}
+#### Deleting Social Media Apps from Cell-Phone 
 
 I think it is safe to announce that I don't have social media apps
 installed in my phone. By deleting these apps from my phone, I am making
@@ -97,7 +97,7 @@ end up re-installing the apps sometimes. But each time I delete those
 apps, I am also forcing myself to refrain from reinstalling the apps in
 my phone.
 
-#### Turn Off Notifications for the Messaging Apps {#d002 .graf .graf--h4 .graf-after--p name="d002"}
+#### Turn Off Notifications for the Messaging Apps 
 
 This is a game-changer. I still have some essential messaging apps
 installed. The reason for this is mostly because work and networking
@@ -111,7 +111,7 @@ by reducing the possibility to be disturbed by frequent untimely
 notifications. Having notifications turned off pays off very well when I
 go to sleep, or when I am with my family.
 
-#### Recognize that Social Media (and Your Device) is Basically a Marketing Technique {#b528 .graf .graf--h4 .graf-after--p name="b528"}
+#### Recognize that Social Media (and Your Device) is Basically a Marketing Technique 
 
 Social Media sites are designed in such a way, that they can make you
 behave in a predefined scenario (exactly the way designers would want
@@ -128,7 +128,7 @@ with them. What all these mean is that the design is effective when you
 engage with it constantly. By performing the call to action, you
 essentially let yourself fall into the trap of lead generation.
 
-#### Make Use of the Screen Time Monitoring {#7eaf .graf .graf--h4 .graf-after--p name="7eaf"}
+#### Make Use of the Screen Time Monitoring 
 
 I learned this from my partner, who regularly monitors her screen time.
 If your device has a screen time monitoring feature, do make use of it.
@@ -138,7 +138,7 @@ amount of time you spend on social media. Features like these remind you
 when you spend too much time in the wonderland, and effectively
 interrupting the continuous flow of doom scrolling.
 
-#### Keep the Phone Away {#77ee .graf .graf--h4 .graf-after--p name="77ee"}
+#### Keep the Phone Away 
 
 If you can, put your cell phone away when you don't really need it. If
 you keep a fidget spinner in your hand, you will surely be tempted to
@@ -147,7 +147,7 @@ tapping, invites you to engage with the lead generating traps. By
 putting your phone away, you let the process of accessing social media
 be a bit less easy for yourself.
 
-#### Last but not the Least: Smile and Focus on What Needs to be Done {#1031 .graf .graf--h4 .graf-after--p name="1031"}
+#### Last but not the Least: Smile and Focus on What Needs to be Done 
 
 Social media hardly gives you information that you need. Sometimes it
 does let you see what you want, but it is only a sign that the social
@@ -168,11 +168,9 @@ the present is where we can put effort to change things that matter.
 > than perpetual anxiety.
 
 
+---
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 18, 2021](https://medium.com/p/2da730c5d736).
+    By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar) on [March 18, 2021](https://medium.com/p/2da730c5d736).
+    Exported from [Medium](https://medium.com) on June 11, 2021.
 
-[Canonical
-link](https://medium.com/@mmmonowar/you-are-letting-social-media-destroy-your-life-dont-2da730c5d736){.p-canonical}
-
-Exported from [Medium](https://medium.com) on June 11, 2021.
+---
