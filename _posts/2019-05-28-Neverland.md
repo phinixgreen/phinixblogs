@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/pim-myten-m41k1lTzjVM-unsplash.jpg
 navigation: True
 title: Neverland
 date: 2019-05-28 10:18:00
@@ -547,3 +547,5 @@ Ghastly figures were now bent over me, chanting ---
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Pim Myten on Unsplash
