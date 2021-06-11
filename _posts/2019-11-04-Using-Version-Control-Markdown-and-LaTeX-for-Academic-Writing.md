@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/joshua-aragon-BMnhuwFYr7w-unsplash.jpg
 navigation: True
 title: Using Version Control, Markdown and LaTeX for Academic Writing
 date: 2019-11-04 10:18:00
@@ -125,3 +125,5 @@ accessed 11--04--2019.
 ---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Joshua Aragon on Unsplash

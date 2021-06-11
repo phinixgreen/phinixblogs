@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/stormseeker-rX12B5uX7QM-unsplash.jpg
 navigation: True
 title: It'll be alright
 date: 2019-11-01 10:18:00
@@ -70,3 +70,5 @@ At 8.49 AM Marie wakes up and realizes she's late for lab again.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Stormseeker on Unsplash
