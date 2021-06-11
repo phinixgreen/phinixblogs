@@ -4,16 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: Psychological Violence, Is it Time to Make a Move?
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-06-09 10:18:00
+tags: Comtemporary
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#e6f5 .graf .graf--h3 .graf-after--figure .graf--title name="e6f5"}
-
-[V]{.graf-dropCap}iolence is a plague that has been haunting humanity
+Violence is a plague that has been haunting humanity
 ever since its existence. Acts of Violence happen every day, they are
 probably happening right now, and very little has been achieved to
 resist the events of violence in our society. By violence here though, I
@@ -55,8 +53,8 @@ circumstances.
 Some have come up with the solution of social credit, where,
 psychological offenses would immediately result in low rating which will
 act as a punishment for the offender by barring them from general
-privileges and spaces. \
- \
+privileges and spaces. 
+ 
 At the moment, tracing virtual interaction remains the most effective
 way to identify the nature of psychological offenses. I hold the deep
 conviction that cyberbullying is not a resultant phenomenon of the
@@ -75,7 +73,7 @@ protects others from psychological offenses committed by the prior, it
 also denies them the opportunity to heal. It is thus a moral dilemma
 when providing a verdict on such cases.*
 
-#### Collective Psychological Offenses {#74ff .graf .graf--h4 .graf-after--p name="74ff"}
+#### Collective Psychological Offenses 
 
 Collective psychological offenses, which appears in many cases when
 masses incur psychological pressure towards certain individuals for
@@ -88,7 +86,7 @@ condemning or taking punitive actions of the mass offenders will lead to
 highly complex retaliations. Thus mass psychological offenses remain an
 unsolvable puzzle as much as public lynchings.
 
-#### From Solutions to More Problems {#5151 .graf .graf--h4 .graf-after--p name="5151"}
+#### From Solutions to More Problems 
 
 There have been many suggestions towards this kind of problems, from
 social surveillances to compartmentalizations of all individuals.
@@ -102,7 +100,7 @@ compartmentalization of all individuals of the society may lead to
 virtually no offenses, but in practice, they basically take away all the
 basic rights of free interaction among individuals.
 
-#### Is it Time to Make a Move? {#b8aa .graf .graf--h4 .graf-after--p name="b8aa"}
+#### Is it Time to Make a Move? 
 
 All these instances only imply that it is extremely challenging to
 tackle the problem of psychological violence, and shows why there is a
@@ -112,15 +110,8 @@ towards such problems. As a human collective, we have overcome many
 seemingly impossible challenges. It is now a matter of collective
 awareness and initiative to resist these manifestations of psychological
 violence.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [June 9, 2018](https://medium.com/p/ec06a1888b75).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/psychological-violence-is-it-time-to-make-a-move-ec06a1888b75){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

@@ -4,16 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: Coffeeshop
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-02-18 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#a5a5 .graf .graf--h3 .graf-after--figure .graf--title name="a5a5"}
-
-[He]{.graf-dropCap} was starving. She was craving for a cup of coffee.
+He was starving. She was craving for a cup of coffee.
 They met in a shimmying alley of the Elephant Road. He wore glasses and
 worn out jeans. She wore salwar and heels. They never knew each other.
 It was just another lazy winter afternoon, the sun hid behind towering
@@ -57,15 +55,8 @@ affordable and effortless. But of course strangers do not talk to each
 other anymore, and neither did they, he showed her a cafe with his
 rickety index finger. She went on her way, and a parallel universe where
 two strangers could have been together, remained horribly blank.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 18, 2018](https://medium.com/p/1a3e98ccf1bc).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/coffeeshop-1a3e98ccf1bc){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

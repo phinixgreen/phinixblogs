@@ -4,16 +4,12 @@ current: post
 cover: assets/images/
 navigation: True
 title: Social Learning, The Future of Education in Bangladesh
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-02-16 10:18:00
+tags: Education
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-###  {#5983 .graf .graf--h3 .graf-after--figure .graf--title name="5983"}
-
-#### Muhammad Mustafa Monowar {#eab3 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="eab3"}
 
 *As a student, what is that one thing you hated most?*
 
@@ -83,8 +79,7 @@ platforms. Why not build our own, catered to our own social environment?
 
 [**The self-paced, self-guided and self-funded education system could be
 the education of future
-Bangladesh.**](https://www.academia.edu/35821226/Project_Outline_Virtual_Credit_Based_Learning_System_for_Bangladesh?s=t){.markup--anchor
-.markup--p-anchor}
+Bangladesh.**](https://www.academia.edu/35821226/Project_Outline_Virtual_Credit_Based_Learning_System_for_Bangladesh?s=t)
 
 You don't need to sit for long three-hour exams to prove that you have
 memorized everything in the book. Instead you take small modules, which
@@ -130,28 +125,8 @@ of all these features I have suggested. This is a personal project,
 still in the phase of formulation. But anyone is welcome to come forward
 and join the march. Because an idea is more important than anything and
 this, I think, is an idea worth spreading.
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="7412"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-Note: Originally written for a TED Talk
-:::
-:::
-:::
-:::
-
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 16, 2018](https://medium.com/p/963a600f8958).
-
-[Canonical
-link](https://medium.com/@mmmonowar/social-learning-the-future-of-education-in-bangladesh-963a600f8958){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

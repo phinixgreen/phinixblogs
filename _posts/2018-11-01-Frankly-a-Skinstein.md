@@ -4,14 +4,12 @@ current: post
 cover: assets/images/
 navigation: True
 title: Frankly, a Skinstein 
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-11-01 10:18:00
+tags: poem
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### {#2c97 .graf .graf--h3 .graf-after--figure .graf--title name="2c97"}
 
 I don't like my skin. And even if you peeled the skin off, you wouldn't
 like them anyway. So how can I?
@@ -31,15 +29,8 @@ I don't like my skin. But my skin won't just leave me.
 No matter how much I scratch, and itch, and bash and stab it, it just
 won't go away from me. I cannot change who I am. And I cannot fly away
 from being me.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 1, 2018](https://medium.com/p/ad0cc31d087f).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/frankly-a-skinstein-ad0cc31d087f){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

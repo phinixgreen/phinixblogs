@@ -4,16 +4,15 @@ current: post
 cover: assets/images/
 navigation: True
 title: City without Hearts
-date: yyyy-mm-dd 10:18:00
+date: 2018-02-23 10:18:00
 tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#eabe .graf .graf--h3 .graf-after--figure .graf--title name="eabe"}
 
-[T]{.graf-dropCap}he streets are deserted. A neat ray of sunlight made
+The streets are deserted. A neat ray of sunlight made
 its way through the morning fog, and hovered over the city. Serenity
 enveloped the atmosphere like a thick blanket on the muzzle of a sniper
 rifle.
@@ -68,7 +67,7 @@ each other, busy with themselves.
 
 "Oh I see you're busy having lunch together. Bon appetit!"
 
-\*lousymotherfuckers\* I think to myself.
+"lousyshitheads" I think to myself.
 
 I sit at the corner and have my food. I steal glances to look at Rooney
 at the counter. She takes order from everyone with her disarming smile!
@@ -118,18 +117,7 @@ and enjoy the evening view. The sky is blueish orange now. The clouds
 have turned purple. The wind is gone and the larks are returning home.
 And I am here in this city of my own.
 
-\_\_\_\_\_\_
+---
 
-Repost
-:::
-:::
-:::
-:::
-
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 23, 2018](https://medium.com/p/f1e1203c6a65).
-
-[Canonical
-link](https://medium.com/@mmmonowar/city-without-hearts-f1e1203c6a65){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

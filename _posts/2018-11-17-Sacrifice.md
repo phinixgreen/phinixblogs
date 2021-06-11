@@ -4,18 +4,16 @@ current: post
 cover: assets/images/
 navigation: True
 title: Sacrifice
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-11-17 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#9089 .graf .graf--h3 .graf-after--figure .graf--title name="9089"}
+A love story gone wrong
 
-#### A love story gone wrong {#8c27 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="8c27"}
-
-[K]{.graf-dropCap}iara didn't know what to do with him. He had fallen
+Kiara didn't know what to do with him. He had fallen
 asleep on the sofa again where his obfuscated face lay hidden with signs
 of drooling all over the place.
 
@@ -112,15 +110,8 @@ some reason. And he believed in that love as toddlers did.
 
 So he kept chanting her name because he knew, sooner or later, it would
 bring her back to him...
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 17, 2018](https://medium.com/p/8bcc5b60a875).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/sacrifice-8bcc5b60a875){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

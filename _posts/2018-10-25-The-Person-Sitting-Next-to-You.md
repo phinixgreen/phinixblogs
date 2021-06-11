@@ -4,18 +4,17 @@ current: post
 cover: assets/images/
 navigation: True
 title: The Person Sitting Next to You
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-10-25 10:18:00
+tags: fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#ccbd .graf .graf--h3 .graf-after--figure .graf--title name="ccbd"}
+A surreal rant about loneliness 
 
-#### A surreal rant about loneliness {#2bcc .graf .graf--h4 .graf-after--h3 .graf--subtitle name="2bcc"}
 
-[I']{.graf-dropCap}m sitting in the park. There's someone sitting next
+I'm sitting in the park. There's someone sitting next
 to me. There is always someone sitting next to me. Old men in trainers,
 a Single mother with a baby carrier, hunky guy with his German Shepherd,
 some aged lady barely able to talk.
@@ -153,15 +152,8 @@ That's the thing about air. It has many forms --- it can be food, a nice
 smile, or a friend to hug you in terrible moments....
 
 But the person sitting next to me doesn't know this.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [October 25, 2018](https://medium.com/p/1097efd5b9bf).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/the-person-sitting-next-to-you-1097efd5b9bf){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

@@ -4,19 +4,18 @@ current: post
 cover: assets/images/
 navigation: True
 title: The Old Man and the Me
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-10-25 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-#### A surreal short story of the author reflecting on his sufferings {#91fd .graf .graf--h4 .graf-after--h3 .graf--subtitle name="91fd"}
+A surreal short story of the author reflecting on his sufferings 
 
-![Photo:
-Pixabay](https://cdn-images-1.medium.com/max/800/1*-chvs8L0QlcmP74aNoERuA.jpeg){.graf-image}
 
-[On]{.graf-dropCap} an early morning walk to the university square, I
+
+On an early morning walk to the university square, I
 realized that I had forgotten to bring my coat with me. The morning
 forecast said it would be terribly windy today.
 
@@ -192,18 +191,9 @@ always been a kid. It's just that, being a kid is not necessarily a bad
 thing. The apple of Eden was not worth having at all. Hahaha."
 
 I joined him in the laughter.
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="082f"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 At some point, the wind stopped. We realized that it was time to depart
 from each other. So that we could continue on our own paths. We shook
 hands because it would be awkward hugging yourself.
@@ -215,15 +205,8 @@ least you'll have something to tell your younger self."
 I nodded. "I hope you find your home soon."
 
 "I hope I do." He smiled.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [October 21, 2018](https://medium.com/p/554e0206236a).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/the-old-man-and-the-me-554e0206236a){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

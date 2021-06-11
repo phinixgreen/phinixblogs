@@ -4,16 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: Thoughts on Rokeya Sakhawat Hossain's Sultana's Dream
-date: yyyy-mm-dd 10:18:00
+date: 2018-03-08 10:18:00
 tags: Book review
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### **** {#dc16 .graf .graf--h3 .graf-after--figure .graf--title name="dc16"}
-
-[R]{.graf-dropCap}okeya Sakhawat Hossain's *Sultana's Dream* shows
+Rokeya Sakhawat Hossain's *Sultana's Dream* shows
 amazing imaginative fore-thinking and deserves applause for envisioning
 women's emancipation in the colonial India. Yet, as an inclusivist, I
 think there are some fundamental problematic logic lying underneath the
@@ -91,15 +89,8 @@ roles to both men and women are needed so that categorical imbalances in
 power relations are aligned and we see an inclusive society where
 individuals receive equal importance and opportunities in every sphere
 of life.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 8, 2018](https://medium.com/p/213f23648030).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/thoughts-on-rokeya-sakhawat-hossains-sultana-s-dream-213f23648030){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

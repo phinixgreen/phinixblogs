@@ -4,14 +4,12 @@ current: post
 cover: assets/images/
 navigation: True
 title: Homo Deus by Yuval Noah Harari
-date: yyyy-mm-dd 10:18:00
+date: 2018-03-17 10:18:00
 tags: Book Review
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
-
-### :  {#246c .graf .graf--h3 .graf-after--figure .graf--title name="246c"}
 
 Yuval Noah Harari's Homo Deus follows the line of his genius
 macro-historical argument on Human Civilization that he introduced in
@@ -38,7 +36,7 @@ satisfaction. And so, overcoming death and becoming capable of enjoying
 everlasting happiness and pleasure has emerged at the forefront of the
 human quest for transcendence.
 
-### Murky Path to Progress {#9010 .graf .graf--h3 .graf-after--p name="9010"}
+### Murky Path to Progress 
 
 Harari goes on to show that we are already accomplishing amazing feats
 using cutting edge technology. Machines do most of our work nowadays.
@@ -51,7 +49,7 @@ think we are to all other species in the planet? Harari says that we
 justify this denial by telling stories that glorify human existence over
 other life-forms.
 
-### Invisible Rulers {#c3e0 .graf .graf--h3 .graf-after--p name="c3e0"}
+### Invisible Rulers 
 
 Harari also argues that we were free until we started to settle as
 agricultural societies. Which I kind of agree. Everything that we do to
@@ -69,7 +67,7 @@ for each of us, and however oppressive or empowering, we are forced to
 follow them. In order to live in the society we need to believe in these
 stories or risk being outcasted.
 
-### Uncomfortable Futures {#23b0 .graf .graf--h3 .graf-after--p name="23b0"}
+### Uncomfortable Futures 
 
 In fact, we are already very uncomfortable with the destination towards
 which our civilization is progressing. Humans are becoming capable of
@@ -89,7 +87,7 @@ between the followers of scientific method and the religious dogma. Yet,
 the author also concludes that for the purpose of progress and unity,
 both science and religion needs each other.
 
-### The Fourth Revolution {#a143 .graf .graf--h3 .graf-after--p name="a143"}
+### The Fourth Revolution 
 
 All these elements, he spins them, and weaves them into his main
 argument --- in search of divine-like powers, we have ended up creating
@@ -111,21 +109,14 @@ choices. The one I liked translates- Given the choice between pointless
 survival and sentimental extinction, do we choose to merge with
 inorganic intelligence or perish as living conscious organisms?
 
-### Endnote {#77e3 .graf .graf--h3 .graf-after--p name="77e3"}
+### Endnote 
 
 All in all, the book pretty much sums up all you need to know about the
 contemporary state of world and a brief history of the future of
 humanity. There's a huge pile of reference at the end of the book, which
 I think many will be able to make use of for further studies.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 17, 2018](https://medium.com/p/cb462db26059).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/book-review-homo-deus-by-yuval-noah-harari-cb462db26059){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

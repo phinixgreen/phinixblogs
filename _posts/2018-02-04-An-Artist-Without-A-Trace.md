@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: https://www.instagram.com/p/BdSxMl_ANuCcfwtU00B-3I2N7wBAwq8r3nSHTs0/?taken-by=zenightwing
+cover: assets/images/
 navigation: True
 title: An Artist Without A Trace
 date: 2018-02-04 10:18:00

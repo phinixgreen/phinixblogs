@@ -4,16 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: The Love Virus
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-08-01 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#c9ab .graf .graf--h3 .graf-after--figure .graf--title name="c9ab"}
-
-[In]{.graf-dropCap} the Autumn of '34, the Love Virus broke out. And it
+In the Autumn of '34, the Love Virus broke out. And it
 was absolutely devastating.
 
 One the firsts infected, were a group of street goons, who were spotted
@@ -91,15 +89,7 @@ The Love Virus had spread everywhere, in every direction, infecting the
 hearts and turning living breathing monsters into horribly loving human
 beings. And that's how the whole planet had once again turned into a
 green ball of love, happiness, and everlasting peace.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [August 1, 2018](https://medium.com/p/cf09cbc6049e).
-
-[Canonical
-link](https://medium.com/@mmmonowar/the-love-virus-cf09cbc6049e){.p-canonical}
-
+---
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

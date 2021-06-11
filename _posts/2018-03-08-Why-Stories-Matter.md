@@ -4,16 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: Why Stories Matter
-date: yyyy-mm-dd 10:18:00
+date: 2018-03-08 10:18:00
 tags: Critique
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-### **** {#4e67 .graf .graf--h3 .graf-after--figure .graf--title name="4e67"}
-
-[E]{.graf-dropCap}ach of us are parts of a great epic. And it all began
+Each of us are parts of a great epic. And it all began
 with our ability to question the things that we see, hear, feel or
 experience in other forms. Who I am in this infinite universe full of
 elements that I can barely keep count of? Where is my place in this
@@ -80,15 +78,8 @@ Because strange enough, by the time a story takes its roots, the
 narrator doesn't remain important, what remains important is the story,
 the very gist of an imagined reality which has no existence in itself
 yet exists through those who believe in it, and act as it commands.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 8, 2018](https://medium.com/p/91677c6fe56a).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/why-stories-matter-91677c6fe56a){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
