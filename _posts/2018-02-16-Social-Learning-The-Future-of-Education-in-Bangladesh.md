@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/john-schnobrich-2FPjlAyMQTA-unsplash.jpg
 navigation: True
 title: Social Learning, The Future of Education in Bangladesh
 date: 2018-02-16 10:18:00
@@ -130,3 +130,6 @@ this, I think, is an idea worth spreading.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by John Schnobrich on Unsplash
+  
