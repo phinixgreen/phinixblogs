@@ -4,27 +4,25 @@ current: post
 cover: assets/images/
 navigation: True
 title: Judgement Day
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2018-12-04 10:18:00
+tags: fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-###  {#b5dd .graf .graf--h3 .graf-after--figure .graf--title name="b5dd"}
-
-[I]{.graf-dropCap} sit by the window. Waiting. For her.\
-It's raining outside.\
-Portland has been flooded for like seven years.\
-Makes you kinda wish you had time to build an ark.\
+I sit by the window. Waiting. For her.
+It's raining outside.
+Portland has been flooded for like seven years.
+Makes you kinda wish you had time to build an ark.
 But Noah had his blessings, while we burned down our own house, thinking
 it was a fun thing to do.
 
-> "We will fight terror." They said.\
-> "We will make our nation proud." They assured.\
+> "We will fight terror." They said.
+> "We will make our nation proud." They assured.
 > "We will bring justice." They had promised.
 
-Everyone knew they never meant any of that.\
+Everyone knew they never meant any of that.
 And neither did we want to acknowledge that we had limited rafts at our
 disposal.
 
@@ -65,7 +63,7 @@ Except, this time, with the planet altogether.
 
 I think of the whales. They kept bobbing up on the shores, full of
 plastics. I wonder if that was the beginning. I don't even know where
-the beginning was. But I do know that we're at the end. \
+the beginning was. But I do know that we're at the end. 
  At this point, it doesn't help anymore. Being angry at your ancestors I
 mean. For bringing you into it an already ruined world, totally
 unprepared and then leaving you without a clue as to what you should do.
@@ -91,15 +89,8 @@ rain, continuing day after day, the sky coated with tar blackness. I'll
 wait here recalling my warm moments with her. That's all I can do as the
 last representative of our species on an unfortunate planet that we used
 to call Mother Earth.
-:::
-:::
-:::
-:::
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [December 4, 2018](https://medium.com/p/df6a92847d45).
+---
 
-[Canonical
-link](https://medium.com/@mmmonowar/judgement-day-df6a92847d45){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

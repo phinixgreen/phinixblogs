@@ -4,8 +4,8 @@ current: post
 cover: assets/images/
 navigation: True
 title: Nights in the Kimchi District 
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2020-03-14 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
@@ -140,7 +140,5 @@ send me post cards with the nightscape of Alberta on them.
 
 ---
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 14, 2020](https://medium.com/p/76c74cf93d7b).[Canonical
-link](https://medium.com/@mmmonowar/nights-in-the-kimchi-district-76c74cf93d7b){.p-canonical}
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

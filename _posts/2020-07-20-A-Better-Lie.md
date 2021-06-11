@@ -4,7 +4,7 @@ current: post
 cover: assets/images/
 navigation: True
 title: A Better Lie
-date: yyyy-mm-dd 10:18:00
+date: 2020-07-20 10:18:00
 tags: Fiction
 class: post-template
 subclass: 'post'
@@ -144,7 +144,5 @@ better lie.
 
 ---
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [July 20, 2020](https://medium.com/p/194d74a2752d).[Canonical
-link](https://medium.com/@mmmonowar/a-better-lie-194d74a2752d){.p-canonical}
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

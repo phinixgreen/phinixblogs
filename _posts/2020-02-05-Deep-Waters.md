@@ -4,8 +4,8 @@ current: post
 cover: assets/images/
 navigation: True
 title: Deep Waters
-date: yyyy-mm-dd 10:18:00
-tags: 
+date: 2020-02-05 10:18:00
+tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
@@ -143,12 +143,10 @@ the doctor.
 
 The doctor seemed perplexed. Should I be perplexed too?
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-\[MMM, 04-02--2020, Inside the cranium\]
+---
+[MMM, 04-02--2020, Inside the cranium]
 
-
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 5, 2020](https://medium.com/p/875d6c5342ec).[Canonical
-link](https://medium.com/@mmmonowar/deep-waters-875d6c5342ec){.p-canonical}
+---
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

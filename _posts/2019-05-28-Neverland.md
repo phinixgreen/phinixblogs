@@ -4,18 +4,18 @@ current: post
 cover: assets/images/
 navigation: True
 title: Neverland
-date: yyyy-mm-dd 10:18:00
+date: 2019-05-28 10:18:00
 tags: Fiction
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-#### A young man's descent to truth and hell {#1fe4 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="1fe4"}
+A young man's descent to truth and hell 
 
 > I was looking for Eveline. I have always been.
 
-[I]{.graf-dropCap} stood in a square box-hall. A hanging glittering
+I stood in a square box-hall. A hanging glittering
 disco ball revolved overhead. The floor below my feet shook from the
 loud beats filling the hall. The call, it seemed, to join the crowd,
 already dancing in a crazy rhythm.
@@ -209,18 +209,9 @@ bucks for that. Been saving a lot for something special."
 Roxa winks at me.
 
 "Wanna see?"
-:::
-:::
-:::
 
-::: {.section .section .section--body name="70de"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 A few minutes later, in a small room behind the bar, Roxa pushes me
 against the wall. Fervently searching my body with her smooth long
 hands, and her fingers caressing me all over, I'd never been with
@@ -235,18 +226,9 @@ Is she a goddess?
 Isn't she a marvel?
 
 And so, my hunt for Eveline came to a pause.
-:::
-:::
-:::
 
-::: {.section .section .section--body name="3fb9"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 "You've never been with anyone before." Roxa smiled, slightly panting
 still.
 
@@ -306,18 +288,9 @@ Eveline is so ethereal, such a mystery she is..."
 "Can you hold my beer? I need to use the restrooms."
 
 "Sure"
-:::
-:::
-:::
 
-::: {.section .section .section--body name="79df"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 I watched Roxa walk away to the restroom. As she disappears behind the
 doors, I suddenly become aware of the people waiting by the doors. They
 all were wearing worn out bland dresses, their faces dirty, some were in
@@ -371,18 +344,9 @@ leave. At least not in the normal way. Maybe they were always carried
 out of it.
 
 And on that instance, I saw a swivel backdoor open up by the wall.
-:::
-:::
-:::
 
-::: {.section .section .section--body name="72a4"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
 A minute later, I was making my way through a piss-stinking corridor,
 rusty worn-out doors that led nowhere but to a graffiti of a mermaid
 dining with sharks on a landing wall. Beside it was a small backstage
@@ -577,27 +541,8 @@ Ghastly figures were now bent over me, chanting ---
 > You can check out any time you like,
 
 > But you can never leave!'"
-:::
-:::
-:::
 
-::: {.section .section .section--body .section--last name="4dfe"}
-::: {.section-divider}
+---
 
-------------------------------------------------------------------------
-:::
-
-::: {.section-content}
-::: {.section-inner .sectionLayout--insetColumn}
-:::
-:::
-:::
-:::
-
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [May 28, 2019](https://medium.com/p/2d3ee4b057e1).
-
-[Canonical
-link](https://medium.com/@mmmonowar/neverland-2d3ee4b057e1){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

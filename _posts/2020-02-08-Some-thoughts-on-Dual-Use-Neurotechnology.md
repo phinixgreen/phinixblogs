@@ -4,7 +4,7 @@ current: post
 cover: assets/images/
 navigation: True
 title: Some thoughts on Dual-Use Neurotechnology
-date: yyyy-mm-dd 10:18:00
+date: 2020-02-08 10:18:00
 tags: Contemporary
 class: post-template
 subclass: 'post'
@@ -72,13 +72,13 @@ Physical Integrity. They also urge that developing codes of ethical
 conduct will maximise benefits of military neuroscience and the harms of
 civilian use cases. In particular -
 
-1\. Clinical Trials should be preceded by safety and effectiveness
+1. Clinical Trials should be preceded by safety and effectiveness
 
-2\. Treatment resistant conditions should be prioritised
+2. Treatment resistant conditions should be prioritised
 
-3\. Unintended collateral damage to brain functions should be reduced
+3. Unintended collateral damage to brain functions should be reduced
 
-4\. IRB approval and informed consent should be followed
+4. IRB approval and informed consent should be followed
 
 **Some Thoughts**
 
@@ -102,15 +102,13 @@ to monitor and regulate its dual uses.
 
 -   [Ienca, M., Jotterand, F. and Elger, B.S., 2018. From healthcare to
     warfare and reverse: How should we regulate dual-use
-    neurotechnology?. Neuron, 97(2), pp.269--274.]{#e610}
+    neurotechnology?. Neuron, 97(2), pp.269--274.]
 -   [Leuthardt, E.C., Schalk, G., Wolpaw, J.R., Ojemann, J.G. and Moran,
     D.W., 2004. A brain--computer interface using electrocorticographic
     signals in humans. Journal of neural engineering, 1(2),
-    p.63.]{#50db}
+    p.63.]
 
 ---
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [February 8, 2020](https://medium.com/p/810e1f17fd41).[Canonical
-link](https://medium.com/@mmmonowar/some-thoughts-on-dual-use-neurotechnology-810e1f17fd41){.p-canonical}
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

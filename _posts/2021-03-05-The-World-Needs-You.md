@@ -121,7 +121,6 @@ If you have liked the core message of this blog post, please take some
 time to share this with someone who might be interested or inspired to
 take action. And as always, I sincerely thank you for being with me.
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [March 5, 2021](https://medium.com/p/ee03d90dcaf0).[Canonical
-link](https://medium.com/@mmmonowar/the-world-needs-you-ee03d90dcaf0){.p-canonical}
+---
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.

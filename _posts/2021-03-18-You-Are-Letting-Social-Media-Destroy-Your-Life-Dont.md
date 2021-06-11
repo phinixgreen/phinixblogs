@@ -167,6 +167,7 @@ the present is where we can put effort to change things that matter.
 
 ---
 
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar) on [March 18, 2021](https://medium.com/p/2da730c5d736).
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
 Photo by Sydney Sims on Unsplash

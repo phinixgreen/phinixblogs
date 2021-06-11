@@ -4,14 +4,14 @@ current: post
 cover: assets/images/
 navigation: True
 title: Using Version Control, Markdown and LaTeX for Academic Writing
-date: yyyy-mm-dd 10:18:00
+date: 2019-11-04 10:18:00
 tags: Productivity
 class: post-template
 subclass: 'post'
 author: mmmonowar
 ---
 
-#### Introduction {#57a1 .graf .graf--h4 .graf-after--h3 .graf--subtitle name="57a1"}
+#### Introduction 
 
 Academic writing workflow is a very essential part of academic research.
 Having a feasible and sustainable writing system is a growing concern
@@ -58,7 +58,7 @@ final product of the draft for presentation and submission.
 **Atom** and **Overleaf** are two services that were used for this
 method.
 
-#### Methodology {#5cd6 .graf .graf--h4 .graf-after--p name="5cd6"}
+#### Methodology 
 
 The following methods were followed for setting up the system. First, a
 [GitHub](https://github.com/){.markup--anchor .markup--p-anchor}
@@ -84,7 +84,7 @@ corresponding parts of the Overleaf project. The Overleaf back end was
 scanned for citation linking and errors. Afterwards, the project was
 ready for compilation.
 
-#### Evaluation {#a83a .graf .graf--h4 .graf-after--p name="a83a"}
+#### Evaluation
 
 The method has several benefits. Markdown software are easy to set up
 and the protocol for markdown is same regardless of software. Version
@@ -97,7 +97,7 @@ described is manual, and might take a lot of effort to learn and deploy.
 It is therefore recommended to test several times before actually using
 for a project.
 
-#### Final thoughts {#a2df .graf .graf--h4 .graf-after--p name="a2df"}
+#### Final thoughts 
 
 A good drafting strategy can take away the burden of organizing new
 systems over and over again. The described system have been proven to be
@@ -105,11 +105,11 @@ feasible and sustainable to the author. GitHub, Markdown and LaTeX are
 often closely compatible. It may also be possible to automate this
 method further.
 
-#### Conflict of Interest {#d390 .graf .graf--h4 .graf-after--p name="d390"}
+#### Conflict of Interest 
 
 The author was not sponsored by any of the product or website mentioned.
 
-#### References {#94bf .graf .graf--h4 .graf-after--p name="94bf"}
+#### References 
 
 *Atlassian*. What is version control. Retrieved from
 {<https://www.atlassian.com/git/tutorials/what-is-version-control>},
@@ -125,8 +125,5 @@ Retrieved from
 accessed 11--04--2019.
 
 ---
-By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar){.p-author
-.h-card} on [November 4, 2019](https://medium.com/p/4013b64de4a9).[Canonical
-link](https://medium.com/@mmmonowar/using-version-control-markdown-and-latex-for-academic-writing-4013b64de4a9){.p-canonical}
-
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
