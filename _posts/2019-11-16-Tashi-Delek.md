@@ -5,7 +5,7 @@ cover: assets/images/
 navigation: True
 title: Tashi Delek 
 date: 2019-11-16 10:18:00
-tags: Poem
+tags: poem
 class: post-template
 subclass: 'post'
 author: mmmonowar
