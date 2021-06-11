@@ -11,6 +11,8 @@ subclass: 'post'
 author: mmmonowar
 ---
 
+Arcane Runes
+
 1.  Death is not your enemy. Neither your friend. Do not expect it. Do
     not flirt with it. Do not try running away from it. True Power comes
     from acceptance of Death. The courage to live comes to you only when

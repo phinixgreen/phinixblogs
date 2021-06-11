@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/kajetan-sumila-01.jpg
 navigation: True
 title: An Artist Without A Trace
 date: 2018-02-04 10:18:00
@@ -49,3 +49,5 @@ Sherline
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+Photo by Kajetan Sumila on Unsplash
+  

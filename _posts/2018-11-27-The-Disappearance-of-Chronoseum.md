@@ -14,10 +14,8 @@ author: mmmonowar
 More than just a riddle 
 
 **The Disappearance of Chronoseum by zenightwing**\
-*More than just a riddle. Available to play
-online*zenightwing.itch.io](https://zenightwing.itch.io/the-disappearance-of-chronoseum "https://zenightwing.itch.io/the-disappearance-of-chronoseum"){.markup--anchor
-.markup--mixtapeEmbed-anchor}[](https://zenightwing.itch.io/the-disappearance-of-chronoseum){.js-mixtapeImage
-.mixtapeImage .u-ignoreBlock}
+
+[Available to play online at zenightwing.itch.io](https://zenightwing.itch.io/the-disappearance-of-chronoseum "https://zenightwing.itch.io/the-disappearance-of-chronoseum
 
 ---
 

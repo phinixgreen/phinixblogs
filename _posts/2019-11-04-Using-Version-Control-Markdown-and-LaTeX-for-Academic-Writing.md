@@ -11,8 +11,6 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-#### Introduction 
-
 Academic writing workflow is a very essential part of academic research.
 Having a feasible and sustainable writing system is a growing concern
 for many academics. This post will describe a writing method that was
@@ -20,8 +18,9 @@ tested for writing a paper.
 
 The goal is to have a system that is feasible, sustainable over time and
 accessible from anywhere. Central to this mechanism is the philosophy of
-**Version Control**. According to
-[Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control){.markup--anchor
+**Version Control**. 
+
+According to [Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control){.markup--anchor
 .markup--p-anchor} -
 
 > "Version control systems are a category of software tools that help a
@@ -32,8 +31,7 @@ accessible from anywhere. Central to this mechanism is the philosophy of
 > while minimizing disruption to all team members."
 
 There are many tools which can be used for **Version Control**. GitHub
-is one prominent tool. According to
-[Kinsta](https://kinsta.com/knowledgebase/what-is-github/){.markup--anchor
+is one prominent tool. According to [Kinsta](https://kinsta.com/knowledgebase/what-is-github/){.markup--anchor
 .markup--p-anchor} -
 
 > "GitHub is a website and cloud-based service that helps \[...\] store
