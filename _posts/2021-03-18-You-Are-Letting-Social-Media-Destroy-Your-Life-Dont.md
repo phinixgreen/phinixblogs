@@ -11,8 +11,6 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-### You Are Letting Social Media Destroy Your Life. Don't. 
-
 Seriously. Don't.
 
 The sites you visit are designed to extract information from you. They
