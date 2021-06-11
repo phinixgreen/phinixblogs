@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/taylor-brandon-jYI7L4zLFkM-unsplash.jpg
 navigation: True
 title: The World Needs You
 date: 2021-03-05 10:18:00
@@ -124,3 +124,5 @@ take action. And as always, I sincerely thank you for being with me.
 ---
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Taylor Brandon on Unsplash
