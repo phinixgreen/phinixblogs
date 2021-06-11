@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: 
+cover: assets/images/sydneysims1.jpeg
 navigation: True
 title: 'You Are Letting Social Media Destroy Your Life. Dont.'
 date: 2021-03-18 10:18:00
@@ -167,10 +167,8 @@ the present is where we can put effort to change things that matter.
 > those who matter, not to things that do not give you anything more
 > than perpetual anxiety.
 
-
 ---
 
-    By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar) on [March 18, 2021](https://medium.com/p/2da730c5d736).
-    Exported from [Medium](https://medium.com) on June 11, 2021.
-
----
+By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar) on [March 18, 2021](https://medium.com/p/2da730c5d736).
+Exported from [Medium](https://medium.com) on June 11, 2021.
+Photo by Sydney Sims on Unsplash
