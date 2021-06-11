@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/duangphorn-wiriya-vGHcWpWRzLs-unsplash.jpg
 navigation: True
 title: The Disappearance of Chronoseum
 date: 2018-11-27 10:18:00
@@ -22,3 +22,4 @@ More than just a riddle
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
 
+Photo by Duangphorn Wiriya on Unsplash

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/andrik-langfield-sO6yji4O_FI-unsplash.jpg
 navigation: True
 title: Judgement Day
 date: 2018-12-04 10:18:00
@@ -94,3 +94,5 @@ to call Mother Earth.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Andrik Langfield on Unsplash
