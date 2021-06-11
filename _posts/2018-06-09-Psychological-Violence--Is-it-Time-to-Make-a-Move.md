@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/laura-adai-fVYCzZXJNWc-unsplash.jpg
 navigation: True
 title: Psychological Violence, Is it Time to Make a Move?
 date: 2018-06-09 10:18:00
@@ -115,3 +115,5 @@ violence.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by laura adai on Unsplash

@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/
+cover: assets/images/casey-horner-T2D8_FNO46s-unsplash.jpg
 navigation: True
 title: Why Stories Matter
 date: 2018-03-08 10:18:00
@@ -83,3 +83,5 @@ yet exists through those who believe in it, and act as it commands.
 
 By [Muhammad Mustafa Monowar](https://medium.com/@mmmonowar)
 Exported from [Medium](https://medium.com) on June 11, 2021.
+
+Photo by Casey Horner on Unsplash
