@@ -17,7 +17,7 @@ Most people who know or have heard the name of Einstein, hold him in great estee
 Mediocrity, Success and Greatness, these are abstract concepts. A common nature of abstract terms is that they are easy to understand, hard to define. We agree which is what, but we cannot explain why things are so.
 
 
-Fortunately, Mediocrity, Success and Greatness all have characteristics that give off a signal on which is what. When asked to identify the wisdom of the crowd, we are quick to give a verdict on their mediocrity. Yet, when asked to point out a truly mediocre person, we are doomed to fail.
+Fortunately, Mediocrity, Success and Greatness all have characteristics that can be understood. When asked to identify the wisdom of the crowd, we are quick to give a verdict on their mediocrity. Yet, when asked to point out a truly mediocre person, we are doomed to fail.
 
 
 I see this as an interesting phenomenon. Mediocrity seems to be a collective attribute, and not an individual one. Commonplace behavior such as pouting when taking selfies, or spending time in social media, or binging on Netflix, engaging in small-talk, are some of the often cited mediocre behaviors. A behavior, therefore, seems to become mediocre when it is widely replicated.
