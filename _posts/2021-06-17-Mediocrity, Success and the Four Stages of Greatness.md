@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-Most people who know or have heard the name of Einstein hold him in great esteem, even though they have very little how deeply great his contributions were to humanity. That is the difference between Mediocrity and Greatness. Each is an entirely different world, and alien to the inhabitants of the other.    
+Most people who know or have heard the name of Einstein, hold him in great esteem, even though they have very little idea of how great his contributions were to humanity. That is the difference between Mediocrity and Greatness. Each is an entirely different world, and alien to the inhabitants of the other.    
 
 
 Mediocrity, Success and Greatness, these are abstract concepts. A common nature of abstract terms is that they are easy to understand, hard to define. We agree which is what, but we cannot explain why things are so.
