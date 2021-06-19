@@ -4,7 +4,7 @@ current: post
 cover: assets/images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg
 navigation: True
 title: On Gaining Better Organization Scalability through a Class-based and Team-First Approach
-date: 2021-06-19 09:12:00
+date: 2021-06-19 00:00:00
 tags: Team
 class: post-template
 subclass: 'post'
