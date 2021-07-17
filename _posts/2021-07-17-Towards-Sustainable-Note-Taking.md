@@ -4,7 +4,7 @@ current: post
 cover: assets/images/convertkit-RvPiAVE-zWo-unsplash.jpg
 navigation: True
 title: Towards Sustainable Note-Taking
-date: 2021-07-17 06:26:05
+date: 2021-07-17 00:00:00
 tags: Productivity
 class: post-template
 subclass: 'post'
