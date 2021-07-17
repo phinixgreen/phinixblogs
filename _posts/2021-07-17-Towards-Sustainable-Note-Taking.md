@@ -27,7 +27,7 @@ The first revolution in my thinking pattern started with Markdown. In an app cal
 
 ## Values and Challenges
 
-Unfortunately, not many proprietary softwares at the time didn't allow for plain-text note-taking. Those that did, required dedicated storage purchase. Even now, I am skeptical about keeping my files in Notion. There's a strange phenomenon called the *Shiny Object Syndrome* that leads individuals to using different apps at different times, shifting here and there, which obviously doesn't help if you're trying to build a sustainable knowledge-base.
+Unfortunately, not many proprietary softwares at the time allowed for plain-text note-taking. Those that did, required dedicated storage purchase. Even now, I am skeptical about keeping my files in Notion. There's a strange phenomenon called the *Shiny Object Syndrome* that leads individuals to using different apps at different times, shifting here and there, which obviously doesn't help if you're trying to build a sustainable knowledge-base.
 
 Now we have Obsidian, Roam Research, as well as OneNote and Evernote in new updates. Still, I have decided to rely on plain-text files.
 
@@ -43,7 +43,7 @@ Currently, I capture notes in Apple Notes, Physical Notebooks and Sublime Text d
 
 I have shared a tool based approach, but there are other meta-frameworks involved. Zettelkasten by Niklas Luhmann and PARA by Tiago Forte, helped me a lot to organize my notes, and I hope to write about them at a later time.
 
-I am sharing this with my fellow readers and knowledge-workers to inspire them to think about note-security and sustainability. We put a lot of effort, as researchers and free-thinkers, on the thought-works that we conceive. It's a shame when these notes gets corrupted, or lost due to lack of organization. Having a sustainable note-base can significantly boost your knowledge. Most of our works of knowledge, wisdom and data are scattered throughout social media. So why not own our own words and thoughts and keep them safe, organized and within our reach? 
+I am sharing this with my fellow readers and knowledge-workers to inspire them to think about note-security and sustainability. We put a lot of effort, as researchers and free-thinkers, on the thought-works that we conceive. It's a shame when these notes gets corrupted, or are lost due to lack of organization. Having a sustainable note-base can significantly boost your knowledge. Most of our works of knowledge, wisdom and data are scattered throughout social media. So why not own our own words and thoughts and keep them safe, organized and within our reach? 
 
 
 --- 
