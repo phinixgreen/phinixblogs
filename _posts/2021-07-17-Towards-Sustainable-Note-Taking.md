@@ -11,8 +11,6 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-# Towards Sustainable Note-Taking
-
 ## What I started with
 
 In 2016, I was a Masters Student at BRAC University, studying full-time, and yet faced a peculiar problem. I kept taking notes whenever I read a text, yet when needed, I had a hard time finding them. My notes were all over the place, and I did not know how to organize my notes, let alone effectively make use of the notes that I have taken so meticulously.
