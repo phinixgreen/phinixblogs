@@ -35,15 +35,15 @@ Symbolically, Knowledge Management is more like our mind and the Tool Stack is m
 
 One difficulty that can arise commonly, is that we easily get enamoured with an interface and start right away with a tool with no well defined purposes. However, as time grows, chaos starts to ensue because of the lack of preplanning. Another difficulty that can arise with the Tool Stack, is the *Paralysis by Analysis*- that is given too much of choice and information, we become confused as to what to choose for getting the work done. 
 
-# Consciously preparing for a tool stack for knowledge management
+# Consciously Preparing for a Tool Stack for Knowledge Management
 
 Consciously preparing for a Tool Stack for Knowledge Management, might not guarantee that the system will provide maximum productivity, but it can at least prepare you for some unforeseen circumstances.
 
 Here are two things to keep in mind when picking, choosing and architecting your Tool Stack for Knowledge Management.
 
-# Things to keep in mind
+# Things to Keep in Mind
 
-## Functions of the framework
+## Functions of the Framework
 
 Functions of the Framework that you are implementing is important to know because that is what you will be implementing. In the case of the *Seek, Sense, Share* framework by Harold Jarche, our primary functions are:
 
@@ -53,7 +53,7 @@ Functions of the Framework that you are implementing is important to know becaus
 
 3. Sharing Knowledge Artefacts: This could include writing a draft of a your own article, sharing with a friend, or publishing in social media.
 
-## Platforms where there functions will be implemented
+## Platforms where these Functions will be Implemented
 
 Now that we have our functions listed we can easily explore available tools to compare which tool is best fit for the functions. When judging the tools for use, you might benefit from keeping the usability, integration, affordability and sustainability of the tools in mind. 
 
@@ -73,21 +73,21 @@ Now, let's say I want to use a note-taking app for processing my Knowledge Artef
 
 ### Sustainability of the Platform
 
-Let's say I have all of my platforms figured out. I start my knowledge management journey. Things are going well, and I have almost five gigabytes of knowledge notes and pdfs stored in different systems. What could go wrong?
+Let's say I have all of my platforms figured out. I have started my knowledge management journey. Things are going well, and I have almost five gigabytes of knowledge notes and pdfs stored in different systems. What could go wrong?
 
-What if one of the apps that I use is discontinued. If it's discontinued, it will mean I'll probably have to relocate all my knowledge artefact storage and reintegrate them with the system. 
+What if one of the apps that I use is discontinued. If it's discontinued, it will probably mean I'll have to relocate all my knowledge artefact storage and reintegrate them with the system. 
 
 Let's even say, I don't trust softwares and I prefer keeping hard copy notes. Oneday, there is a rain overflow, and all my books and notebooks could get destroyed in the water-logging. 
 
 This is why platform and sustainability matters a lot.
 
-# The benefits of using a Tool Stack
+# The Benefits of Using a Tool Stack
 
-Rants apart, a Tool Stack has some of the best advantages than an all-in solution. Firstly, there is no All-in Solution yet, and for good reasons. If there is one, that would be cloud storage. Everything can be hosted in the cloud, and performance of cloud solutions are still better and secure than other alternatives. Secondly, a Tool Stack uses a distributed approach, which is why, even if it is needed to reconfigured it can be done easier than changing the whole system. You can even evolve the system slowly by *theseus shipping* your system. 
+Rants apart, a Tool Stack has some of the best advantages than an all-in solution. Firstly, there is no All-in Solution yet, and for good reasons. If there is one, that would be cloud storage. Everything can be hosted in the cloud, and performance of cloud solutions are still better and secure than other alternatives. Secondly, a Tool Stack uses a distributed approach, which is why, even if it is needed to be reconfigured it can be done easier than changing the whole system at once. You can even evolve the system slowly by *theseus shipping* your system. 
 
 # Outlook
 
-In this article, we looked at how and why you could choose a Tool Stack for knowledge management. I have only used a single instance of how to implement a Tool Stack, but the best thing is that you have all the freedom to get creative about architecting your own tool stack. I hope the information provided above will help you decide which tools you should pick for your toolstack so that you can manage your knowledge better.
+In this article, we have looked at how and why you could choose a Tool Stack for Knowledge Management. I have only used a few instances of how to implement a Tool Stack, but the best thing is that you have all the freedom to get creative about architecting your own tool stack. I hope the information provided above will help you decide which tools you should pick for your toolstack so that you can manage your knowledge better.
 
 --- 
 
