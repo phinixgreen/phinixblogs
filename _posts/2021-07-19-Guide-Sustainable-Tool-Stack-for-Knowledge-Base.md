@@ -63,11 +63,11 @@ I have given some examples below.
 
 Let’s say, I want to choose a search engine or even a browser for seeking knowledge sources. I have a wide range of options from Edge, Firefox, Chrome, Safari to many other browsers. As well as search engines like Google, Bing and Yahoo. Different search engines usually produce differently indexed sources of information. Different browsers allow different kinds of reading and artefact exporting experiences. A simple act of choosing a browser, and a search engine therefore plays a huge role in what information I see first and access with ease.
 
-### Integration of the platforms   
+### Integration of the Platforms   
 
 After usability, I might want to look at how the platform integrates with other platforms. For example, if I want to note information down from PDFs, then I will need at least a PDF reader, a Note-taking App, and a Note Storage App. How these three functions are best implemented depends on how well the platforms that I choose for implementing these functions separately integrate. Let's say, if I have an app that has a PDF reader with a Note Feature and Note Storage, I might not need three different apps at all because they are all integrated (given that the app is usable).
 
-### Affordability of the platforms
+### Affordability of the Platforms
 
 Now, let's say I want to use a note-taking app for processing my Knowledge Artefacts. I could go for paid Apple Store, or Play Store Apps such as GoodNotes, free options such as Google Keep, OneNote or Notion, or freemiums such as Evernote. Notice that all these options depend on the usability and integration as well. The affordability of the platform is also codependent on sustainability.
 
