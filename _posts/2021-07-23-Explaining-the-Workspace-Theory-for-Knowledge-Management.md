@@ -5,7 +5,7 @@ cover: blog/assets/images/qijin-xu-kLiUO2I8Ajc-unsplash.jpg
 navigation: True
 title: Explaining the Workspace Theory for Knowledge Management
 date: 2021-07-23 00:00:00
-tags: Knowledge-Management
+tags: Knowledge Management
 class: post-template
 subclass: 'post'
 author: mmmonowar
@@ -121,6 +121,7 @@ We might need to sort out how our mental and physical workspaces interact with o
 [^2]: [The Seek Sense Share Framework by Harold Jarche](https://jarche.com/2014/02/the-seek-sense-share-framework/)
 
 [^3]: Ahrens, Sönke, "How to Take Smart Notes: One Simple Technique  to Boost Writing, Learning and Thinking–for Students, Academics and Nonfiction Book Writers", 2017.
+
 
 --- 
 
