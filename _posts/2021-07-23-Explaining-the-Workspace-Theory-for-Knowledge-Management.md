@@ -94,7 +94,7 @@ I have tried to amalgamate the two frameworks along with systems and workspace t
 
 Below is a visualization of what I have come up with.
 
-![](~https://github.com/phinixgreen/phinixblogs/blob/100aa57a151719acf561b3f3694b1ef1a0f1587b/assets/images/puttingitalltogether.png)
+![](assets/images/puttingitalltogether.png)
 
 At the bottom-left most corner, we have input, Jarche might associate this with his seeking level where we look for filtering networks of people, and find artefacts that are worth going through.
 
