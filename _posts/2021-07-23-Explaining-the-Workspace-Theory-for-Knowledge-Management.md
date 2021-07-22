@@ -94,7 +94,7 @@ I have tried to amalgamate the two frameworks along with systems and workspace t
 
 Below is a visualization of what I have come up with.
 
-![Putting It All Together](~/assets/images/puttingitalltogether.png)
+![](~/assets/images/puttingitalltogether.png)
 
 At the bottom-left most corner, we have input, Jarche might associate this with his seeking level where we look for filtering networks of people, and find artefacts that are worth going through.
 
