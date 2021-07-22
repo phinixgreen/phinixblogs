@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: blog/assets/images/qijin-xu-kLiUO2I8Ajc-unsplash.jpg
+cover: assets/images/qijin-xu-kLiUO2I8Ajc-unsplash.jpg
 navigation: True
 title: Explaining the Workspace Theory for Knowledge Management
 date: 2021-07-22 10:00:00
@@ -94,7 +94,7 @@ I have tried to amalgamate the two frameworks along with systems and workspace t
 
 Below is a visualization of what I have come up with.
 
-![Putting It All Together](blog/assets/images/puttingitalltogether.png)
+![Putting It All Together](/assets/images/puttingitalltogether.png)
 
 At the bottom-left most corner, we have input, Jarche might associate this with his seeking level where we look for filtering networks of people, and find artefacts that are worth going through.
 
