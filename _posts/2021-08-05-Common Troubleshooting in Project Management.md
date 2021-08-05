@@ -54,7 +54,7 @@ Instead of communicating continuously, or on a just-in-time basis, experts sugge
 
 You can try the following techniques to communicate and plan better.
 
-Break the Project into Large Work-Items. The Large Work-Items can be broken down to Medium-Work-Items. The Medium Work Items can be broken down to Small Work Items. Repeat this process until you have work-items for which individuals are solely responsible for a single task.
+Break the Project into Large Work-Items. The Large Work-Items can be broken down to Medium Work-Items. The Medium Work-Items can be broken down to Small Work-Items. Repeat this process until you have Work-Items where individuals are solely responsible for a single task.
 
 Now let the team decide which work item they want to work on. Remember, this is done during a meeting, and these meetings are usually long. Make sure everyone is available for these meetings.
 
@@ -82,7 +82,7 @@ Provide everyone a template like this and request everyone to follow it for the 
 - What am I doing today (1 Minute)
 - What blocks am I facing currently (1 Minute)
 
-Do not try to solve these blocks immediately, unless they are solvable immediately. Take notes, and list the blocks. Prioritize these blocks and let the team think on how they can assist each other on solving these blocks. A **Team Wiki* can help everyone track and document the blocks and find solutions.
+Do not try to solve these blocks immediately, unless they are solvable immediately. Take notes, and list the blocks. Prioritize these blocks and let the team think on how they can assist each other on solving these blocks. A **Team Wiki** can help everyone track and document the blocks and find solutions.
 
 ## We feel like there is "no point in planning at all"
 
