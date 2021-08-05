@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html>
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>On Gaining Better Organization Scalability through a Class-based and Team-First Approach | PhinixBlogs</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="On Gaining Better Organization Scalability through a Class-based and Team-First Approach" />
+<meta name="author" content="Muhammad Mustafa Monowar" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or the number of processing units. The concept of Scalability has also been applied to Organizations in terms of how organizations can expand their operations to serve more customers with increased or more skilled Human Resources. For organizations, it is often more profitable to use less input for providing more output. For example, it seems if 5 administrative staff can take care of the administrative processes of 200 employees, it can be attempted to scale in two ways. The owner can assume there is an increase in the quality of skills of the administrative staff over time, and now 5 administrative staff can take care of 400 employees. Alternatively, the business owner may assume, there are fundamental limits to the ratio of administrative staff to regular employees. In such a case, an expansion from 200 employees to 400 employees may require expanding the number of administrative staff from 5 to 10. One is about the quality of input and the other is about the quantity of input. Unfortunately, Scalability is a complex phenomenon, precisely because Human beings are dynamic agents and can not be easily modeled by highly simple mathematical formulas. The larger the organization grows, the more complex its internal wiring becomes. Sometimes, this is good, as it serves for an internal dynamics equilibrium. But organizations are complex adaptive systems, and they do not operate discretely from larger adaptive systems within the society. Therefore, when external forces require shifts in way of work within the organization dynamics, larger and more established organizations may find it harder to manage major paradigm shifts than smaller and newer organizations. This seems, at the core, a design problem. To understand scalable infrastructure and organization, we may find the atom analogy useful. Atoms are said to be one of the building blocks of our physical reality. In the periodic table, atoms that are larger, are usually more unstable, and tend to break into smaller atoms. Smaller atoms on the other hand are relatively more stable. For the simplicity of understanding, we can assume that if a team is an atom of an organization, the larger the team, the more chances for it to be unstable. This poses a curious dilemma. If scaling is attempted on the quality side of input, it increases pressure on the team. If scaling is attempted on the quantity side of input, it increases chances of unstable dynamics. In both cases, the team performance is affected, which in turns could impact the organization itself. How are we to address this dilemma without getting biased on treating humans as inert objects? Here, my hypothesis is to design teams by limiting team members at a minimum size. Doing this might offer support in terms of team stability. The more stable a team is, we can assume, the more chances of the team to be tight-knit in their bonding and therefore ability to produce quality work through teamwork. So if the goal is to ensure the stability of atomic units of the organization, so that the organization scales well, how do we do this and what could be the implications given the optimization (or optimization failures)? My suggestion in this case is to keep a team size limited to 4-5 members. Furthermore, instead of having fixed division of task roles, where each team member works on siloed domains, a better alternative is to recruit team members based on classes. For example: in administration, a team of four could be given four distinct fixed work domains. No one interferes with another’s business, and over time siloed behavior emerges. To tackle the silo within teams, the concept of classes may be useful. It assumes that some people are good at executing technical tasks, while others are good at people handling. Some people may be very good at presenting the final work while others have a deeper understanding of how things actually work. I was inspired by a blog-post by Harold Jarche to conceive four fundamental classes for teams-design. Scholar Leader Executive Representative The concept of classes assumes that scholars are usually good at the domain of knowledge management, leaders are good at the domain of people management, executives are good at project management and representatives are good at customer relationship management. Note that the classes themselves do not define what tasks the team members will do, but rather predict the pattern of distribution of the tasks that a self-organizing team might make when dealing with assignments. The concept of classes also assumes that classes exhibit the strength and interests of a person that also overlaps with a team (organization) function. The specialization of a class is compensated by other class specialization. At the same time, when getting things done, it can be assumed that one class has less complete dominance over the rest. Because each of these classes work in a different domain of specialization, each team-members can then assume a temporary lead based on the need of the task or work and class specialization. One possible shortcoming of this hypothesis is rooted in the over-optimism that team cohesion works well based on specialization. The team-members may be very well specialized in their own domains but still not go along well. How to ensure this requires an entire different domain of research. Also, assuming that the team functions better with this limited number of members, we can also further argue that inter-team siloes could also emerge. I have given this some thought, and to me, it seems siloed behavior cannot be obliterated fully. But it seems that for scaling through increasing team-numbers (and not team member numbers), it could work better than having large departments. Then there is the need for the team to report to someone more experienced and with more responsibilities so that information about activities are compressed when they reach the top. For this, I believe Inter-Team and Intra-Class (ITIC) groups are helpful. For example, three teams work on three different projects. The leader-class-assuming-members of these three teams can belong to an ITIC group, led by a more senior leader class representative. In their book, “Team Topologies” Manuel Pais and Matthew Skelton argue that strictly hierarchical models (based on org-charts) are less effective than team-first approach. The class based approach seems aligned with their framework, both of the theories argue for preserving the atomicity of teams as important for scaling to larger organizations. A lot of unexpected situations can emerge when trying to put this theory forward in practice. For example, how do we make use of a situation when there is a shortage of representatives in one class and an overabundance of another? What happens when team members do not go along well despite their specialization? These questions need further thought. This is still in the early stage of a work in progress, and the suggestions generated are to be perfected through overcoming obstacles in practice. The class-based approach, for now, seems a good starting point for team design. Written by Muhammad Mustafa Monowar Photo by Brooke Cagle on Unsplash" />
+<meta property="og:description" content="The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or the number of processing units. The concept of Scalability has also been applied to Organizations in terms of how organizations can expand their operations to serve more customers with increased or more skilled Human Resources. For organizations, it is often more profitable to use less input for providing more output. For example, it seems if 5 administrative staff can take care of the administrative processes of 200 employees, it can be attempted to scale in two ways. The owner can assume there is an increase in the quality of skills of the administrative staff over time, and now 5 administrative staff can take care of 400 employees. Alternatively, the business owner may assume, there are fundamental limits to the ratio of administrative staff to regular employees. In such a case, an expansion from 200 employees to 400 employees may require expanding the number of administrative staff from 5 to 10. One is about the quality of input and the other is about the quantity of input. Unfortunately, Scalability is a complex phenomenon, precisely because Human beings are dynamic agents and can not be easily modeled by highly simple mathematical formulas. The larger the organization grows, the more complex its internal wiring becomes. Sometimes, this is good, as it serves for an internal dynamics equilibrium. But organizations are complex adaptive systems, and they do not operate discretely from larger adaptive systems within the society. Therefore, when external forces require shifts in way of work within the organization dynamics, larger and more established organizations may find it harder to manage major paradigm shifts than smaller and newer organizations. This seems, at the core, a design problem. To understand scalable infrastructure and organization, we may find the atom analogy useful. Atoms are said to be one of the building blocks of our physical reality. In the periodic table, atoms that are larger, are usually more unstable, and tend to break into smaller atoms. Smaller atoms on the other hand are relatively more stable. For the simplicity of understanding, we can assume that if a team is an atom of an organization, the larger the team, the more chances for it to be unstable. This poses a curious dilemma. If scaling is attempted on the quality side of input, it increases pressure on the team. If scaling is attempted on the quantity side of input, it increases chances of unstable dynamics. In both cases, the team performance is affected, which in turns could impact the organization itself. How are we to address this dilemma without getting biased on treating humans as inert objects? Here, my hypothesis is to design teams by limiting team members at a minimum size. Doing this might offer support in terms of team stability. The more stable a team is, we can assume, the more chances of the team to be tight-knit in their bonding and therefore ability to produce quality work through teamwork. So if the goal is to ensure the stability of atomic units of the organization, so that the organization scales well, how do we do this and what could be the implications given the optimization (or optimization failures)? My suggestion in this case is to keep a team size limited to 4-5 members. Furthermore, instead of having fixed division of task roles, where each team member works on siloed domains, a better alternative is to recruit team members based on classes. For example: in administration, a team of four could be given four distinct fixed work domains. No one interferes with another’s business, and over time siloed behavior emerges. To tackle the silo within teams, the concept of classes may be useful. It assumes that some people are good at executing technical tasks, while others are good at people handling. Some people may be very good at presenting the final work while others have a deeper understanding of how things actually work. I was inspired by a blog-post by Harold Jarche to conceive four fundamental classes for teams-design. Scholar Leader Executive Representative The concept of classes assumes that scholars are usually good at the domain of knowledge management, leaders are good at the domain of people management, executives are good at project management and representatives are good at customer relationship management. Note that the classes themselves do not define what tasks the team members will do, but rather predict the pattern of distribution of the tasks that a self-organizing team might make when dealing with assignments. The concept of classes also assumes that classes exhibit the strength and interests of a person that also overlaps with a team (organization) function. The specialization of a class is compensated by other class specialization. At the same time, when getting things done, it can be assumed that one class has less complete dominance over the rest. Because each of these classes work in a different domain of specialization, each team-members can then assume a temporary lead based on the need of the task or work and class specialization. One possible shortcoming of this hypothesis is rooted in the over-optimism that team cohesion works well based on specialization. The team-members may be very well specialized in their own domains but still not go along well. How to ensure this requires an entire different domain of research. Also, assuming that the team functions better with this limited number of members, we can also further argue that inter-team siloes could also emerge. I have given this some thought, and to me, it seems siloed behavior cannot be obliterated fully. But it seems that for scaling through increasing team-numbers (and not team member numbers), it could work better than having large departments. Then there is the need for the team to report to someone more experienced and with more responsibilities so that information about activities are compressed when they reach the top. For this, I believe Inter-Team and Intra-Class (ITIC) groups are helpful. For example, three teams work on three different projects. The leader-class-assuming-members of these three teams can belong to an ITIC group, led by a more senior leader class representative. In their book, “Team Topologies” Manuel Pais and Matthew Skelton argue that strictly hierarchical models (based on org-charts) are less effective than team-first approach. The class based approach seems aligned with their framework, both of the theories argue for preserving the atomicity of teams as important for scaling to larger organizations. A lot of unexpected situations can emerge when trying to put this theory forward in practice. For example, how do we make use of a situation when there is a shortage of representatives in one class and an overabundance of another? What happens when team members do not go along well despite their specialization? These questions need further thought. This is still in the early stage of a work in progress, and the suggestions generated are to be perfected through overcoming obstacles in practice. The class-based approach, for now, seems a good starting point for team design. Written by Muhammad Mustafa Monowar Photo by Brooke Cagle on Unsplash" />
+<link rel="canonical" href="https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach" />
+<meta property="og:url" content="https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach" />
+<meta property="og:site_name" content="PhinixBlogs" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-06-19T00:00:00+00:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="On Gaining Better Organization Scalability through a Class-based and Team-First Approach" />
+<meta name="twitter:site" content="@" />
+<meta name="twitter:creator" content="@mmmonowar" />
+<script type="application/ld+json">
+{"description":"The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or the number of processing units. The concept of Scalability has also been applied to Organizations in terms of how organizations can expand their operations to serve more customers with increased or more skilled Human Resources. For organizations, it is often more profitable to use less input for providing more output. For example, it seems if 5 administrative staff can take care of the administrative processes of 200 employees, it can be attempted to scale in two ways. The owner can assume there is an increase in the quality of skills of the administrative staff over time, and now 5 administrative staff can take care of 400 employees. Alternatively, the business owner may assume, there are fundamental limits to the ratio of administrative staff to regular employees. In such a case, an expansion from 200 employees to 400 employees may require expanding the number of administrative staff from 5 to 10. One is about the quality of input and the other is about the quantity of input. Unfortunately, Scalability is a complex phenomenon, precisely because Human beings are dynamic agents and can not be easily modeled by highly simple mathematical formulas. The larger the organization grows, the more complex its internal wiring becomes. Sometimes, this is good, as it serves for an internal dynamics equilibrium. But organizations are complex adaptive systems, and they do not operate discretely from larger adaptive systems within the society. Therefore, when external forces require shifts in way of work within the organization dynamics, larger and more established organizations may find it harder to manage major paradigm shifts than smaller and newer organizations. This seems, at the core, a design problem. To understand scalable infrastructure and organization, we may find the atom analogy useful. Atoms are said to be one of the building blocks of our physical reality. In the periodic table, atoms that are larger, are usually more unstable, and tend to break into smaller atoms. Smaller atoms on the other hand are relatively more stable. For the simplicity of understanding, we can assume that if a team is an atom of an organization, the larger the team, the more chances for it to be unstable. This poses a curious dilemma. If scaling is attempted on the quality side of input, it increases pressure on the team. If scaling is attempted on the quantity side of input, it increases chances of unstable dynamics. In both cases, the team performance is affected, which in turns could impact the organization itself. How are we to address this dilemma without getting biased on treating humans as inert objects? Here, my hypothesis is to design teams by limiting team members at a minimum size. Doing this might offer support in terms of team stability. The more stable a team is, we can assume, the more chances of the team to be tight-knit in their bonding and therefore ability to produce quality work through teamwork. So if the goal is to ensure the stability of atomic units of the organization, so that the organization scales well, how do we do this and what could be the implications given the optimization (or optimization failures)? My suggestion in this case is to keep a team size limited to 4-5 members. Furthermore, instead of having fixed division of task roles, where each team member works on siloed domains, a better alternative is to recruit team members based on classes. For example: in administration, a team of four could be given four distinct fixed work domains. No one interferes with another’s business, and over time siloed behavior emerges. To tackle the silo within teams, the concept of classes may be useful. It assumes that some people are good at executing technical tasks, while others are good at people handling. Some people may be very good at presenting the final work while others have a deeper understanding of how things actually work. I was inspired by a blog-post by Harold Jarche to conceive four fundamental classes for teams-design. Scholar Leader Executive Representative The concept of classes assumes that scholars are usually good at the domain of knowledge management, leaders are good at the domain of people management, executives are good at project management and representatives are good at customer relationship management. Note that the classes themselves do not define what tasks the team members will do, but rather predict the pattern of distribution of the tasks that a self-organizing team might make when dealing with assignments. The concept of classes also assumes that classes exhibit the strength and interests of a person that also overlaps with a team (organization) function. The specialization of a class is compensated by other class specialization. At the same time, when getting things done, it can be assumed that one class has less complete dominance over the rest. Because each of these classes work in a different domain of specialization, each team-members can then assume a temporary lead based on the need of the task or work and class specialization. One possible shortcoming of this hypothesis is rooted in the over-optimism that team cohesion works well based on specialization. The team-members may be very well specialized in their own domains but still not go along well. How to ensure this requires an entire different domain of research. Also, assuming that the team functions better with this limited number of members, we can also further argue that inter-team siloes could also emerge. I have given this some thought, and to me, it seems siloed behavior cannot be obliterated fully. But it seems that for scaling through increasing team-numbers (and not team member numbers), it could work better than having large departments. Then there is the need for the team to report to someone more experienced and with more responsibilities so that information about activities are compressed when they reach the top. For this, I believe Inter-Team and Intra-Class (ITIC) groups are helpful. For example, three teams work on three different projects. The leader-class-assuming-members of these three teams can belong to an ITIC group, led by a more senior leader class representative. In their book, “Team Topologies” Manuel Pais and Matthew Skelton argue that strictly hierarchical models (based on org-charts) are less effective than team-first approach. The class based approach seems aligned with their framework, both of the theories argue for preserving the atomicity of teams as important for scaling to larger organizations. A lot of unexpected situations can emerge when trying to put this theory forward in practice. For example, how do we make use of a situation when there is a shortage of representatives in one class and an overabundance of another? What happens when team members do not go along well despite their specialization? These questions need further thought. This is still in the early stage of a work in progress, and the suggestions generated are to be perfected through overcoming obstacles in practice. The class-based approach, for now, seems a good starting point for team design. Written by Muhammad Mustafa Monowar Photo by Brooke Cagle on Unsplash","headline":"On Gaining Better Organization Scalability through a Class-based and Team-First Approach","dateModified":"2021-06-19T00:00:00+00:00","datePublished":"2021-06-19T00:00:00+00:00","url":"https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://phinixgreen.github.io//phinixblogs/assets/images/wallwinterw.png"},"name":"Muhammad Mustafa Monowar"},"author":{"@type":"Person","name":"Muhammad Mustafa Monowar"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- RSS Settings -->
+    <link rel="alternate" type="application/atom+xml" title="News Feed" href="https://phinixgreen.github.io//site/feed.xml" />
+
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
+
+
+
+    <title>On Gaining Better Organization Scalability through a Class-based and Team-First Approach</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Styles'n'Scripts -->
+    <link rel="stylesheet" type="text/css" href="/phinixblogs/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/phinixblogs/assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="/phinixblogs/assets/built/syntax.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <style>.hljs { background: none; }</style>
+
+    <!--[if IE]>
+        <style>
+            p, ol, ul{
+                width: 100%;
+            }
+            blockquote{
+                width: 100%;
+            }
+        </style>
+    <![endif]-->
+    
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="PhinixBlogs" />
+    <link rel="shortcut icon" href="https://phinixgreen.github.io//phinixblogs/assets/images/wallwinterw.png" type="image/png" />
+    
+    <!-- the line below is supposed to add atom rss functionality-->
+    <link rel="alternate" type="application/atom+xml" title="PhinixBlogs" href="/feed.xml"> 
+    
+    <link rel="canonical" href="https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="PhinixBlogs" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="On Gaining Better Organization Scalability through a Class-based and Team-First Approach" />
+    <meta property="og:description" content="The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or" />
+    <meta property="og:url" content="https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach" />
+    <meta property="og:image" content="https://phinixgreen.github.io//phinixblogs/assets/images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg" />
+    <meta property="article:publisher" content="https://www.facebook.com/false" />
+    <meta property="article:author" content="https://www.facebook.com/false" />
+    <meta property="article:published_time" content="2021-06-19T00:00:00+00:00" />
+    <meta property="article:modified_time" content="2021-06-19T00:00:00+00:00" />
+    <meta property="article:tag" content="Team" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="On Gaining Better Organization Scalability through a Class-based and Team-First Approach" />
+    <meta name="twitter:description" content="The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or" />
+    <meta name="twitter:url" content="https://phinixgreen.github.io//phinixblogs/" />
+    <meta name="twitter:image" content="https://phinixgreen.github.io//phinixblogs/assets/images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="PhinixBlogs" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Team" />
+    <meta name="twitter:site" content="@mmmonowar" />
+    <meta name="twitter:creator" content="@mmmonowar" />
+    <meta property="og:image:width" content="1400" />
+    <meta property="og:image:height" content="933" />
+    
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "PhinixBlogs",
+        "logo": "https://phinixgreen.github.io//phinixblogs/assets/images/wallwinterw.png"
+    },
+    "url": "https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://phinixgreen.github.io//phinixblogs/assets/images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://phinixgreen.github.io//phinixblogs/Organization-Scalability-Class-based-Team-First-Approach"
+    },
+    "description": "The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or"
+}
+    </script>
+
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="On Gaining Better Organization Scalability through a Class-based and Team-First Approach" href="/phinixblogs/feed.xml" />
+  
+    <!-- Google Analytics Tracking code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69281367-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69281367-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-69281367-1');
+</script>
+
+</head>
+<body class="post-template">
+
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
+
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="https://phinixgreen.github.io//phinixblogs/"><img src="/phinixblogs/assets/images/wallwinterw.png" alt="PhinixBlogs" /></a>
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="/phinixblogs/">Home</a></li>
+    <li class="nav-about" role="menuitem"><a href="/phinixblogs/about/">About</a></li>
+<!--<li class="nav-getting-started" role="menuitem"><a href="/phinixblogs/tag/getting-started/">Getting Started</a></li>
+   <li class="nav-try-ghost" role="menuitem"><a href="https://ghost.org">Try Ghost</a></li> -->
+</ul>
+
+        
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            
+            
+                <a class="social-link social-link-tw" href="https://twitter.com/mmmonowar" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+</a>
+            
+        </div>
+        
+            <a class="subscribe-button" href="#subscribe">Subscribe</a>
+        
+    </div>
+</nav>
+    </div>
+</header>
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full  tag-team post ">
+
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime="19 June 2021">19 June 2021</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='/phinixblogs/tag/team/'>TEAM</a>
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">On Gaining Better Organization Scalability through a Class-based and Team-First Approach</h1>
+            </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(/phinixblogs/assets/images/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg)">
+            </figure>
+            
+
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <p>The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or the number of processing units. The concept of Scalability has also been applied to Organizations in terms of how organizations can expand their operations to serve more customers with increased or more skilled Human Resources.</p>
+
+<p>For organizations, it is often more profitable to use less input for providing more output. For example, it seems if 5 administrative staff can take care of the administrative processes of 200 employees, it can be attempted to scale in two ways. The owner can assume there is an increase in the quality of skills of the administrative staff over time, and now 5 administrative staff can take care of 400 employees. Alternatively, the business owner may assume, there are fundamental limits to the ratio of administrative staff to regular employees. In such a case, an expansion from 200 employees to 400 employees may require expanding the number of administrative staff from 5 to 10. One is about the quality of input and the other is about the quantity of input.</p>
+
+<p>Unfortunately, Scalability is a complex phenomenon, precisely because Human beings are dynamic agents and can not be easily modeled by highly simple mathematical formulas. The larger the organization grows, the more complex its internal wiring becomes. Sometimes, this is good, as it serves for an internal dynamics equilibrium. But organizations are complex adaptive systems, and they do not operate discretely from larger adaptive systems within the society. Therefore, when external forces require shifts in way of work within the organization dynamics, larger and more established organizations may find it harder to manage major paradigm shifts than smaller and newer organizations. 
+This seems, at the core, a design problem.</p>
+
+<p>To understand scalable infrastructure and organization, we may find the atom analogy useful. Atoms are said to be one of the building blocks of our physical reality. In the periodic table, atoms that are larger, are usually more unstable, and tend to break into smaller atoms. Smaller atoms on the other hand are relatively more stable.</p>
+
+<p>For the simplicity of understanding, we can assume that if a team is an atom of an organization, the larger the team, the more chances for it to be unstable. This poses a curious dilemma. If scaling is attempted on the quality side of input, it increases pressure on the team. If scaling is attempted on the quantity side of input, it increases chances of unstable dynamics. In both cases, the team performance is affected, which in turns could impact the organization itself.</p>
+
+<p>How are we to address this dilemma without getting biased on treating humans as inert objects?</p>
+
+<p>Here, my hypothesis is to design teams by limiting team members at a minimum size. Doing this might offer support in terms of team stability. The more stable a team is, we can assume, the more chances of the team to be tight-knit in their bonding and therefore ability to produce quality work through teamwork.</p>
+
+<p>So if the goal is to ensure the stability of atomic units of the organization, so that the organization scales well, how do we do this and what could be the implications given the optimization (or optimization failures)?</p>
+
+<p>My suggestion in this case is to keep a team size limited to 4-5 members. Furthermore, instead of having fixed division of task roles, where each team member works on siloed domains, a better alternative is to recruit team members based on classes. For example: in administration, a team of four could be given four distinct fixed work domains. No one interferes with another’s business, and over time siloed behavior emerges.</p>
+
+<p>To tackle the silo within teams, the concept of classes may be useful. It assumes that some people are good at executing technical tasks, while others are good at people handling. Some people may be very good at presenting the final work while others have a deeper understanding of how things actually work. I was inspired by a blog-post by Harold Jarche to conceive four fundamental classes for teams-design.</p>
+
+<ul>
+  <li>Scholar</li>
+  <li>Leader</li>
+  <li>Executive</li>
+  <li>Representative</li>
+</ul>
+
+<p>The concept of classes assumes that scholars are usually good at the domain of knowledge management, leaders are good at the domain of people management, executives are good at project management and representatives are good at customer relationship management. Note that the classes themselves do not define what tasks the team members will do, but rather predict the pattern of distribution of the tasks that a self-organizing team might make when dealing with assignments. The concept of classes also assumes that classes exhibit the strength and interests of a person that also overlaps with a team (organization) function. The specialization of a class is compensated by other class specialization. At the same time, when getting things done, it can be assumed that one class has less complete dominance over the rest. Because each of these classes work in a different domain of specialization, each team-members can then assume a temporary lead based on the need of the task or work and class specialization.</p>
+
+<p>One possible shortcoming of this hypothesis is rooted in the over-optimism that team cohesion works well based on specialization. The team-members may be very well specialized in their own domains but still not go along well. How to ensure this requires an entire different domain of research.</p>
+
+<p>Also, assuming that the team functions better with this limited number of members, we can also further argue that inter-team siloes could also emerge. I have given this some thought, and to me, it seems siloed behavior cannot be obliterated fully. But it seems that for scaling through increasing team-numbers (and not team member numbers), it could work better than having large departments.</p>
+
+<p>Then there is the need for the team to report to someone more experienced and with more responsibilities so that information about activities are compressed when they reach the top.</p>
+
+<p>For this, I believe Inter-Team and Intra-Class (ITIC) groups are helpful. For example, three teams work on three different projects. The leader-class-assuming-members of these three teams can belong to an ITIC group, led by a more senior leader class representative.</p>
+
+<p>In their book, “Team Topologies” Manuel Pais and Matthew Skelton argue that strictly hierarchical models (based on org-charts) are less effective than team-first approach. The class based approach seems aligned with their framework, both of the theories argue for preserving the atomicity of teams as important for scaling to larger organizations. A lot of unexpected situations can emerge when trying to put this theory forward in practice. For example, how do we make use of a situation when there is a shortage of representatives in one class and an overabundance of another? What happens when team members do not go along well despite their specialization? These questions need further thought. This is still in the early stage of a work in progress, and the suggestions generated are to be perfected through overcoming obstacles in practice. The class-based approach, for now, seems a good starting point for team design.</p>
+
+<hr />
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Written by Muhammad Mustafa Monowar
+Photo by Brooke Cagle on Unsplash
+</code></pre></div></div>
+
+<hr />
+
+                </div>
+            </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
+            
+                <section class="subscribe-form">
+                    <h3 class="subscribe-form-title">Subscribe to PhinixBlogs</h3>
+                    <p>Get the latest posts delivered right to your inbox</p>
+                    <!---
+<form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="mustafamonowar.esl@gmail.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+-->
+
+<form action="http://eepurl.com/hAV5YH" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+    <div class="mc-field-group">
+        <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
+        <input type="submit" value="Subscribe" name="subscribe" class="heart">
+    </div>
+</form>
+
+<style>
+    .wj-contact-form input {
+        vertical-align: middle;
+        margin-top: 0.25em;
+        margin-bottom: 0.5em;
+        padding: 0.75em;
+        font-family: monospace, sans-serif;
+        border:1px solid #444;
+        outline-color: #2e83e6;
+        border-radius: 3px;
+        transition: box-shadow .2s ease;
+    }
+    
+    .wj-contact-form input[type="submit"] {
+        background-color: #2e83e6;
+        border: 1px solid #2e83e6;;
+        color: #eee;
+    }
+</style> 
+                </section>
+            
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                        <section class="author-card">
+                            
+                                <img class="author-profile-image" src="/phinixblogs/assets/images/wallwinter.svg" alt="mmmonowar" />
+                            
+                            <section class="author-card-content">
+                                <h4 class="author-card-name"><a href="/phinixblogs/author/mmmonowar">Muhammad Mustafa Monowar</a></h4>
+                                
+                                    <p>Monowar is an HR Professional with a background in Philosophy and Humanities, with an interest in Technology and Innovation</p>
+                                
+                            </section>
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="/phinixblogs/author/mmmonowar">Read More</a>
+                        </div>
+                    
+                
+                <!-- /author  -->
+            </footer>
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+
+        </article>
+
+    </div>
+</main>
+
+<!-- Links to Previous/Next posts -->
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+                
+                
+                
+                
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(/phinixblogs/assets/images/blog-cover.jpg)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; PhinixBlogs &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="/phinixblogs/tag/team/">Team</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="/phinixblogs/The-A-Team">The A-Team</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <footer class="read-next-card-footer">
+                            <a href="/phinixblogs/tag/team/">
+                                
+                                    See all 1 posts  →
+                                
+                            </a>
+                        </footer>
+                    </article>
+                
+            
+
+            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/phinixblogs/Towards-Sustainable-Note-Taking">
+                <div class="post-card-image" style="background-image: url(/phinixblogs/assets/images/convertkit-RvPiAVE-zWo-unsplash.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/phinixblogs/Towards-Sustainable-Note-Taking">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Productivity</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Towards Sustainable Note-Taking</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>In 2016, I was a Masters Student at BRAC University, studying full-time, and yet faced a peculiar problem. I kept taking notes whenever I read a text, yet when needed, I had a</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/phinixblogs/assets/images/wallwinter.svg" alt="Muhammad Mustafa Monowar" />
+                        
+                        <span class="post-card-author">
+                            <a href="/phinixblogs/author/mmmonowar/">Muhammad Mustafa Monowar</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      3 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="/phinixblogs/Mediocrity,-Success-and-the-Four-Stages-of-Greatness">
+                <div class="post-card-image" style="background-image: url(/phinixblogs/assets/images/daniel-leone-g30P1zcOzXo-unsplash.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="/phinixblogs/Mediocrity,-Success-and-the-Four-Stages-of-Greatness">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Tenet</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">Mediocrity, Success and Four Stages of Finding Greatness</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>Most people who know or have heard the name of Einstein, hold him in great esteem, even though they have very little idea of how great his contributions were to humanity. That is</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="/phinixblogs/assets/images/wallwinter.svg" alt="Muhammad Mustafa Monowar" />
+                        
+                        <span class="post-card-author">
+                            <a href="/phinixblogs/author/mmmonowar/">Muhammad Mustafa Monowar</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      5 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
+
+        </div>
+    </div>
+</aside>
+
+<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="https://phinixgreen.github.io//phinixblogs/">
+            
+                <img src="/phinixblogs/assets/images/wallwinterw.png" alt="PhinixBlogs icon" />
+            
+            <span>PhinixBlogs</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">On Gaining Better Organization Scalability through a Class-based and Team-First Approach</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
+</svg>
+</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=On+Gaining+Better+Organization+Scalability+through+a+Class-based+and+Team-First+Approach&amp;url=https://phinixgreen.github.io/phinixblogsOrganization-Scalability-Class-based-Team-First-Approach"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://phinixgreen.github.io/phinixblogsOrganization-Scalability-Class-based-Team-First-Approach"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+        <!-- Previous/next page links - displayed on every page -->
+        
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="https://phinixgreen.github.io//phinixblogs/">PhinixBlogs</a> &copy; 2021</section>
+                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
+                    <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
+                <nav class="site-footer-nav">
+                    <a href="/phinixblogs/">Latest Posts</a>
+                    
+                    <a href="https://twitter.com/mmmonowar" target="_blank" rel="noopener">Twitter</a>
+                <!--  <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a> -->
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- The big email subscribe modal content -->
+    
+        <div id="subscribe" class="subscribe-overlay">
+            <a class="subscribe-overlay-close" href="#"></a>
+            <div class="subscribe-overlay-content">
+                
+                    <img class="subscribe-overlay-logo" src="/phinixblogs/assets/images/wallwinterw.png" alt="PhinixBlogs" />
+                
+                <h1 class="subscribe-overlay-title">Subscribe to PhinixBlogs</h1>
+                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+                <!---
+<form method="post" action="/subscribe/" class="">
+    <input class="confirm" type="hidden" name="confirm"  /><input class="location" type="hidden" name="location"  /><input class="referrer" type="hidden" name="referrer"  />
+
+    <div class="form-group">
+        <input class="subscribe-email" type="email" name="email"  placeholder="mustafamonowar.esl@gmail.com" />
+    </div>
+    <button class="" type="submit" disabled><span>Subscribe</span></button>
+    <script type="text/javascript">(function(g,h,o,s,t){h[o]('.location')[s]=h[o]('.location')[s] || g.location.href;h[o]('.referrer')[s]=h[o]('.referrer')[s] || h.referrer;})(window,document,'querySelector','value');</script>
+</form>
+
+-->
+
+<form action="http://eepurl.com/hAV5YH" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
+    <div class="mc-field-group">
+        <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on">
+        <input type="submit" value="Subscribe" name="subscribe" class="heart">
+    </div>
+</form>
+
+<style>
+    .wj-contact-form input {
+        vertical-align: middle;
+        margin-top: 0.25em;
+        margin-bottom: 0.5em;
+        padding: 0.75em;
+        font-family: monospace, sans-serif;
+        border:1px solid #444;
+        outline-color: #2e83e6;
+        border-radius: 3px;
+        transition: box-shadow .2s ease;
+    }
+    
+    .wj-contact-form input[type="submit"] {
+        background-color: #2e83e6;
+        border: 1px solid #2e83e6;;
+        color: #eee;
+    }
+</style> 
+            </div>
+        </div>
+    
+
+    <!-- highlight.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+    <script>$(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="/phinixblogs/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="/phinixblogs/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
+
+    <!-- Add Google Analytics  -->
+    <!-- Google Analytics Tracking code -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69281367-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69281367-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-69281367-1');
+</script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
+</html>

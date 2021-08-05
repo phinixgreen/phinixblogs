@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://phinixgreen.github.io//phinixblogs/feed/by_tag/Productivity.xml" rel="self" type="application/atom+xml" /><link href="https://phinixgreen.github.io//phinixblogs/" rel="alternate" type="text/html" /><updated>2021-08-05T12:45:22+00:00</updated><id>https://phinixgreen.github.io//phinixblogs/feed/by_tag/Productivity.xml</id><title type="html">PhinixBlogs</title><subtitle>PhinixBlogs</subtitle><entry><title type="html">A Guide To Choosing A Sustainable Tool Stack For Your Knowledge Base</title><link href="https://phinixgreen.github.io//phinixblogs/Guide-Sustainable-Tool-Stack-for-Knowledge-Base" rel="alternate" type="text/html" title="A Guide To Choosing A Sustainable Tool Stack For Your Knowledge Base" /><published>2021-07-19T00:00:00+00:00</published><updated>2021-07-19T00:00:00+00:00</updated><id>https://phinixgreen.github.io//phinixblogs/Guide-Sustainable-Tool-Stack-for-Knowledge-Base</id><content type="html" xml:base="https://phinixgreen.github.io//phinixblogs/Guide-Sustainable-Tool-Stack-for-Knowledge-Base">&lt;p&gt;In this post, I try to introduce my readers to the concept of a Tool Stack, and the benefits and challenges associated with using a Tool Stack for Knowledge Management. I have also tried to suggest that consciously planning a tool stack can help you, avoiding some of the common issues in managing Tool Stack including usability, affordability, integration and sustainability.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-tool-stack&quot;&gt;What is a Tool Stack?&lt;/h1&gt;
+
+&lt;p&gt;Simply put a Tool Stack is a modern way of saying that &lt;strong&gt;you have a collection of tools that you use together to complete a certain project or work&lt;/strong&gt;. A Tool Stack is like a Digital Tool Box, where each tool is either a Desktop Software, Web App or even Physical Objects. You usually have a certain workflow for these stacks, where information flows from one tool of the stack to another, depending on which phase of processing the information is.&lt;/p&gt;
+
+&lt;p&gt;For example: My note-taking Tool Stack includes Apple Notes (+iPencil), Physical Notebook (+Pen), Sublime Text, VS Code, Git and GitHub. I use these different tools for three different but overlapping functions- Note-taking, Note-Making and Note-Security. At each stage, the information that I collect flows from left to right of these tools, and when the information reaches the rightmost tool, I can say, a typical process has been accomplished.&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-knowledge-management&quot;&gt;What is Knowledge Management?&lt;/h1&gt;
+
+&lt;p&gt;In brief words, Knowledge Management is the system, the mechanism, the mindset and the processes used for managing your personal knowledge, and the knowledge of your team or organization. Knowledge Management is how you collect knowledge artefacts (data, information, knowledge or wisdom held in unitary items such as book, journal articles, news articles, encyclopedia etc.), absorb these artefacts to produce distilled or extended versions of artefacts that help you, your team, your organization or your client in accomplishing something (a project or task) in a better, smarter way.&lt;/p&gt;
+
+&lt;p&gt;I like the &lt;em&gt;Seek, Sense, Share&lt;/em&gt; Knowledge Management Framework by Harold Jarche, because it is compact, simple and easy to remember. According to Jarche (2014) himself, the &lt;em&gt;Seek, Sense, Share&lt;/em&gt; Framework is a “framework for individuals to take control of their professional development through a continuous process of seeking, sensing-making, and sharing” knowledge which” has potential to help each of us, the netizens, to make sense of our digital world and thereby work together more effectively.&lt;/p&gt;
+
+&lt;p&gt;If I got it correctly, Jarche’s framework helps us seek valid, and valuable sources of knowledge, absorb, understand and process the information that we get from these sources and make the world a better place by sharing the knowledge that we distilled or added to the existing body of work.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-challenges-of-using-a-tool-stack&quot;&gt;The Challenges of using a Tool Stack&lt;/h1&gt;
+
+&lt;p&gt;A fun fact about Knowledge Management and Tool Stack is that they go hand in hand.&lt;/p&gt;
+
+&lt;p&gt;Symbolically, Knowledge Management is more like our mind and the Tool Stack is more like the brain. The brain hosts the information, and although no one can see the information interacting with one another in our mind, the different responses produced by the modules of the brain, the actions and feedback is what others can see. In other words, most of the knowledge management process is something that you hold in your mind, it is mostly mental models and processes. The rest of the work of knowledge processing is done with the help of peripheral physical, hardware and software tools, which we call together a Tool Stack.&lt;/p&gt;
+
+&lt;p&gt;One difficulty that can arise commonly, is that we easily get enamoured with an interface and start right away with a tool with no well defined purposes. However, as time grows, chaos starts to ensue because of the lack of preplanning. Another difficulty that can arise with the Tool Stack, is the &lt;em&gt;Paralysis by Analysis&lt;/em&gt;- that is given too much of choice and information, we become confused as to what to choose for getting the work done.&lt;/p&gt;
+
+&lt;h1 id=&quot;consciously-preparing-for-a-tool-stack-for-knowledge-management&quot;&gt;Consciously Preparing for a Tool Stack for Knowledge Management&lt;/h1&gt;
+
+&lt;p&gt;Consciously preparing for a Tool Stack for Knowledge Management, might not guarantee that the system will provide maximum productivity, but it can at least prepare you for some unforeseen circumstances.&lt;/p&gt;
+
+&lt;p&gt;Here are two things to keep in mind when picking, choosing and architecting your Tool Stack for Knowledge Management.&lt;/p&gt;
+
+&lt;h1 id=&quot;things-to-keep-in-mind&quot;&gt;Things to Keep in Mind&lt;/h1&gt;
+
+&lt;h2 id=&quot;functions-of-the-framework&quot;&gt;Functions of the Framework&lt;/h2&gt;
+
+&lt;p&gt;Functions of the Framework that you are implementing is important to know because that is what you will be implementing. In the case of the &lt;em&gt;Seek, Sense, Share&lt;/em&gt; framework by Harold Jarche, our primary functions are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seeking Knowledge Sources: This could include seeking valid sources of information, collecting artefacts, storing and organizing artefacts&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sensing Knowledge Artefacts: This could include collecting information from the artefact, distilling information, understanding and visualizing information.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Sharing Knowledge Artefacts: This could include writing a draft of a your own article, sharing with a friend, or publishing in social media.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;platforms-where-these-functions-will-be-implemented&quot;&gt;Platforms where these Functions will be Implemented&lt;/h2&gt;
+
+&lt;p&gt;Now that we have our functions listed we can easily explore available tools to compare which tool is best fit for the functions. When judging the tools for use, you might benefit from keeping the usability, integration, affordability and sustainability of the tools in mind.&lt;/p&gt;
+
+&lt;p&gt;I have given some examples below.&lt;/p&gt;
+
+&lt;h3 id=&quot;usability-of-the-platform&quot;&gt;Usability of the Platform&lt;/h3&gt;
+
+&lt;p&gt;Let’s say, I want to choose a search engine or even a browser for seeking knowledge sources. I have a wide range of options from Edge, Firefox, Chrome, Safari to many other browsers. As well as search engines like Google, Bing and Yahoo. Different search engines usually produce differently indexed sources of information. Different browsers allow different kinds of reading and artefact exporting experiences. A simple act of choosing a browser, and a search engine therefore plays a huge role in what information I see first and access with ease.&lt;/p&gt;
+
+&lt;h3 id=&quot;integration-of-the-platforms&quot;&gt;Integration of the Platforms&lt;/h3&gt;
+
+&lt;p&gt;After usability, I might want to look at how the platform integrates with other platforms. For example, if I want to note information down from PDFs, then I will need at least a PDF reader, a Note-taking App, and a Note Storage App. How these three functions are best implemented depends on how well the platforms that I choose for implementing these functions separately integrate. Let’s say, if I have an app that has a PDF reader with a Note Feature and Note Storage, I might not need three different apps at all because they are all integrated (given that the app is usable).&lt;/p&gt;
+
+&lt;h3 id=&quot;affordability-of-the-platforms&quot;&gt;Affordability of the Platforms&lt;/h3&gt;
+
+&lt;p&gt;Now, let’s say I want to use a note-taking app for processing my Knowledge Artefacts. I could go for paid Apple Store, or Play Store Apps such as GoodNotes, free options such as Google Keep, OneNote or Notion, or freemiums such as Evernote. Notice that all these options depend on the usability and integration as well. The affordability of the platform is also codependent on sustainability.&lt;/p&gt;
+
+&lt;h3 id=&quot;sustainability-of-the-platform&quot;&gt;Sustainability of the Platform&lt;/h3&gt;
+
+&lt;p&gt;Let’s say I have all of my platforms figured out. I have started my knowledge management journey. Things are going well, and I have almost five gigabytes of knowledge notes and pdfs stored in different systems. What could go wrong?&lt;/p&gt;
+
+&lt;p&gt;What if one of the apps that I use is discontinued. If it’s discontinued, it will probably mean I’ll have to relocate all my knowledge artefact storage and reintegrate them with the system.&lt;/p&gt;
+
+&lt;p&gt;Let’s even say, I don’t trust softwares and I prefer keeping hard copy notes. Oneday, there is a rain overflow, and all my books and notebooks could get destroyed in the water-logging.&lt;/p&gt;
+
+&lt;p&gt;This is why platform and sustainability matters a lot.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-benefits-of-using-a-tool-stack&quot;&gt;The Benefits of Using a Tool Stack&lt;/h1&gt;
+
+&lt;p&gt;Rants apart, a Tool Stack has some of the best advantages than an all-in solution. Firstly, there is no All-in Solution yet, and for good reasons. If there is one, that would be cloud storage. Everything can be hosted in the cloud, and performance of cloud solutions are still better and secure than other alternatives. Secondly, a Tool Stack uses a distributed approach, which is why, even if it is needed to be reconfigured it can be done easier than changing the whole system at once. You can even evolve the system slowly by &lt;em&gt;theseus shipping&lt;/em&gt; your system.&lt;/p&gt;
+
+&lt;h1 id=&quot;outlook&quot;&gt;Outlook&lt;/h1&gt;
+
+&lt;p&gt;In this article, we have looked at how and why you could choose a Tool Stack for Knowledge Management. I have only used a few instances of how to implement a Tool Stack, but the best thing is that you have all the freedom to get creative about architecting your own tool stack. I hope the information provided above will help you decide which tools you should pick for your toolstack so that you can manage your knowledge better.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Written by Muhammad Mustafa Monowar
+Photo by Farzad Nazifi on Unsplash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>Muhammad Mustafa Monowar</name></author><category term="Productivity" /><summary type="html">In this post, I try to introduce my readers to the concept of a Tool Stack, and the benefits and challenges associated with using a Tool Stack for Knowledge Management. I have also tried to suggest that consciously planning a tool stack can help you, avoiding some of the common issues in managing Tool Stack including usability, affordability, integration and sustainability.</summary></entry><entry><title type="html">Towards Sustainable Note-Taking</title><link href="https://phinixgreen.github.io//phinixblogs/Towards-Sustainable-Note-Taking" rel="alternate" type="text/html" title="Towards Sustainable Note-Taking" /><published>2021-07-17T00:00:00+00:00</published><updated>2021-07-17T00:00:00+00:00</updated><id>https://phinixgreen.github.io//phinixblogs/Towards-Sustainable-Note-Taking</id><content type="html" xml:base="https://phinixgreen.github.io//phinixblogs/Towards-Sustainable-Note-Taking">&lt;p&gt;In 2016, I was a Masters Student at BRAC University, studying full-time, and yet faced a peculiar problem. I kept taking notes whenever I read a text, yet when needed, I had a hard time finding them. My notes were all over the place, and I did not know how to organize my notes, let alone effectively make use of the notes that I have taken so meticulously.&lt;/p&gt;
+
+&lt;p&gt;So this forced me to look into a growing movement of note-taking frameworks and tools, to see how I could take notes easily, and yet sustain them as long as I can.&lt;/p&gt;
+
+&lt;h2 id=&quot;tools-mindsets-and-paradigm-shifts&quot;&gt;Tools, Mindsets and Paradigm Shifts&lt;/h2&gt;
+
+&lt;p&gt;The fundamental shift in my thinking started to begin when I was looking for a sustainable way to note-taking. I used to take notes in virtually all possible apps available to me. Google Keep, Apple Notes, Google Docs, Word, Pages. I realized that my notes were getting scattered due to easy access to quickly take notes. And that was only part of the equation.&lt;/p&gt;
+
+&lt;p&gt;Even after 2016 to mid 2017, I continued with this method, and still found that whenever I moved my Google Docs, Pages, or Word files from Google Drive to OneDrive, or Dropbox, files easily got corrupted. Needless to say, it was pretty frustrating. I was looking for a way to keep my notes safe. At the same time, I was looking to create a protocol for keeping these notes organized.&lt;/p&gt;
+
+&lt;p&gt;The first revolution in my thinking pattern started with Markdown. In an app called Notion. Even now, I write in markdown when possible. The thing with markdown and plain-text files is that they are virtually the most basic type of file, and do not easily get corrupted. More so, they can be translated into other file formats easily. Docx, EPUB, PDF you name it.&lt;/p&gt;
+
+&lt;h2 id=&quot;values-and-challenges&quot;&gt;Values and Challenges&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, not many proprietary softwares at the time allowed for plain-text note-taking. Those that did, required dedicated storage purchase. Even now, I am skeptical about keeping my files in Notion. There’s a strange phenomenon called the &lt;em&gt;Shiny Object Syndrome&lt;/em&gt; that leads individuals to using different apps at different times, shifting here and there, which obviously doesn’t help if you’re trying to build a sustainable knowledge-base.&lt;/p&gt;
+
+&lt;p&gt;Now we have Obsidian, Roam Research, as well as OneNote and Evernote in new updates. Still, I have decided to rely on plain-text files.&lt;/p&gt;
+
+&lt;p&gt;Plain-text files are easy to store, move, edit. The hard part is embedding files and other formats. You need to learn some syntax for that. The learning curve is a bit steep, but once I got the hang of it, and having been to both sides, I did not want to return to my old methods.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-i-am-now&quot;&gt;Where I am now&lt;/h2&gt;
+
+&lt;p&gt;I currently host my notes on GitHub. Github offers a few perks that are undeniably awesome. One of them is version control, and the others are additional features like integrating into a quick-built website or other services. Importing and exporting is also easier. It is, however, unlike OneDrive or Google Drive though, and the interface is quite a bit different.&lt;/p&gt;
+
+&lt;p&gt;Currently, I capture notes in Apple Notes, Physical Notebooks and Sublime Text depending on the situation. I write my reflections on these notes in VS Code, a fine tool for coding, but comes with a lot of perks for note-takers as well. Finally, I organize my notes in GitHub Repositories.&lt;/p&gt;
+
+&lt;h2 id=&quot;outlook&quot;&gt;Outlook&lt;/h2&gt;
+
+&lt;p&gt;I have shared a tool based approach, but there are other meta-frameworks involved. Zettelkasten by Niklas Luhmann and PARA by Tiago Forte, helped me a lot to organize my notes, and I hope to write about them at a later time.&lt;/p&gt;
+
+&lt;p&gt;I am sharing this with my fellow readers and knowledge-workers to inspire them to think about note-security and sustainability. We put a lot of effort, as researchers and free-thinkers, on the thought-works that we conceive. It’s a shame when these notes gets corrupted, or are lost due to lack of organization. Having a sustainable note-base can significantly boost your knowledge. Most of our works of knowledge, wisdom and data are scattered throughout social media. So why not own our own words and thoughts and keep them safe, organized and within our reach?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Written by Muhammad Mustafa Monowar
+Photo by ConvertKit on Unsplash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;</content><author><name>Muhammad Mustafa Monowar</name></author><category term="Productivity" /><summary type="html">In 2016, I was a Masters Student at BRAC University, studying full-time, and yet faced a peculiar problem. I kept taking notes whenever I read a text, yet when needed, I had a hard time finding them. My notes were all over the place, and I did not know how to organize my notes, let alone effectively make use of the notes that I have taken so meticulously.</summary></entry><entry><title type="html">Using Version Control, Markdown and LaTeX for Academic Writing</title><link href="https://phinixgreen.github.io//phinixblogs/Using-Version-Control-Markdown-and-LaTeX-for-Academic-Writing" rel="alternate" type="text/html" title="Using Version Control, Markdown and LaTeX for Academic Writing" /><published>2019-11-04T10:18:00+00:00</published><updated>2019-11-04T10:18:00+00:00</updated><id>https://phinixgreen.github.io//phinixblogs/Using-Version-Control-Markdown-and-LaTeX-for-Academic-Writing</id><content type="html" xml:base="https://phinixgreen.github.io//phinixblogs/Using-Version-Control-Markdown-and-LaTeX-for-Academic-Writing">&lt;p&gt;Academic writing workflow is a very essential part of academic research.
+Having a feasible and sustainable writing system is a growing concern
+for many academics. This post will describe a writing method that was
+tested for writing a paper.&lt;/p&gt;
+
+&lt;p&gt;The goal is to have a system that is feasible, sustainable over time and
+accessible from anywhere. Central to this mechanism is the philosophy of
+&lt;strong&gt;Version Control&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;According to &lt;a href=&quot;https://www.atlassian.com/git/tutorials/what-is-version-control&quot;&gt;Atlassian&lt;/a&gt;{.markup–anchor
+.markup–p-anchor} -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Version control systems are a category of software tools that help a
+software team manage changes to source code over time. Version control
+software keeps track of every modification to the code in a special
+kind of database. If a mistake is made, developers can turn back the
+clock and compare earlier versions of the code to help fix the mistake
+while minimizing disruption to all team members.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There are many tools which can be used for &lt;strong&gt;Version Control&lt;/strong&gt;. GitHub
+is one prominent tool. According to &lt;a href=&quot;https://kinsta.com/knowledgebase/what-is-github/&quot;&gt;Kinsta&lt;/a&gt;{.markup–anchor
+.markup–p-anchor} -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“GitHub is a website and cloud-based service that helps […] store
+and manage […] as well as track and control changes to code.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although primarily used for software testing, academics can make use of
+this service for academic writings.&lt;/p&gt;
+
+&lt;p&gt;The other tools needed for this method are &lt;strong&gt;Markdown&lt;/strong&gt; and &lt;strong&gt;LaTeX&lt;/strong&gt;
+editors. According to
+&lt;a href=&quot;https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html&quot;&gt;Ultraedit&lt;/a&gt;{.markup–anchor
+.markup–p-anchor}, &lt;strong&gt;Markdown&lt;/strong&gt; is -&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“a plain text formatting syntax aimed at making writing for the
+internet easier.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It is a good tool for drafting papers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; is document preparation system which can be used for preparing
+final product of the draft for presentation and submission.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Atom&lt;/strong&gt; and &lt;strong&gt;Overleaf&lt;/strong&gt; are two services that were used for this
+method.&lt;/p&gt;
+
+&lt;h4 id=&quot;methodology&quot;&gt;Methodology&lt;/h4&gt;
+
+&lt;p&gt;The following methods were followed for setting up the system. First, a
+&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;{.markup–anchor .markup–p-anchor}
+repository was opened. Second, &lt;a href=&quot;https://desktop.github.com&quot;&gt;GitHub
+Desktop&lt;/a&gt;{.markup–anchor .markup–p-anchor}
+was downloaded and installed. The software can be logged in to using
+respective GitHub Account. Third,
+&lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt;{.markup–anchor .markup–p-anchor} was
+downloaded and installed. Atom can be integrated with GitHub.&lt;/p&gt;
+
+&lt;p&gt;The annotations for sample papers were pre-collected. Each section of
+the paper were divided into single .md file. These files were edited in
+Atom. Each .md file had multiple quotes, references and questions. The
+quotes were used and elaborated to answer the questions as well as
+evaluated when necessary. The references were collected in a
+separated .md file called “References” and the BibTeX format was pasted
+in the References section.&lt;/p&gt;
+
+&lt;p&gt;Finally, when the drafting was done, all the references were pasted
+in .bib file of &lt;a href=&quot;http://overleaf.com/&quot;&gt;Overleaf&lt;/a&gt;{.markup–anchor
+.markup–p-anchor} project. The sections were copied and pasted in the
+corresponding parts of the Overleaf project. The Overleaf back end was
+scanned for citation linking and errors. Afterwards, the project was
+ready for compilation.&lt;/p&gt;
+
+&lt;h4 id=&quot;evaluation&quot;&gt;Evaluation&lt;/h4&gt;
+
+&lt;p&gt;The method has several benefits. Markdown software are easy to set up
+and the protocol for markdown is same regardless of software. Version
+control enables tracking the changes in markdown file which is good for
+reviewing. GitHub provides cloud service, meaning it can be accessed and
+edited from most compatible devices. Furthermore, Atom can be customized
+and adapted to suit the visual and technical needs of the writer. GitHub
+also allows for project management and collaboration. The method
+described is manual, and might take a lot of effort to learn and deploy.
+It is therefore recommended to test several times before actually using
+for a project.&lt;/p&gt;
+
+&lt;h4 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h4&gt;
+
+&lt;p&gt;A good drafting strategy can take away the burden of organizing new
+systems over and over again. The described system have been proven to be
+feasible and sustainable to the author. GitHub, Markdown and LaTeX are
+often closely compatible. It may also be possible to automate this
+method further.&lt;/p&gt;
+
+&lt;h4 id=&quot;conflict-ofinterest&quot;&gt;Conflict of Interest&lt;/h4&gt;
+
+&lt;p&gt;The author was not sponsored by any of the product or website mentioned.&lt;/p&gt;
+
+&lt;h4 id=&quot;references&quot;&gt;References&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Atlassian&lt;/em&gt;. What is version control. Retrieved from
+{&lt;a href=&quot;https://www.atlassian.com/git/tutorials/what-is-version-control&quot;&gt;https://www.atlassian.com/git/tutorials/what-is-version-control&lt;/a&gt;},
+accessed 11–04–2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Kinsta&lt;/em&gt;. What Is GitHub? A Beginner’s Introduction to GitHub. Retrieved
+from {&lt;a href=&quot;https://kinsta.com/knowledgebase/what-is-github/&quot;&gt;https://kinsta.com/knowledgebase/what-is-github/&lt;/a&gt;}, accessed
+11–04–2019.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ultraedit&lt;/em&gt;. What is Markdown, and why should you use it? (4 reasons).
+Retrieved from
+{&lt;a href=&quot;https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html&quot;&gt;https://www.ultraedit.com/company/blog/community/what-is-markdown-why-use-it.html&lt;/a&gt;},
+accessed 11–04–2019.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;By &lt;a href=&quot;https://medium.com/@mmmonowar&quot;&gt;Muhammad Mustafa Monowar&lt;/a&gt;
+Exported from &lt;a href=&quot;https://medium.com&quot;&gt;Medium&lt;/a&gt; on June 11, 2021.&lt;/p&gt;
+
+&lt;p&gt;Photo by Joshua Aragon on Unsplash&lt;/p&gt;</content><author><name>Muhammad Mustafa Monowar</name></author><category term="Productivity" /><summary type="html">Academic writing workflow is a very essential part of academic research. Having a feasible and sustainable writing system is a growing concern for many academics. This post will describe a writing method that was tested for writing a paper.</summary></entry></feed>

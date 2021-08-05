@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+>
+	<channel>
+		<title>PhinixBlogs</title>
+		<description>PhinixBlogs</description>		
+		<sy:updatePeriod>daily</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<link> https://phinixgreen.github.io//phinixblogs/author/</link>
+		<atom:link href="https://phinixgreen.github.io//phinixblogs/tag/book-review/feed.xml" rel="self" type="application/rss+xml" />
+		<lastBuildDate>Thu, 05 Aug 2021 10:00:00 +0000</lastBuildDate>
+		
+		
+			<item>
+				<title>Some Strategies to Tackle Frequently Faced Problems in Project Management</title>
+				
+				
+					<description>&lt;p&gt;One of our community members, when asked about their experience of managing projects, shared that, their “experience is like making [their] way through a sludge of obstacles however [they] can”.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 05 Aug 2021 10:00:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Common-Troubleshooting-in-Project-Management</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>Explaining the Workspace Theory for Knowledge Management</title>
+				
+				
+					<description>&lt;p&gt;This document outlines the explanation for the presentation titled &lt;a href=&quot;https://github.com/phinixgreen/portfolio/releases/tag/v1.0&quot;&gt;“Workspace Theory for Knowledge Management”&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 22 Jul 2021 10:00:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Explaining-the-Workspace-Theory-for-Knowledge-Management</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>A Guide To Choosing A Sustainable Tool Stack For Your Knowledge Base</title>
+				
+				
+					<description>&lt;p&gt;In this post, I try to introduce my readers to the concept of a Tool Stack, and the benefits and challenges associated with using a Tool Stack for Knowledge Management. I have also tried to suggest that consciously planning a tool stack can help you, avoiding some of the common issues in managing Tool Stack including usability, affordability, integration and sustainability.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Guide-Sustainable-Tool-Stack-for-Knowledge-Base</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>Towards Sustainable Note-Taking</title>
+				
+				
+					<description>&lt;p&gt;In 2016, I was a Masters Student at BRAC University, studying full-time, and yet faced a peculiar problem. I kept taking notes whenever I read a text, yet when needed, I had a hard time finding them. My notes were all over the place, and I did not know how to organize my notes, let alone effectively make use of the notes that I have taken so meticulously.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 17 Jul 2021 00:00:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Towards-Sustainable-Note-Taking</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>On Gaining Better Organization Scalability through a Class-based and Team-First Approach</title>
+				
+				
+					<description>&lt;p&gt;The term Scalability is often mentioned when business owners are planning for rapid expansions in terms of the input and output capacity of their system or the business itself. In the technology domain, this could mean expanding the system capacity to serve more users by increasing the processing power or the number of processing units. The concept of Scalability has also been applied to Organizations in terms of how organizations can expand their operations to serve more customers with increased or more skilled Human Resources.&lt;/p&gt;
+
+&lt;p&gt;For organizations, it is often more profitable to use less input for providing more output. For example, it seems if 5 administrative staff can take care of the administrative processes of 200 employees, it can be attempted to scale in two ways. The owner can assume there is an increase in the quality of skills of the administrative staff over time, and now 5 administrative staff can take care of 400 employees. Alternatively, the business owner may assume, there are fundamental limits to the ratio of administrative staff to regular employees. In such a case, an expansion from 200 employees to 400 employees may require expanding the number of administrative staff from 5 to 10. One is about the quality of input and the other is about the quantity of input.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, Scalability is a complex phenomenon, precisely because Human beings are dynamic agents and can not be easily modeled by highly simple mathematical formulas. The larger the organization grows, the more complex its internal wiring becomes. Sometimes, this is good, as it serves for an internal dynamics equilibrium. But organizations are complex adaptive systems, and they do not operate discretely from larger adaptive systems within the society. Therefore, when external forces require shifts in way of work within the organization dynamics, larger and more established organizations may find it harder to manage major paradigm shifts than smaller and newer organizations. 
+This seems, at the core, a design problem.&lt;/p&gt;
+
+&lt;p&gt;To understand scalable infrastructure and organization, we may find the atom analogy useful. Atoms are said to be one of the building blocks of our physical reality. In the periodic table, atoms that are larger, are usually more unstable, and tend to break into smaller atoms. Smaller atoms on the other hand are relatively more stable.&lt;/p&gt;
+
+&lt;p&gt;For the simplicity of understanding, we can assume that if a team is an atom of an organization, the larger the team, the more chances for it to be unstable. This poses a curious dilemma. If scaling is attempted on the quality side of input, it increases pressure on the team. If scaling is attempted on the quantity side of input, it increases chances of unstable dynamics. In both cases, the team performance is affected, which in turns could impact the organization itself.&lt;/p&gt;
+
+&lt;p&gt;How are we to address this dilemma without getting biased on treating humans as inert objects?&lt;/p&gt;
+
+&lt;p&gt;Here, my hypothesis is to design teams by limiting team members at a minimum size. Doing this might offer support in terms of team stability. The more stable a team is, we can assume, the more chances of the team to be tight-knit in their bonding and therefore ability to produce quality work through teamwork.&lt;/p&gt;
+
+&lt;p&gt;So if the goal is to ensure the stability of atomic units of the organization, so that the organization scales well, how do we do this and what could be the implications given the optimization (or optimization failures)?&lt;/p&gt;
+
+&lt;p&gt;My suggestion in this case is to keep a team size limited to 4-5 members. Furthermore, instead of having fixed division of task roles, where each team member works on siloed domains, a better alternative is to recruit team members based on classes. For example: in administration, a team of four could be given four distinct fixed work domains. No one interferes with another’s business, and over time siloed behavior emerges.&lt;/p&gt;
+
+&lt;p&gt;To tackle the silo within teams, the concept of classes may be useful. It assumes that some people are good at executing technical tasks, while others are good at people handling. Some people may be very good at presenting the final work while others have a deeper understanding of how things actually work. I was inspired by a blog-post by Harold Jarche to conceive four fundamental classes for teams-design.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Scholar&lt;/li&gt;
+  &lt;li&gt;Leader&lt;/li&gt;
+  &lt;li&gt;Executive&lt;/li&gt;
+  &lt;li&gt;Representative&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The concept of classes assumes that scholars are usually good at the domain of knowledge management, leaders are good at the domain of people management, executives are good at project management and representatives are good at customer relationship management. Note that the classes themselves do not define what tasks the team members will do, but rather predict the pattern of distribution of the tasks that a self-organizing team might make when dealing with assignments. The concept of classes also assumes that classes exhibit the strength and interests of a person that also overlaps with a team (organization) function. The specialization of a class is compensated by other class specialization. At the same time, when getting things done, it can be assumed that one class has less complete dominance over the rest. Because each of these classes work in a different domain of specialization, each team-members can then assume a temporary lead based on the need of the task or work and class specialization.&lt;/p&gt;
+
+&lt;p&gt;One possible shortcoming of this hypothesis is rooted in the over-optimism that team cohesion works well based on specialization. The team-members may be very well specialized in their own domains but still not go along well. How to ensure this requires an entire different domain of research.&lt;/p&gt;
+
+&lt;p&gt;Also, assuming that the team functions better with this limited number of members, we can also further argue that inter-team siloes could also emerge. I have given this some thought, and to me, it seems siloed behavior cannot be obliterated fully. But it seems that for scaling through increasing team-numbers (and not team member numbers), it could work better than having large departments.&lt;/p&gt;
+
+&lt;p&gt;Then there is the need for the team to report to someone more experienced and with more responsibilities so that information about activities are compressed when they reach the top.&lt;/p&gt;
+
+&lt;p&gt;For this, I believe Inter-Team and Intra-Class (ITIC) groups are helpful. For example, three teams work on three different projects. The leader-class-assuming-members of these three teams can belong to an ITIC group, led by a more senior leader class representative.&lt;/p&gt;
+
+&lt;p&gt;In their book, “Team Topologies” Manuel Pais and Matthew Skelton argue that strictly hierarchical models (based on org-charts) are less effective than team-first approach. The class based approach seems aligned with their framework, both of the theories argue for preserving the atomicity of teams as important for scaling to larger organizations. A lot of unexpected situations can emerge when trying to put this theory forward in practice. For example, how do we make use of a situation when there is a shortage of representatives in one class and an overabundance of another? What happens when team members do not go along well despite their specialization? These questions need further thought. This is still in the early stage of a work in progress, and the suggestions generated are to be perfected through overcoming obstacles in practice. The class-based approach, for now, seems a good starting point for team design.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Written by Muhammad Mustafa Monowar
+Photo by Brooke Cagle on Unsplash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+</description>
+				
+				<pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Organization-Scalability-Class-based-Team-First-Approach</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>Mediocrity, Success and Four Stages of Finding Greatness</title>
+				
+				
+					<description>&lt;p&gt;Most people who know or have heard the name of Einstein, hold him in great esteem, even though they have very little idea of how great his contributions were to humanity. That is the difference between Mediocrity and Greatness. Each is an entirely different world, and alien to the inhabitants of the other.&lt;/p&gt;
+
+&lt;p&gt;Mediocrity, Success and Greatness, these are abstract concepts. A common nature of abstract terms is that they are easy to understand, hard to define. We agree which is what, but we cannot explain why things are so.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, Mediocrity, Success and Greatness all have characteristics that can be understood. When asked to identify the wisdom of the crowd, we are quick to give a verdict on their mediocrity. Yet, when asked to point out a truly mediocre person, we are doomed to fail.&lt;/p&gt;
+
+&lt;p&gt;I see this as an interesting phenomenon. Mediocrity seems to be a collective attribute, and not an individual one. Commonplace behavior such as pouting when taking selfies, or spending time in social media, or binging on Netflix, engaging in small-talk, are some of the often cited mediocre behaviors. A behavior, therefore, seems to become mediocre when it is widely replicated.&lt;/p&gt;
+
+&lt;p&gt;Does this have any implication for being successful?&lt;/p&gt;
+
+&lt;p&gt;Depends on how we see success. What is the difference between a person who is truly genius, leaves a vast treasure of knowledge in plain sight, and a person who rises to fame leveraging on mediocre public behavior. Two entirely different domains of talent. Those who leverage mediocre behavior are themselves not mediocre, they simply make use of mass interests. A silent genius on the other hand, is too busy creating value, to focus on leveraging mediocre behavior. Who is more successful?&lt;/p&gt;
+
+&lt;p&gt;Hard to say. The person who leverages mediocre behavior, no doubt a talent, is incredibly social, has wide networks and outreach. Yet, when it comes to subject matter, they are far from a genius’ depth of knowledge. And what about the geniuses? Success, it seems, has a price for them as well. The very advantage of living in the extremely deep roots of knowledge, the fringe domains of interest and insightful way of thinking falls short in social interaction. Very few take interest in what they have to say.&lt;/p&gt;
+
+&lt;p&gt;We often equate success with greatness. Possibly because success is associated with quantity. But greatness is not just about quantity. It has an intrinsic quality that makes it stand out from success.&lt;/p&gt;
+
+&lt;p&gt;Take a rickshaw puller for example, who rises to fame for being a viral singer. The momentary greatness that gave everyone joy, soon becomes commodified, and now their fame may define their sudden success, but it does not guarantee continuation of the spark of greatness.&lt;/p&gt;
+
+&lt;p&gt;That brings us to the fundamental difference between mediocrity and greatness. Mediocrity demands us to be mediocre for the sake of pleasing mediocre behavior. It limits our potentials to what we could be. Greatness on the other hand is unbound and limitless. Socrates was famously said to have claimed that he knew he was a wise man because he knew that he knew nothing. Greatness is attained when we are open to possibilities. The pursuit of greatness takes us out of our comfort zone, that boundary within mediocre practices.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the path to greatness has always been solo. Great minds, who surfed the fringes of the sea of knowledge, were often misunderstood, or even isolated. By thumb rule, no human is mediocre, and every human being is at some stage of greatness. We, therefore, now turn to the four stages in the pursuit of greatness.&lt;/p&gt;
+
+&lt;p&gt;The first stage is characterised by loneliness. We intuitively realize that there is something unique in us, that others fail to understand or even value. We can choose to be mediocre by abandoning this uniqueness for the sake of immediate success and gratification. Interestingly, when we immerse ourselves in mediocre behavior, we are the happiest and most ignorant. Most of us would desire this state. Yet, when we return home, we realize that something was not understood, and therefore we crave to be understood for those parts. For these reasons, loneliness is perhaps the most universally common state of mind.&lt;/p&gt;
+
+&lt;p&gt;However, some people choose to follow their instincts and pursue the unique things they feel they have. This can be a new skill or a pursuit of areas of a knowledge expertise or even self-mastery. The evident result is that being misunderstood by those who are still in the first stage. Because they are still stuck in the mediocre boundaries, they resent those who have set themselves free from it. The journey therefore begins alone. It takes immense courage to leave mediocrity to pursue something that is unique. But the path to greatness has only been set off.&lt;/p&gt;
+
+&lt;p&gt;In the third stage, those who have begun their journey alone, are soon resented by those who cannot free themselves. In their pursuit, they start to feel that they are slowly becoming isolated from others. They realize they enjoy quality time doing things that have intrinsic value rather than waste time pretending to mimic mediocrity. Isolation grows severe everyday, and the seeker of great things starts to doubt their journey. Once again, they feel they are missing something.&lt;/p&gt;
+
+&lt;p&gt;In the final stage, they realize what they were missing. They were missing themselves. They had been looking for acceptance in others. In that subtle desire, they didn’t realize they were denying their own value. The resentment that they had escaped was still haunting them. That is, a part of them still thought and saw themselves as mediocre. But in the final stage, they no longer needed self affirmation, or appreciation from others. They understand that the path to greatness is better spent on valuing the present, the little gifts and great wisdom in those who came before them. Mediocre people now seem like children compared to them. Just as an adult would no longer feel interest to spend excessive time playing with children, the wise and great would find it more rewarding to spend time in solitude and pursue their work.&lt;/p&gt;
+
+&lt;p&gt;All human beings are born great, but somehow we seem to get stuck in mediocre play. For many, being mediocre is not often a choice. Everyday circumstance forces us to adapt to others, we are, after all, social beings. But the path to greatness is a conscious choice, and a choice always worth making.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Written by Muhammad Mustafa Monowar
+Photo by Daniel Leone on Unsplash
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+</description>
+				
+				<pubDate>Thu, 17 Jun 2021 10:18:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Mediocrity,-Success-and-the-Four-Stages-of-Greatness</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>A Strategy for Tackling ERP Implementation Failures</title>
+				
+				
+					<description>&lt;p&gt;In search of ways for tackling the challenge of ERP Implementation, I often stumble upon literature and conversations on failed ERP projects. Assuming that the researchers have found good incentives to look into this issue in details, this seems a genuine concern. Organizations in Bangladesh (at least from what I have gathered from my conversations with other professionals) find it extremely difficult to implement and sustain the integration of ERP into their working system.&lt;/p&gt;
+
+&lt;p&gt;In general, it is mostly in the interest of the Finance Department to control the ERP processes and add the best value to the customer organization. There are other systems, for Human Resources, Supply Chain Management, Warehouse Management Systems that can be implemented in softwares. The common trend in my network that I have seen so far is to identify everything as a single software.&lt;/p&gt;
+
+&lt;p&gt;Making this assumption, over-optimistic, might harm the implementation of ERP itself or the other “Greater Monoliths” that we assume we want to implement in our organization. We might want to change our assumptions or perspectives to see a better picture.&lt;/p&gt;
+
+&lt;p&gt;Firstly, ERP might be seen as one of the many big systems. Big systems are usually classified on the basis of Product Orientation. An example of the Production line software might be the Warehouse Management System. Human Resource on the other hand is a Non-Production Line Software. Solving and automating the issue of how to accept goods requires a different kind of thinking, and planning than that of the Human Capital Management software.&lt;/p&gt;
+
+&lt;p&gt;Secondly, ERP is often aimed to break enterprise silos, and it seems it is not effective in accomplishing such feats. This is because silos in the first place resist the implementation of ERP. ERP teams face further resistance, and therefore inertia in maintaining ERP systems. Upgrading the ERP will mean they have to break through the inertia.&lt;/p&gt;
+
+&lt;p&gt;Thirdly, the deadly combination of technological shortsightedness, “distorted incentive and highly insular career ladder” of those who control the ERP implementation, or have the power to allow ERP implementation to happen for the betterment of the Organization, create a hard-resistance environment for ERP teams to proceed through the implementation. Afterall, ERP teams look at the technical implementation mostly, and it is not possible to continue implementation without human-participations in it (1).&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, some organizations are indeed breaking through ERP implementation and upgradation inertia. A distinct characteristic of these organizations is that they see ERP as one of the many important systems in a complex app ecosystem architecture. They are embracing the concept utility ERP, which, I believe was inspired by Wardley Mappings in this &lt;a href=&quot;https://dzone.com/articles/assessing-legacy-erp-systems-with-wardley-maps&quot;&gt;source&lt;/a&gt;. Utilities are considered as the backbone of any civic infrastructure, and these are handled in a highly structured and routined manner. A useful strategy, it seems, is not to let Non-Production Line data and Production Line data mix with each other. By not mixing these two types of data sources and processing systems, it paves way for a better Enterprise Level Planning architecture for ERP and other types of Systems.&lt;/p&gt;
+
+&lt;p&gt;Leadership is very important for enterprise wide decisions. The more recent generations of workers seem to get the concept better than those who are on the opposite side of the table. Without the support and foresight of the top-management, the right incentives, resources, planning and strategies, ERP systems often fail at the head start. To tackle these challenges, the top-management can team up with these newer generations of employees to make use of the best of both parties.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 01 Jun 2021 10:18:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//A-Strategy-for-Tackling-ERP-Implentation-Failures</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>Some thoughts on prioritizing between tools and work</title>
+				
+				
+					<description>&lt;p&gt;The internet is literally crawling with tools that we can use to increase productivity. Does it imply that we should attempt to make the best use of ‘All’ of these tools as much as we can?&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 07 May 2021 10:18:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//Some-thoughts-on-prioritizing-between-tools-and-work</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>You Are Letting Social Media Destroy Your Life. Dont.</title>
+				
+				
+					<description>&lt;p&gt;Seriously. Don’t.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 18 Mar 2021 10:18:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//You-Are-Letting-Social-Media-Destroy-Your-Life-Dont</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+			<item>
+				<title>The World Needs You</title>
+				
+				
+					<description>&lt;p&gt;My pitch to you is simple. The world needs more people who think and care about others. It needs you.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 05 Mar 2021 10:18:00 +0000</pubDate>
+				<link> https://phinixgreen.github.io//phinixblogs//The-World-Needs-You</link>
+				<guid isPermaLink="true">https://phinixgreen.github.io//phinixblogs/author/</guid>
+			</item>
+		
+	</channel>
+</rss>
