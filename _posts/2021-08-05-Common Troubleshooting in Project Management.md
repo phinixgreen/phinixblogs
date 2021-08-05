@@ -105,5 +105,7 @@ Hopefully, deploying some of these techniques will help you mitigate project ris
 
 
 **References**
+
 [^1]: Daniel Goleman, 'The Brain and Emotional Intelligence: New Insights', Regional Business, 2011. 
+
 [^2]: [Agile Project Management by MIT OpenCourseWare](https://www.youtube.com/watch?v=nrfl6GAQy2s&pp=sAQA)
