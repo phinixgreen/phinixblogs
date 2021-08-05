@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/qijin-xu-kLiUO2I8Ajc-unsplash.jpg
+cover: assets/images/brands-people-Ax8IA8GAjVg-unsplash.jpg
 navigation: True
 title: Some Strategies to Tackle Frequently Faced Problems in Project Management
 date: 2021-08-05 10:00:00
@@ -102,6 +102,6 @@ Hopefully, deploying some of these techniques will help you mitigate project ris
 --- 
 
     Written by Muhammad Mustafa Monowar
-    Photo by Qijin Xu on Unsplash
+    Photo by Brands&People on Unsplash
 
 ---
