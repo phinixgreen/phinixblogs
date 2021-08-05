@@ -11,7 +11,7 @@ subclass: 'post'
 author: mmmonowar
 ---
 
-One of our community members, when asked about their experience of managing projects, shared that, their "experience is like making [their] way through a sludge of obstacles however [they] can"
+One of our community members, when asked about their experience of managing projects, shared that, their "experience is like making [their] way through a sludge of obstacles however [they] can".
 
 We hear you! Ask any project manager, you will hear a more or less similar kind of description of their experience. Management, however, sophisticated the word sounds, is often a mess of plans, processes and actions in reality. The good news is, you are not alone in this, and people have come up with effective strategies to make remedies to certain commonly faced problems. These strategies may not ensure complete removal of the problem, but it can mitigate them.
 
@@ -98,6 +98,9 @@ Hopefully, deploying some of these techniques will help you mitigate project ris
 ## References
 [^1]: Daniel Goleman, 'The Brain and Emotional Intelligence: New Insights', Regional Business, 2011. 
 [^2]: [Agile Project Management by MIT OpenCourseWare](https://www.youtube.com/watch?v=nrfl6GAQy2s&pp=sAQA)
+
+
+
 
 --- 
 
