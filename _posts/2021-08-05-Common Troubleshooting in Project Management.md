@@ -95,16 +95,15 @@ So keep a balance between documentation and action. Track the project progress, 
 Hopefully, deploying some of these techniques will help you mitigate project risks, and make things a bit smooth for everyone.
 
 
-## References
-[^1]: Daniel Goleman, 'The Brain and Emotional Intelligence: New Insights', Regional Business, 2011. 
-[^2]: [Agile Project Management by MIT OpenCourseWare](https://www.youtube.com/watch?v=nrfl6GAQy2s&pp=sAQA)
-
-
-
-
 --- 
 
     Written by Muhammad Mustafa Monowar
     Photo by Brands&People on Unsplash
 
 ---
+
+
+
+**References**
+[^1]: Daniel Goleman, 'The Brain and Emotional Intelligence: New Insights', Regional Business, 2011. 
+[^2]: [Agile Project Management by MIT OpenCourseWare](https://www.youtube.com/watch?v=nrfl6GAQy2s&pp=sAQA)
